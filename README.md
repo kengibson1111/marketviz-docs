@@ -14,6 +14,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Price-to-Book](financial/price-to-book.md) | The risk of paying a premium over asset value |
 | [Price-to-Sales](financial/price-to-sales.md) | Why high revenue multiples leave no room for error |
 | [Return on Equity](financial/return-on-equity.md) | What poor profit efficiency means for your investment |
+| [Revenue](financial/revenue.md) | How top-line sales trends reveal growth and sustainability risks |
 
 ## Usage
 
