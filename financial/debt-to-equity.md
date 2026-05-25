@@ -1,6 +1,8 @@
 # Debt-to-Equity Ratio: Investment Risk
 
-A high Debt-to-Equity (D/E) ratio significantly increases investment risk. It means a company relies heavily on borrowed money to fund operations. While this can amplify profits during boom times, it magnifies losses during downturns and makes the stock highly vulnerable to interest rate spikes and cash flow disruptions.
+This document focuses on **long-term** Debt-to-Equity — the ratio of obligations due beyond one year (bonds, term loans, long-term leases) to shareholders' equity. For short-term liquidity risk from obligations due within one year, see [Current Ratio](current-ratio.md).
+
+A high D/E ratio significantly increases investment risk. It means a company relies heavily on long-term borrowed money to fund operations. While this can amplify profits during boom times, it magnifies losses during downturns and makes the stock highly vulnerable to interest rate spikes and cash flow disruptions.
 
 ## Specific Risks of High D/E
 
