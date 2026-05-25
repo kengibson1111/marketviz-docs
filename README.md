@@ -12,6 +12,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Interest Coverage Ratio](financial/interest-coverage-ratio.md) | When a company can't cover its debt payments |
 | [Market Cap](financial/market-cap.md) | How company size relates to volatility and resilience |
 | [Price-to-Book](financial/price-to-book.md) | The risk of paying a premium over asset value |
+| [Price-to-Earnings](financial/price-to-earnings.md) | How valuation risk emerges when earnings expectations are too high |
 | [Price-to-Sales](financial/price-to-sales.md) | Why high revenue multiples leave no room for error |
 | [Return on Equity](financial/return-on-equity.md) | What poor profit efficiency means for your investment |
 | [Revenue](financial/revenue.md) | How top-line sales trends reveal growth and sustainability risks |
