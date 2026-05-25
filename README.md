@@ -8,6 +8,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 |--------|-------------|
 | [Current Ratio](financial/current-ratio.md) | How short-term liquidity risk affects financial stability |
 | [Debt-to-Equity](financial/debt-to-equity.md) | How heavy borrowing increases stock risk |
+| [Forward Annual Dividend](financial/forward-annual-dividend.md) | How projected dividends reveal income stability and valuation risk |
 | [Free Cash Flow](financial/free-cash-flow.md) | Why low cash generation signals danger |
 | [Interest Coverage Ratio](financial/interest-coverage-ratio.md) | When a company can't cover its debt payments |
 | [Market Cap](financial/market-cap.md) | How company size relates to volatility and resilience |
