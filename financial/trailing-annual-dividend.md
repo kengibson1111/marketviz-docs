@@ -1,0 +1,18 @@
+# Trailing Annual Dividend: Investment Risk
+
+The trailing annual dividend is primarily used in risk analysis to assess a company's historical payment capacity and to identify potential dividend traps. It serves as a grounded baseline of actual performance over the past 12 months, whereas forward-looking metrics are often based on estimates.
+
+## Primary Applications in Risk Analysis
+
+- **Identifying Dividend Traps:** A high trailing yield may not indicate a bargain; it often signals that a stock's price has plummeted due to deteriorating fundamentals while the dividend hasn't been officially cut yet.
+- **Payout Sustainability:** It is used to calculate the trailing payout ratio (dividends paid divided by trailing 12-month net income). A ratio consistently above 100% indicates a high risk that the company is paying dividends using debt or cash reserves, which is unsustainable.
+- **Verification of Consistency:** Investors use it to verify a company's track record of regular payments during varying market conditions, providing a "stress test" of past reliability.
+- **Lagging Indicator Risks:** In 2026, analysts caution that trailing data can be misleading if a company has recently announced a pivot in strategy or a major dividend cut that hasn't appeared in the last 12 months of actual cash outlays.
+
+## Comparison of Dividend Risk Metrics
+
+| Metric | Risk Focus | Data Source |
+| ------ | ---------- | ----------- |
+| Trailing Yield | Detecting historical inconsistency and "traps" caused by price drops. | Actual past 12 months |
+| Forward Yield | Estimating future cash flow reliability based on recent hikes/cuts. | Projected next 12 months |
+| Payout Ratio | Measuring the "margin of safety" between earnings and dividends. | Dividends vs. Earnings |
