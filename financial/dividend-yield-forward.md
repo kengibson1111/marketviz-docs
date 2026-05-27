@@ -1,0 +1,33 @@
+# Forward Dividend Yield: Investment Risk
+
+Forward dividend yield is used to identify "dividend traps" (an artificially high yield driven by a plummeting stock price), gauge the sustainability of payouts, and estimate a baseline income return for risk-adjusted portfolios. It provides a standardized way to evaluate risk and expected cash flow.
+
+## Identifying "Dividend Traps" and Price Risk
+
+Forward dividend yield moves inversely to a stock's share price: when a stock's price drops, its yield rises.
+
+- **The Risk Signal:** An unusually high forward yield often signals that the broader market expects the company's business model is failing or that a dividend cut is imminent.
+- **How It's Used:** Investors use forward yield to screen for signs of financial distress. A yield that suddenly spikes out of line with industry peers indicates a high probability of capital loss, prompting further investigation into the company's debt load and earnings.
+
+## Evaluating Dividend Sustainability
+
+The forward dividend yield calculation uses projected annual payouts. To analyze risk, investors compare this projection against the company's payout ratio (the percentage of net income or free cash flow paid out as dividends).
+
+- **The Risk Signal:** If the forward dividend yield results in a payout ratio exceeding 80% to 100%, the dividend is highly risky. It means the company is paying out more cash than it generates, which is unsustainable and threatens future capital reinvestment or operations.
+
+## Hedging Against Market Volatility
+
+For income-focused portfolios, forward dividend yield establishes a tangible floor on total return.
+
+- **The Risk Signal:** During bear markets or economic downturns, a stable, healthy forward dividend yield cushions against total portfolio losses.
+- **How It's Used:** Analysts use it to find mature, cash-rich companies with reliable forward metrics, avoiding the higher volatility risks associated with non-dividend-paying growth stocks.
+
+## Comparing Forward vs. Trailing Yield
+
+When analyzing risk, comparing the forward yield to the trailing yield (actual payouts over the previous 12 months) highlights management's expectations.
+
+- **The Risk Signal:** If a company's forward yield is significantly lower than its trailing yield, it indicates that management expects poorer performance and has reduced future dividend payments.
+
+## Further Reading
+
+To expand your fundamental analysis, review resources like [Investopedia's Forward Dividend Yield Guide](https://www.investopedia.com/terms/f/forward-dividend-yield.asp) or [Morningstar's Dividend Yield Definition](https://www.morningstar.com/investing-terms/dividend-yield-forward) for details on calculating expected returns.

@@ -10,6 +10,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Debt-to-Equity](financial/debt-to-equity.md) | How heavy borrowing increases stock risk |
 | [Forward Annual Dividend](financial/annual-dividend-forward.md) | How projected dividends reveal income stability and valuation risk |
 | [Forward Dividend Payout Ratio](financial/dividend-payout-forward.md) | How the ratio of projected dividends to earnings reveals dividend sustainability and traps |
+| [Forward Dividend Yield](financial/dividend-yield-forward.md) | How projected yield identifies dividend traps and gauges income sustainability |
 | [Free Cash Flow](financial/free-cash-flow.md) | Why low cash generation signals danger |
 | [Interest Coverage Ratio](financial/interest-coverage-ratio.md) | When a company can't cover its debt payments |
 | [Market Cap](financial/market-cap.md) | How company size relates to volatility and resilience |
