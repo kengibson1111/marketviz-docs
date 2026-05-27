@@ -1,28 +1,32 @@
-# Trailing Dividend Payout: Investment Risk
+# Trailing Dividend Payout Ratio: Investment Risk
 
-The trailing dividend payout (or trailing dividend yield) is the sum of all dividends paid out over the previous 12 months relative to the current share price. It is used in risk analysis to verify a company's historical payout consistency and evaluate dividend sustainability.
+The trailing dividend payout ratio is the percentage of a company's trailing 12-month (TTM) earnings that was paid out as dividends over the same period. It is calculated as total dividends paid divided by net income (or free cash flow). This ratio is used in risk analysis to verify a company's historical payout consistency and evaluate dividend sustainability.
+
+Note: The trailing dividend payout ratio is not the same as the trailing dividend yield. The payout ratio measures dividends relative to earnings, while the yield measures dividends relative to the current share price.
 
 ## Key Areas of Use in Risk Analysis
 
 ### Validating Forward Promises
 
-It measures what a company has actually delivered, helping you determine if a predicted or projected dividend yield is realistic or just an empty promise.
+The trailing payout ratio measures what a company has actually distributed relative to what it earned, helping you determine if a projected forward payout ratio is realistic or unsustainable.
 
-### Spotting "Yield Traps"
+### Spotting Unsustainable Payouts
 
-A dangerously high trailing yield often indicates that a stock's price has plummeted rather than an increase in the dividend. By looking at historical payouts, you can identify if a company's fundamentals are deteriorating.
+A trailing payout ratio near or above 100% means the company paid out most or all of its earnings as dividends. This leaves little margin for error — if revenue drops, the company may be forced to cut the dividend. By examining the historical payout ratio, you can identify whether a company's dividend is well-covered by earnings.
 
-### Evaluating Payout Ratios
+### Assessing Payout Stability
 
-When evaluating the trailing dividend payout against trailing 12-month (TTM) net income or free cash flow, you can calculate the payout ratio. A high payout ratio (e.g., above 75%) signals a higher risk, as the company is distributing almost all of its earnings and may be forced to cut the dividend if revenue falls.
+When the trailing payout ratio is consistently below 75%, the company has a buffer to maintain its dividend through earnings fluctuations. A ratio that has been climbing over several periods may signal deteriorating earnings or an overly aggressive dividend policy.
 
 For in-depth strategies on how to analyze these metrics and screen for safe income-generating stocks, consult the [Fidelity Dividend Income Strategy](https://digital.fidelity.com/prgw/digital/msw/details/DividendIncome).
 
-## Trailing vs. Forward Yield
+## Trailing Payout Ratio vs. Trailing Dividend Yield
 
-- **Trailing Yield:** Looks backward over the last 12 months. It shows the cash you would have received historically, but it can be thrown off by sudden dividend cuts or special one-time dividends.
-- **Forward Yield:** Looks ahead at the expected annualized dividend based on the most recent payout. It is more accurate for forecasting future income but assumes the company will not alter its dividend policy.
+- **Trailing Payout Ratio:** Dividends paid ÷ net income (TTM). Tells you how much of the company's earnings are being consumed by dividend obligations. A high ratio means less retained earnings for growth or debt reduction.
+- **Trailing Dividend Yield:** Dividends paid ÷ current share price. Tells you the income return relative to what you pay for the stock. A high yield can be misleading if it results from a falling stock price rather than generous payouts.
+
+These are complementary metrics. A stock can have a modest yield but a dangerously high payout ratio (low earnings), or a high yield with a comfortable payout ratio (strong earnings, depressed price).
 
 ## References
 
-- [Investopedia: Forward Dividend Yield Guide](https://www.investopedia.com/terms/f/forward-dividend-yield.asp)
+- [Investopedia: Dividend Payout Ratio Definition, Formula, and Calculation](https://www.investopedia.com/terms/d/dividendpayoutratio.asp)
