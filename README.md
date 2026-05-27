@@ -20,6 +20,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Return on Equity](financial/return-on-equity.md) | What poor profit efficiency means for your investment |
 | [Revenue](financial/revenue.md) | How top-line sales trends reveal growth and sustainability risks |
 | [Trailing Annual Dividend](financial/annual-dividend-trailing.md) | How past dividend payments reveal payout sustainability and dividend traps |
+| [Trailing Dividend Payout](financial/dividend-payout-trailing.md) | How historical dividend payouts reveal payout consistency and yield traps |
 
 ## Usage
 
