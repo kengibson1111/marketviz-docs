@@ -22,6 +22,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Revenue](financial/revenue.md) | How top-line sales trends reveal growth and sustainability risks |
 | [Trailing Annual Dividend](financial/annual-dividend-trailing.md) | How past dividend payments reveal payout sustainability and dividend traps |
 | [Trailing Dividend Payout](financial/dividend-payout-trailing.md) | How historical dividend payouts reveal payout consistency and yield traps |
+| [Trailing Dividend Yield](financial/dividend-yield-trailing.md) | How historical yield reveals dividend traps, sustainability, and relative valuation |
 
 ## Usage
 
