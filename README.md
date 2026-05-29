@@ -20,6 +20,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Price-to-Earnings](financial/price-to-earnings.md) | How valuation risk emerges when earnings expectations are too high |
 | [Price-to-Sales](financial/price-to-sales.md) | Why high revenue multiples leave no room for error |
 | [Return on Equity](financial/return-on-equity.md) | What poor profit efficiency means for your investment |
+| [Return on Investment](financial/return-on-investment.md) | How one-year ROI is used to measure volatility and benchmark performance |
 | [Revenue](financial/revenue.md) | How top-line sales trends reveal growth and sustainability risks |
 | [Trailing Annual Dividend](financial/annual-dividend-trailing.md) | How past dividend payments reveal payout sustainability and dividend traps |
 | [Trailing Dividend Payout](financial/dividend-payout-trailing.md) | How historical dividend payouts reveal payout consistency and yield traps |

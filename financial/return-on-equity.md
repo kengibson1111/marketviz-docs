@@ -24,6 +24,16 @@ A historically profitable company might have a low (or negative) ROE due to a te
 
 If the company returns most of its earnings to investors as cash dividends rather than retaining them for reinvestment, a low ROE can be offset by a steady dividend yield.
 
+## Trending ROE Over Time
+
+A single year's ROE is useful, but the trend over multiple years tells a more complete story:
+
+- **Declining ROE:** A steady drop over 3–5 years is a warning sign that the company's competitive advantage is eroding, margins are compressing, or management is making poor capital decisions.
+- **Volatile ROE:** Large swings year-to-year suggest inconsistent earnings quality, one-time charges, or cyclical exposure that increases uncertainty.
+- **Improving ROE:** A rising trend — especially when not driven by increasing debt — signals strengthening fundamentals and can indicate a turnaround worth watching.
+
+Always compare the ROE trend against industry peers. A company with a flat ROE in a sector where competitors are improving may be losing ground even if its absolute number looks acceptable.
+
 ## How to Evaluate
 
 To determine if a low ROE company is a value trap or a genuine bargain, evaluate these specific financial metrics:
