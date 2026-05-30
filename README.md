@@ -15,6 +15,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Free Cash Flow](financial/free-cash-flow.md) | Why low cash generation signals danger |
 | [Interest Coverage Ratio](financial/interest-coverage-ratio.md) | When a company can't cover its debt payments |
 | [Market Cap](financial/market-cap.md) | How company size relates to volatility and resilience |
+| [One-Month Return](financial/one-month-return.md) | How short-term returns reveal volatility, momentum, and risk-adjusted performance |
 | [PEG Ratio](financial/peg.md) | The risk of overpaying for growth that may not materialize |
 | [Price-to-Book](financial/price-to-book.md) | The risk of paying a premium over asset value |
 | [Price-to-Earnings](financial/price-to-earnings.md) | How valuation risk emerges when earnings expectations are too high |
