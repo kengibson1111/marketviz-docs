@@ -23,6 +23,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Return on Equity](financial/return-on-equity.md) | What poor profit efficiency means for your investment |
 | [Return on Investment](financial/return-on-investment.md) | How one-year ROI is used to measure volatility and benchmark performance |
 | [Revenue](financial/revenue.md) | How top-line sales trends reveal growth and sustainability risks |
+| [Three-Month Return](financial/three-month-return.md) | How the 3-month Treasury yield serves as the risk-free rate in risk-adjusted models |
 | [Trailing Annual Dividend](financial/annual-dividend-trailing.md) | How past dividend payments reveal payout sustainability and dividend traps |
 | [Trailing Dividend Payout](financial/dividend-payout-trailing.md) | How historical dividend payouts reveal payout consistency and yield traps |
 | [Trailing Dividend Yield](financial/dividend-yield-trailing.md) | How historical yield reveals dividend traps, sustainability, and relative valuation |
