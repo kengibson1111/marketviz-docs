@@ -28,6 +28,12 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Trailing Dividend Payout](financial/dividend-payout-trailing.md) | How historical dividend payouts reveal payout consistency and yield traps |
 | [Trailing Dividend Yield](financial/dividend-yield-trailing.md) | How historical yield reveals dividend traps, sustainability, and relative valuation |
 
+## Earnings Metrics
+
+| Metric | Description |
+|--------|-------------|
+| [Earnings Growth](earnings/earnings-growth.md) | How 5-year earnings growth reveals valuation risk and momentum sustainability |
+
 ## Usage
 
 These docs are designed to be linked from spreadsheet cells, dashboards, or other UI tools. Use the raw GitHub URL for each file:
