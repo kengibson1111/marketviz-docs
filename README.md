@@ -33,6 +33,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | Metric | Description |
 |--------|-------------|
 | [Earnings Growth](earnings/earnings-growth.md) | How 5-year earnings growth reveals valuation risk and momentum sustainability |
+| [Revenue Growth](earnings/revenue-growth.md) | How 5-year revenue growth reveals sustainability, valuation expectations, and operational risk |
 
 ## Usage
 
