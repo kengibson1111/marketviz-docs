@@ -35,6 +35,32 @@ A declining current ratio over several quarters may indicate deteriorating liqui
 
 Not all current assets are equally liquid. A company whose current assets are mostly cash is in a stronger position than one whose assets are tied up in slow-moving inventory.
 
+## Current Ratio vs. Quick Ratio
+
+The quick ratio (also called the acid-test ratio) is a stricter version of the current ratio. It strips out inventory and prepaid expenses from current assets, leaving only the most liquid items: cash, cash equivalents, short-term investments, and accounts receivable.
+
+**Quick Ratio = (Cash + Short-Term Investments + Accounts Receivable) ÷ Current Liabilities**
+
+### Key Differences
+
+| | Current Ratio | Quick Ratio |
+|---|---|---|
+| **Includes inventory** | Yes | No |
+| **Includes prepaid expenses** | Yes | No |
+| **Liquidity view** | Broad | Conservative |
+| **Best for** | Industries where inventory converts to cash quickly | Industries where inventory is slow-moving or hard to liquidate |
+
+### When to Prefer the Current Ratio
+
+- **Fast-turning inventory:** Retailers, grocery chains, and consumer staples companies sell through inventory rapidly. Excluding it from the liquidity picture would understate their true ability to meet obligations.
+- **Inventory-light businesses:** For service or software companies where inventory is minimal, the current ratio and quick ratio will be nearly identical anyway, so the current ratio is sufficient.
+- **Broad working capital health:** When you want a complete snapshot of all near-term resources available to cover liabilities — not just the most conservative slice — the current ratio gives a fuller picture.
+
+### When the Quick Ratio May Be More Appropriate
+
+- **Heavy or illiquid inventory:** Manufacturers, homebuilders, or specialty retailers with large, slow-moving inventory balances. If that inventory can't be sold quickly at fair value, the current ratio overstates real liquidity.
+- **Stress-testing solvency:** When evaluating whether a company could survive a sudden demand shock that renders inventory unsellable, the quick ratio provides a worst-case liquidity floor.
+
 ## Further Research
 
 To calculate and track this metric, use the [Bankrate Current Ratio Calculator](https://www.bankrate.com/business/current-ratio-calculator/) or explore the [Corporate Finance Institute Current Ratio Formula guide](https://corporatefinanceinstitute.com/resources/accounting/current-ratio-formula/) for in-depth examples. For broader context on liquidity ratios, check out the [Harvard Business School Online Liquidity Ratios guide](https://online.hbs.edu/blog/post/liquidity-ratios).
