@@ -6,6 +6,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 
 | Metric | Description |
 |--------|-------------|
+| [Cash Buffer](financial/cash-buffer.md) | How cash reserves protect against downside risk and financial distress |
 | [Current Ratio](financial/current-ratio.md) | How short-term liquidity risk affects financial stability |
 | [Debt-to-Equity](financial/debt-to-equity.md) | How heavy borrowing increases stock risk |
 | [Forward Annual Dividend](financial/annual-dividend-forward.md) | How projected dividends reveal income stability and valuation risk |
