@@ -12,6 +12,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Forward Annual Dividend](financial/annual-dividend-forward.md) | How projected dividends reveal income stability and valuation risk |
 | [Forward Dividend Payout Ratio](financial/dividend-payout-forward.md) | How the ratio of projected dividends to earnings reveals dividend sustainability and traps |
 | [Forward Dividend Yield](financial/dividend-yield-forward.md) | How projected yield identifies dividend traps and gauges income sustainability |
+| [Forward Price-to-Earnings](financial/price-to-earnings-forward.md) | How forward valuation risk increases when growth expectations are too aggressive |
 | [Five-Year Dividend Growth Rate](financial/dividend-growth-rate.md) | How dividend growth trends reveal financial stability and income risk |
 | [Free Cash Flow](financial/free-cash-flow.md) | Why low cash generation signals danger |
 | [Graham Formula](financial/graham-formula.md) | How intrinsic value and the Graham Number establish a margin of safety against overpaying |
@@ -21,7 +22,6 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [PEG Ratio](financial/peg.md) | The risk of overpaying for growth that may not materialize |
 | [Price-to-Book](financial/price-to-book.md) | The risk of paying a premium over asset value |
 | [Price-to-Earnings](financial/price-to-earnings.md) | How valuation risk emerges when earnings expectations are too high |
-| [Price-to-Earnings (Forward)](financial/price-to-earnings-forward.md) | How forward valuation risk increases when growth expectations are too aggressive |
 | [Price-to-Sales](financial/price-to-sales.md) | Why high revenue multiples leave no room for error |
 | [Return on Equity](financial/return-on-equity.md) | What poor profit efficiency means for your investment |
 | [Return on Investment](financial/return-on-investment.md) | How one-year ROI is used to measure volatility and benchmark performance |
