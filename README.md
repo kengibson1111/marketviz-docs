@@ -44,6 +44,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Earnings Quality](earnings/earnings-quality.md) | How earnings accuracy and cash-flow verification reveal overvaluation and accounting risk |
 | [Earnings Stability](earnings/earnings-stability.md) | How profit consistency signals resilience, dividend safety, and lower fundamental risk |
 | [EPS Projections](earnings/eps-projections.md) | How forward EPS estimates reveal valuation risk, earnings volatility, and growth-adjusted pricing |
+| [Five-Year CAGR](earnings/five-year-cagr.md) | How compound annual growth rate contextualizes historical performance and sets realistic risk expectations |
 | [Operating Leverage](earnings/operating-leverage.md) | How fixed-cost structures amplify earnings volatility and downside risk |
 | [Normalized EPS](earnings/normalized-eps.md) | How adjusted earnings per share reveal sustainable profitability and valuation risk |
 | [Quarterly EPS (As-Reported)](earnings/quarterly-eps.md) | How multi-year as-reported quarterly EPS reveals accounting red flags, dilution trends, and cyclical risk |
