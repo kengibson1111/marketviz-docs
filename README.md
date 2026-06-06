@@ -35,6 +35,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | Metric | Description |
 |--------|-------------|
 | [Earnings Growth](earnings/earnings-growth.md) | How 5-year earnings growth reveals valuation risk and momentum sustainability |
+| [Earnings Manipulation Detection](earnings/earnings-manipulation-detection.md) | How independent tools like the Beneish M-Score and Sloan Accrual Ratio detect earnings distortion |
 | [Earnings Quality](earnings/earnings-quality.md) | How earnings accuracy and cash-flow verification reveal overvaluation and accounting risk |
 | [Earnings Stability](earnings/earnings-stability.md) | How profit consistency signals resilience, dividend safety, and lower fundamental risk |
 | [Operating Leverage](earnings/operating-leverage.md) | How fixed-cost structures amplify earnings volatility and downside risk |

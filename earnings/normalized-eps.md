@@ -38,6 +38,8 @@ Normalized EPS allows you to compare financial health across industry peers on a
 - **Over-Smoothing:** Averaging earnings over a cycle can mask genuine structural deterioration in a business.
 - **Management Bias:** Companies may selectively classify negative items as non-recurring while treating positive items as core, skewing the normalized figure in their favor.
 
+Independent detection tools such as the Beneish M-Score, Sloan Accrual Ratio, and cash-flow variability analysis can help identify over-smoothing and management bias. See [Earnings Manipulation Detection](earnings-manipulation-detection.md) for details.
+
 ## Contextual Usage
 
 - **Value Investing:** Essential for determining whether a stock is genuinely undervalued or temporarily inflated by non-recurring gains.
