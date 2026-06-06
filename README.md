@@ -39,6 +39,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Earnings Manipulation Detection](earnings/earnings-manipulation-detection.md) | How independent tools like the Beneish M-Score and Sloan Accrual Ratio detect earnings distortion |
 | [Earnings Quality](earnings/earnings-quality.md) | How earnings accuracy and cash-flow verification reveal overvaluation and accounting risk |
 | [Earnings Stability](earnings/earnings-stability.md) | How profit consistency signals resilience, dividend safety, and lower fundamental risk |
+| [EPS Projections](earnings/eps-projections.md) | How forward EPS estimates reveal valuation risk, earnings volatility, and growth-adjusted pricing |
 | [Operating Leverage](earnings/operating-leverage.md) | How fixed-cost structures amplify earnings volatility and downside risk |
 | [Normalized EPS](earnings/normalized-eps.md) | How adjusted earnings per share reveal sustainable profitability and valuation risk |
 | [Revenue Growth](earnings/revenue-growth.md) | How 5-year revenue growth reveals sustainability, valuation expectations, and operational risk |
