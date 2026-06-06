@@ -38,6 +38,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Earnings Quality](earnings/earnings-quality.md) | How earnings accuracy and cash-flow verification reveal overvaluation and accounting risk |
 | [Earnings Stability](earnings/earnings-stability.md) | How profit consistency signals resilience, dividend safety, and lower fundamental risk |
 | [Operating Leverage](earnings/operating-leverage.md) | How fixed-cost structures amplify earnings volatility and downside risk |
+| [Normalized EPS](earnings/normalized-eps.md) | How adjusted earnings per share reveal sustainable profitability and valuation risk |
 | [Revenue Growth](earnings/revenue-growth.md) | How 5-year revenue growth reveals sustainability, valuation expectations, and operational risk |
 
 ## Usage
