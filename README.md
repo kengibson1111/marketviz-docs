@@ -16,6 +16,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Forward Price-to-Earnings](financial/price-to-earnings-forward.md) | How forward valuation risk increases when growth expectations are too aggressive |
 | [Five-Year Dividend Growth Rate](financial/dividend-growth-rate.md) | How dividend growth trends reveal financial stability and income risk |
 | [Free Cash Flow](financial/free-cash-flow.md) | Why low cash generation signals danger |
+| [Free Cash Flow to Equity](financial/free-cash-flow-to-equity.md) | How FCFE reveals dividend sustainability, shareholder yield, and equity-level risk |
 | [Free Cash Flow to Firm](financial/free-cash-flow-to-firm.md) | How FCFF reveals valuation accuracy, debt risk, and fundamental quality |
 | [Graham Formula](financial/graham-formula.md) | How intrinsic value and the Graham Number establish a margin of safety against overpaying |
 | [Interest Coverage Ratio](financial/interest-coverage-ratio.md) | When a company can't cover its debt payments |
