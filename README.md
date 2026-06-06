@@ -34,6 +34,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 
 | Metric | Description |
 |--------|-------------|
+| [Diluted EPS](earnings/diluted-eps.md) | How diluted earnings per share reveals worst-case profitability and dilution risk |
 | [Earnings Growth](earnings/earnings-growth.md) | How 5-year earnings growth reveals valuation risk and momentum sustainability |
 | [Earnings Manipulation Detection](earnings/earnings-manipulation-detection.md) | How independent tools like the Beneish M-Score and Sloan Accrual Ratio detect earnings distortion |
 | [Earnings Quality](earnings/earnings-quality.md) | How earnings accuracy and cash-flow verification reveal overvaluation and accounting risk |
