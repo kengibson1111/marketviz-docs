@@ -9,6 +9,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Cash Buffer](financial/cash-buffer.md) | How cash reserves protect against downside risk and financial distress |
 | [Current Ratio](financial/current-ratio.md) | How short-term liquidity risk affects financial stability |
 | [Debt-to-Equity](financial/debt-to-equity.md) | How heavy borrowing increases stock risk |
+| [Discounted Cash Flow](financial/discounted-cash-flow.md) | How DCF modeling estimates intrinsic value and quantifies valuation risk |
 | [Forward Annual Dividend](financial/annual-dividend-forward.md) | How projected dividends reveal income stability and valuation risk |
 | [Forward Dividend Payout Ratio](financial/dividend-payout-forward.md) | How the ratio of projected dividends to earnings reveals dividend sustainability and traps |
 | [Forward Dividend Yield](financial/dividend-yield-forward.md) | How projected yield identifies dividend traps and gauges income sustainability |
