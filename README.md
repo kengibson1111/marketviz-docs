@@ -58,6 +58,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Price Rate of Change](technicals/price-rate-of-change.md) | How momentum velocity reveals overbought/oversold conditions, trend strength, and reversal risk |
 | [Price Strength](technicals/price-strength.md) | How absolute momentum and trend direction reveal timing risk and overextension |
 | [Relative Money Flow](technicals/relative-money-flow.md) | How peer money flow comparison reveals selective accumulation, sector rotation, and institutional capital allocation |
+| [Relative Price Change](technicals/relative-price-change.md) | How stock returns compared to peers and the S&P 500 reveal whether individual ownership justifies its risk over passive index investing |
 | [Relative Price Rate of Change](technicals/relative-price-roc.md) | How peer momentum acceleration comparison reveals early rotation signals and emerging leadership |
 | [Relative Price Strength](technicals/relative-price-strength.md) | How peer price performance comparison reveals sector leadership, rotation, and allocation risk |
 | [Relative Trade Volume](technicals/relative-trade-volume.md) | How peer volume comparison reveals sector rotation, conviction differences, and relative liquidity risk |
