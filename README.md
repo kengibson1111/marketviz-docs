@@ -54,7 +54,9 @@ Plain-language summary explanations of stock data points and what they mean for 
 
 | Metric | Description |
 |--------|-------------|
+| [Price Rate of Change](technicals/price-rate-of-change.md) | How momentum velocity reveals overbought/oversold conditions, trend strength, and reversal risk |
 | [Price Strength](technicals/price-strength.md) | How absolute momentum and trend direction reveal timing risk and overextension |
+| [Relative Price Rate of Change](technicals/relative-price-roc.md) | How peer momentum acceleration comparison reveals early rotation signals and emerging leadership |
 | [Relative Price Strength](technicals/relative-price-strength.md) | How peer price performance comparison reveals sector leadership, rotation, and allocation risk |
 | [Relative Trade Volume](technicals/relative-trade-volume.md) | How peer volume comparison reveals sector rotation, conviction differences, and relative liquidity risk |
 | [Trade Volume](technicals/trade-volume.md) | How trading volume reveals liquidity risk, trend conviction, and manipulation exposure |
