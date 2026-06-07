@@ -1,0 +1,55 @@
+# 52-Week High/Low: Investment Risk
+
+The 52-week high and low indicate a stock's historical trading range over the past year, acting as benchmarks for volatility, support and resistance, and momentum. Investors use these markers to identify price extremes and determine whether a stock is trading at a premium or a discount relative to its recent past. Because this metric captures an entire year of price action, it provides a quick snapshot of where a stock sits within its own historical context — helping you gauge whether the current price represents opportunity or elevated risk.
+
+## Questions This Answers
+
+- Is this stock trading near its ceiling or its floor relative to the past year?
+- How volatile has this stock been, and should I expect large price swings?
+- Is the current price a potential buying opportunity, or am I chasing momentum at the top?
+- Are there natural support or resistance levels I should factor into my entry and exit decisions?
+
+## Applications in Risk Analysis
+
+### Valuation and Anchoring Bias
+
+Comparing the current price to the 52-week range helps assess if a stock is overvalued (near its high) or potentially oversold (near its low). However, investors should be aware of anchoring bias — the tendency to perceive the 52-week high as the "true" value of the stock.
+
+- **Near the 52-Week High:** A stock approaching its yearly high may appear expensive, but it can also signal strong fundamentals and momentum. The risk is buying at a peak just before a pullback.
+- **Near the 52-Week Low:** A stock near its yearly low may seem like a bargain, but the discount might reflect deteriorating fundamentals rather than an opportunity. Always confirm with other indicators before assuming value.
+
+### Support and Resistance Levels
+
+The 52-week extremes often serve as natural price boundaries where trading behavior shifts.
+
+- **52-Week Low as Support:** The yearly low frequently acts as a price floor where buying interest historically steps in. If a stock holds this level, it suggests demand is absorbing selling pressure, reducing downside risk.
+- **52-Week High as Resistance:** The yearly high often serves as a price ceiling where selling pressure increases. Failure to break through resistance after multiple attempts warns of limited upside in the near term.
+- **Breakout Signals:** When a stock decisively breaks above its 52-week high or below its 52-week low, it signals a shift in risk/reward dynamics. Breakouts above the high can trigger momentum-driven buying, while breakdowns below the low can accelerate selling and stop-loss triggers.
+
+### Volatility Assessment
+
+The width of the 52-week range reveals how much price risk a stock carries.
+
+- **Narrow Range:** A tight spread between the high and low indicates low volatility and relatively stable risk. These stocks tend to have more predictable behavior but may offer limited upside.
+- **Wide Range:** A large spread suggests high volatility and unpredictable price swings. While this creates opportunity for gains, it also means larger potential drawdowns and greater uncertainty in position sizing.
+
+### Momentum Indicators
+
+Academic research supports the idea that stocks near their 52-week highs tend to continue performing well in the short to medium term.
+
+- **Near-High Momentum:** A stock trading near its 52-week high is considered a momentum stock, indicating strong positive sentiment and a higher probability of continued upward performance.
+- **Near-Low Weakness:** Conversely, stocks persistently trading near their 52-week low may signal ongoing negative sentiment and continued underperformance, making them higher-risk holdings without a clear catalyst for reversal.
+
+## Key Risks and Limitations
+
+- **Backward-Looking:** The 52-week range reflects past prices and does not predict future movements. A stock can break well beyond its historical range in either direction.
+- **Anchoring Bias:** Investors tend to fixate on the 52-week high as a target or the low as a floor, which can lead to irrational buy/sell decisions not grounded in current fundamentals.
+- **Context-Dependent:** A stock near its 52-week low is not automatically cheap — it may be cheap for a reason (declining earnings, sector headwinds). Similarly, a stock at its high is not automatically expensive if growth justifies the price.
+- **Not a Standalone Metric:** The 52-week range provides context but lacks information about volume, institutional activity, or fundamental health. Always combine with other indicators.
+
+## Contextual Usage
+
+- **Entry and Exit Planning:** Use the 52-week high and low as reference points for setting stop-losses, profit targets, and position entry levels.
+- **Breakout Confirmation:** Pair with volume-based indicators (like Chaikin Money Flow or trade volume) to confirm whether a breakout above the high or breakdown below the low has institutional backing.
+- **Complementary Metrics:** Most effective when combined with price strength, relative price strength, momentum indicators, and fundamental analysis to build a complete risk picture.
+- **Reference Data:** You can look up the 52-week range for specific tickers using financial tools like [Yahoo Finance](https://finance.yahoo.com) or [Google Finance](https://www.google.com/finance).
