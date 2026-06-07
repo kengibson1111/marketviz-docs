@@ -2,6 +2,13 @@
 
 Relative volume compares a stock's trading activity against its direct competitors or sector peers over the same time period. While [trade volume](trade-volume.md) analysis focuses on a stock's own historical baseline, relative volume reveals how market attention and capital are distributed across competing companies. Investors use it to detect sector rotation, gauge conviction during sell-offs, and benchmark liquidity against comparable stocks.
 
+## Questions This Answers
+
+- Is the market paying more attention to my stock or its competitors right now?
+- During a sector sell-off, is my stock being sold harder than its peers?
+- Is my stock's liquidity adequate compared to similar-sized competitors?
+- Is a volume spike company-specific or part of a broader sector-wide capital move?
+
 ## Applications in Risk Analysis
 
 ### Detecting Sector Rotation and Capital Flow

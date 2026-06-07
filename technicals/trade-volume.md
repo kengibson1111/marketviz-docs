@@ -2,6 +2,14 @@
 
 Trade volume measures the total number of shares exchanged during a given period and is primarily used to evaluate liquidity risk and the conviction behind price movements. Investors use it to determine whether they can enter or exit positions efficiently and whether a stock's price action is backed by meaningful market participation. High volume generally signals active interest and reliable pricing, while low volume raises concerns about market manipulation, slippage, and trend sustainability.
 
+## Questions This Answers
+
+- Can I buy or sell this stock without significantly moving the price against me?
+- Is the current price movement backed by real conviction, or is it just noise?
+- Is this stock liquid enough for my position size?
+- Are large players accumulating or dumping shares beneath the surface?
+- Is this low-volume stock vulnerable to manipulation or artificial price swings?
+
 ## Applications in Risk Analysis
 
 ### Evaluating Liquidity and Slippage Risk

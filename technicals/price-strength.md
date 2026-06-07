@@ -2,6 +2,13 @@
 
 Price strength (absolute strength) measures a stock's momentum and directional velocity using historical price data. Investors use it to assess the risk of entering or holding a position by determining whether a stock's trend is sustainable, overextended, or breaking down. Unlike relative strength (which compares a stock to peers), absolute price strength focuses solely on the stock's own price behavior over time.
 
+## Questions This Answers
+
+- Is my stock's trend strong enough to continue, or is it breaking down?
+- Am I buying at a price level that is dangerously overextended from historical norms?
+- Where should I set a stop-loss based on the stock's own price behavior?
+- Does the current price action confirm or contradict my fundamental thesis?
+
 ## Applications in Risk Analysis
 
 ### Pinpointing Momentum and Trend Reversals

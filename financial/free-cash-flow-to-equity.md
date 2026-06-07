@@ -2,6 +2,13 @@
 
 Free Cash Flow to Equity (FCFE) measures the exact cash remaining that can be paid out to common shareholders after covering operating expenses, reinvestments, and debt obligations. It is a vital tool for assessing equity-level investing risk and finding hidden value in stocks.
 
+## Questions This Answers
+
+- After paying all expenses and debt, how much cash is actually left for shareholders?
+- Is the dividend funded by real cash flow, or is the company borrowing to pay it?
+- Is this stock undervalued based on the cash it generates for equity holders?
+- How much is this company's debt burden limiting the cash that flows through to me as a shareholder?
+
 ## How FCFE Differs from FCF
 
 Free Cash Flow (FCF) measures the cash a company generates after operating expenses and capital expenditures — but before any debt payments. It reflects the total cash available to all capital providers. FCFE goes one step further by subtracting debt repayments and adding back new borrowings, isolating the cash that actually belongs to common shareholders. A company can have strong FCF but weak FCFE if it carries heavy debt, which is why FCFE is more directly relevant for evaluating dividend safety, buyback capacity, and equity-level risk.

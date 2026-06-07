@@ -2,6 +2,13 @@
 
 A stock investment with a low Return on Equity (ROE) is generally considered high risk. While it may suggest "safety" from a volatile price spike, it indicates the company struggles to generate profit from investor funds, often acting as a red flag for underlying issues like poor management, weak market demand, or excessive debt.
 
+## Questions This Answers
+
+- Is this company efficiently turning shareholder capital into profits?
+- Is a low ROE hiding behind dangerous levels of debt?
+- Is the ROE trend improving, declining, or volatile — and what does that mean for me?
+- Is a low ROE normal for this industry, or is this company underperforming its peers?
+
 ## Core Risks of Low ROE
 
 - **Inefficient Capital Allocation:** The company is failing to reinvest its earnings into assets that produce strong profits, meaning your capital is working against you.

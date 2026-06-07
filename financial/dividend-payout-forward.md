@@ -2,6 +2,13 @@
 
 When analyzing investment risk, investors use the forward dividend payout ratio (calculated as projected annual dividends divided by forecasted earnings) to assess the sustainability of a company's dividend and spot potential "dividend traps."
 
+## Questions This Answers
+
+- Is this company projected to earn enough to cover its promised dividend?
+- Is the high yield a trap — will the dividend likely be cut because earnings can't support it?
+- How much reinvestment capacity does the company sacrifice to maintain this payout?
+- Does the forward payout ratio leave any margin of safety if earnings come in below forecast?
+
 ## Evaluating Dividend Safety and Cut Risk
 
 The core purpose of this ratio is to measure how much of a company's expected profit is being returned to shareholders versus being kept by the company.

@@ -2,6 +2,13 @@
 
 In stock analysis, the forward annual dividend is a primary input for calculating the forward dividend yield, a critical metric for assessing income stability and valuation risk.
 
+## Questions This Answers
+
+- Can this company actually afford the dividend it's promising to pay next year?
+- Is the high yield a sign of financial strength, or a warning that the stock price is collapsing?
+- Does this stock's income potential justify holding it over safer alternatives like bonds?
+- Has management recently signaled confidence or concern by changing the dividend?
+
 ## Key Uses in Risk Assessment
 
 - **Sustainability & Dividend Traps:** Analysts compare the forward annual dividend against projected earnings (the forward payout ratio) to determine if a company can afford its future commitments. A yield that is significantly higher than industry averages can signal a "dividend trap," where the market expects a future dividend cut due to financial stress.

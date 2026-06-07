@@ -2,6 +2,13 @@
 
 A five-year Compound Annual Growth Rate (CAGR) measures an investment's average annualized return over a five-year period, assuming returns compound yearly. While it primarily calculates past growth rather than directly measuring risk, investors use it to evaluate risk by contextualizing historical performance and setting realistic expectations.
 
+## Questions This Answers
+
+- What has this stock actually delivered on an annualized basis over five years, stripped of short-term noise?
+- Is the stock's price growth backed by real business fundamentals, or is it a speculative bubble?
+- Has this investment kept pace with the broader market benchmark over a meaningful period?
+- Am I setting realistic return expectations based on what this company has historically compounded?
+
 ## Applications in Risk Analysis
 
 ### Setting Realistic Baseline Expectations

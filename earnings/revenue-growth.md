@@ -2,6 +2,13 @@
 
 Five-year revenue growth is primarily used to evaluate sustainability, valuation expectations, and operational efficiency. It helps investors mitigate the risk of buying into short-term hype by proving whether a company can consistently scale its core business over an extended period.
 
+## Questions This Answers
+
+- Has this company proven it can grow sales consistently, or was growth a short-term fluke?
+- Is the current stock price justified by actual revenue expansion over a meaningful period?
+- Are earnings growing because the business is scaling, or just because costs were temporarily cut?
+- Is this company's dividend safe based on whether revenue supports long-term cash flow growth?
+
 ## Applications in Risk Analysis
 
 ### Assessing Growth Sustainability

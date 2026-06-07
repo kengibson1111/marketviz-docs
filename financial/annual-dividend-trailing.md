@@ -2,6 +2,13 @@
 
 The trailing annual dividend is primarily used in risk analysis to assess a company's historical payment capacity and to identify potential dividend traps. It serves as a grounded baseline of actual performance over the past 12 months, whereas forward-looking metrics are often based on estimates.
 
+## Questions This Answers
+
+- Has this company reliably paid dividends over the past year, or is the track record shaky?
+- Is the high trailing yield a genuine bargain, or a dividend trap caused by a falling stock price?
+- Is the company paying out more than it earned, making a future dividend cut likely?
+- How do actual past payments compare to what management is projecting going forward?
+
 ## Primary Applications in Risk Analysis
 
 - **Identifying Dividend Traps:** A high trailing yield may not indicate a bargain; it often signals that a stock's price has plummeted due to deteriorating fundamentals while the dividend hasn't been officially cut yet.

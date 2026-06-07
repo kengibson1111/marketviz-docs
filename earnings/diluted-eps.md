@@ -2,6 +2,13 @@
 
 Diluted EPS is used to analyze the worst-case scenario for a stock's profitability by showing how much earnings per share would drop if all convertible securities (stock options, warrants, convertible bonds, and preferred shares) were turned into actual common stock.
 
+## Questions This Answers
+
+- How much would my earnings per share drop if all outstanding options and convertible securities were exercised?
+- Is this stock's P/E ratio misleading because it ignores potential dilution?
+- How much of my ownership stake is at risk of being watered down by future share issuance?
+- Am I comparing companies fairly when one relies heavily on stock-based compensation?
+
 ## Applications in Risk Analysis
 
 ### Valuation & Multiples

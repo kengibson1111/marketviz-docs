@@ -2,6 +2,13 @@
 
 Operating leverage is a measure of a company's fixed-cost structure versus its variable costs. Investors use it to analyze earnings volatility and downside risk. It indicates how sensitively a stock's operating income (EBIT) will respond to changes in sales volume.
 
+## Questions This Answers
+
+- How much will this company's profits swing if revenue drops even slightly?
+- Is the fixed-cost structure set up to amplify losses during a downturn?
+- How close is this company to its breakeven point, and how much cushion exists?
+- Will a small increase in sales produce outsized profit growth, or is the upside limited?
+
 ## Where Investors Apply Operating Leverage
 
 ### Earnings Sensitivity (Degree of Operating Leverage)

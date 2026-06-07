@@ -2,6 +2,13 @@
 
 Forward dividend yield is used to identify "dividend traps" (an artificially high yield driven by a plummeting stock price), gauge the sustainability of payouts, and estimate a baseline income return for risk-adjusted portfolios. It provides a standardized way to evaluate risk and expected cash flow.
 
+## Questions This Answers
+
+- Is this high yield a genuine income opportunity, or is it a trap caused by a collapsing stock price?
+- Can the company afford to pay the projected dividend based on its earnings and cash flow?
+- Does this stock's yield provide enough of a premium over bonds to justify the extra risk?
+- Is management signaling confidence or concern compared to what they paid historically?
+
 ## Identifying "Dividend Traps" and Price Risk
 
 Forward dividend yield moves inversely to a stock's share price: when a stock's price drops, its yield rises.

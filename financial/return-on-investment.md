@@ -2,6 +2,13 @@
 
 A stock's one-year Return on Investment (ROI) is primarily used as a tactical baseline to calculate volatility and benchmark performance. Because it is a standardized, short-term timeframe, analysts use one-year returns to evaluate how an asset behaves against market indices and assess its historical price swings.
 
+## Questions This Answers
+
+- How volatile has this stock been over the past year compared to the broader market?
+- Has this stock outperformed or underperformed its benchmark on a risk-adjusted basis?
+- What is this stock's beta — is it more or less volatile than the overall market?
+- Is the one-year return representative of long-term potential, or an anomaly?
+
 ## Where One-Year ROI is Used in Risk Analysis
 
 - **Standard Deviation & Volatility:** Analysts use one-year returns to calculate standard deviation, which quantifies a stock's historical price fluctuations. High standard deviation means higher risk, and the one-year snapshot helps measure recent, immediate uncertainty.

@@ -2,6 +2,13 @@
 
 Trailing dividend yield is primarily used to measure the historical cash-on-cash return a stock has delivered. When analyzing investing risk, investors use this data to spot potential "yield traps" (unsustainably high yields caused by crashing stock prices), evaluate dividend reliability, and compare valuation levels against historical averages.
 
+## Questions This Answers
+
+- Is this stock's high trailing yield a bargain, or did the price crash to create an illusion of value?
+- Were last year's dividends funded by actual business operations, or by borrowing?
+- Is this stock currently cheap or expensive compared to its own historical yield range?
+- How does the trailing yield compare to the forward yield — is management expecting better or worse?
+
 ## Spotting "Yield Traps" (Price Depreciation Risk)
 
 Because dividend yield is calculated by dividing the annual dividend by the current share price, an artificially inflated yield often signals that the stock price has plummeted.

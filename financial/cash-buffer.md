@@ -2,6 +2,13 @@
 
 A company's cash buffer (cash and cash equivalents) is primarily used to evaluate downside risk, short-term solvency, and financial resilience. These funds appear at the very top of the balance sheet under Current Assets and represent the most immediate line of defense against financial distress.
 
+## Questions This Answers
+
+- Can this company survive a sudden downturn without needing emergency financing?
+- Does the company have enough cash to pay all its short-term debts right now?
+- How many months of runway does this company have if revenue stops entirely?
+- Is the cash position growing over time, or is it being steadily drained?
+
 ## Fundamental Analysis: Evaluating the Stock
 
 When assessing a company's ability to survive unexpected downturns, bear markets, or operational disruptions, analysts use several liquidity measures tied to the cash buffer:

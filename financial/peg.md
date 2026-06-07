@@ -2,6 +2,13 @@
 
 The Price/Earnings-to-Growth (PEG) ratio is used to analyze risk by determining if a stock's valuation is justified by its expected earnings growth. It helps investors identify valuation risk, specifically the risk of overpaying for a high-growth company that may not sustain its projected performance.
 
+## Questions This Answers
+
+- Am I overpaying for this stock relative to the growth it's expected to deliver?
+- Is a high P/E ratio justified by earnings growth, or is the stock simply overpriced?
+- Which stock in a peer group offers the best value after adjusting for growth differences?
+- How much risk am I taking that projected growth rates won't actually materialize?
+
 ## Applications in Risk Analysis
 
 - **Evaluating Overvaluation:** A PEG ratio significantly above 1.0 indicates high risk, suggesting the stock price has outpaced its actual growth prospects.

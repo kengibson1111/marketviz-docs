@@ -2,6 +2,13 @@
 
 The five-year dividend growth rate is used to analyze investing risk by evaluating a company's financial stability, inflation-adjusted total returns, and management's commitment to shareholders. It acts as an indicator of corporate maturity and protects against "yield traps".
 
+## Questions This Answers
+
+- Has this company consistently grown its dividend, or is the payout stagnating?
+- Is the dividend growing fast enough to keep up with inflation and preserve my purchasing power?
+- Does the growth pattern signal financial health, or is it erratic and unreliable?
+- Can I trust management to maintain and raise the dividend through different economic cycles?
+
 ## Dividend Discount Models (DDM)
 
 The metric is used as a primary input in the Gordon Growth Model (GGM) to calculate a stock's intrinsic value, helping investors determine if the stock is overvalued or undervalued.

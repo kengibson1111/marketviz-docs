@@ -2,6 +2,13 @@
 
 A stock investment with low Free Cash Flow (FCF) carries moderate to high risk. FCF represents the cash a company generates after covering operating expenses and capital expenditures. Low FCF limits a company's ability to pay dividends, reduce debt, or fund growth without relying on external financing.
 
+## Questions This Answers
+
+- Is this company generating real cash from its business, or are profits just on paper?
+- Is low free cash flow a temporary reinvestment phase, or a sign of fundamental weakness?
+- Is this a "value trap" — a stock that looks cheap but can't generate the cash to recover?
+- Is the company borrowing money just to stay afloat or pay dividends?
+
 ## Evaluating the Risk
 
 ### 1. High-Growth vs. Stagnant Companies

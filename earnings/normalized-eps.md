@@ -2,6 +2,13 @@
 
 Normalized EPS (Earnings Per Share) is used to measure sustainable, core profitability by stripping out "one-off" events, accounting anomalies, and the peaks and troughs of economic cycles.
 
+## Questions This Answers
+
+- What is this company's true recurring earning power, stripped of one-time windfalls and charges?
+- Is the stock cheap because it's genuinely undervalued, or because a non-recurring event inflated earnings?
+- Am I buying a cyclical company at its peak earnings, mistaking a boom for normal profitability?
+- How do this company's core profits compare to peers when temporary noise is removed?
+
 ## Applications in Risk Analysis
 
 ### Valuation & P/E Multiples

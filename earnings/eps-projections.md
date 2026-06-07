@@ -2,6 +2,13 @@
 
 Earnings Per Share (EPS) projections are used to measure a stock's forward-looking valuation, gauge earnings season volatility risk, evaluate growth-adjusted pricing, and model long-term financial health.
 
+## Questions This Answers
+
+- Am I paying too much for this stock relative to what analysts expect it to earn?
+- How much could the stock drop if the company misses its earnings estimate?
+- Is the market pricing in growth that is realistic, or are expectations dangerously optimistic?
+- How does this stock's expected earnings growth compare to competitors in the same sector?
+
 ## Applications in Risk Analysis
 
 ### Forward Price-to-Earnings (P/E) Ratios

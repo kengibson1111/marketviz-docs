@@ -2,6 +2,13 @@
 
 Market capitalization is primarily used in risk analysis to determine a company's stage of business development and its corresponding sensitivity to market volatility. It serves as a proxy for financial stability, resource depth, and growth potential.
 
+## Questions This Answers
+
+- How volatile is this stock likely to be based on the company's size?
+- Is this company large and resilient enough to survive an economic downturn?
+- Does my portfolio have the right balance of large, mid, and small companies for my risk tolerance?
+- Is this stock's size appropriate for the amount of capital I want to invest?
+
 ## Core Applications in Risk Analysis
 
 ### Assessing Price Volatility

@@ -2,6 +2,13 @@
 
 Five-year earnings growth is primarily used to calculate the PEG (Price/Earnings-to-Growth) ratio and to assess a company's momentum sustainability and historical consistency.
 
+## Questions This Answers
+
+- Is this stock's high valuation justified by its actual earnings growth track record?
+- Has this company consistently grown profits, or was growth concentrated in one or two lucky years?
+- Is the current price-to-earnings multiple stretched far above the historical norm?
+- Can I trust that this company is a long-term compounder rather than a cyclical fluke?
+
 ## Applications in Risk Analysis
 
 ### Calculating the PEG Ratio

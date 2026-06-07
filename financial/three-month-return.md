@@ -4,6 +4,13 @@ When analyzing investing risk, the "three-month return" is almost exclusively us
 
 Specifically, it is used as the risk-free rate in risk-adjusted performance models.
 
+## Questions This Answers
+
+- What return could I earn with virtually zero risk, and is this stock beating that baseline?
+- Is this stock generating enough excess return to justify the risk I'm taking?
+- How do I calculate whether my portfolio manager is adding real value after accounting for risk-free alternatives?
+- What baseline should I use when modeling expected returns for a risky asset?
+
 ## The Three-Month U.S. Treasury Bill (T-Bill)
 
 In financial modeling, analysts need a baseline measure of return that an investor could achieve with virtually zero risk of financial loss. The 3-month U.S. Treasury bill yield is the industry standard proxy for this "risk-free rate".

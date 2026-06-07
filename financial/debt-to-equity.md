@@ -4,6 +4,13 @@ This document focuses on **long-term** Debt-to-Equity — the ratio of obligatio
 
 A high D/E ratio significantly increases investment risk. It means a company relies heavily on long-term borrowed money to fund operations. While this can amplify profits during boom times, it magnifies losses during downturns and makes the stock highly vulnerable to interest rate spikes and cash flow disruptions.
 
+## Questions This Answers
+
+- How much borrowed money is this company using compared to shareholder equity?
+- Is the debt level dangerous for this industry, or is it normal for the sector?
+- Can the company comfortably service its interest payments from operating profits?
+- Is the company taking on debt to grow strategically, or to survive?
+
 ## Specific Risks of High D/E
 
 - **Mandatory Obligations:** Debt requires mandatory interest payments, whereas dividends on equity can be cut or paused.

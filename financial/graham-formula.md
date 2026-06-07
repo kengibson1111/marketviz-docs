@@ -2,6 +2,13 @@
 
 The Graham Formula is used in investing primarily to screen for undervalued stocks and to establish a margin of safety. By quantifying a stock's "intrinsic value," it tells you the absolute maximum price a conservative investor should pay, mitigating the risk of overpaying and subsequent capital loss.
 
+## Questions This Answers
+
+- What is the maximum price I should pay for this stock as a conservative investor?
+- Does the current stock price provide a meaningful margin of safety against loss?
+- Is the market pricing this stock far above what its earnings and assets justify?
+- Am I investing during a bubble where prices have disconnected from fundamentals?
+
 ## Applications in Risk Analysis
 
 ### Classic Valuation Formula (Intrinsic Value)

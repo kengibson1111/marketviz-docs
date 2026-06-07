@@ -2,6 +2,13 @@
 
 In stock analysis, revenue is the primary "top-line" metric used to evaluate the fundamental viability and growth potential of a business before accounting for management's handling of expenses. Analysts treat it as a "cleaner" data point than earnings because it is less susceptible to accounting manipulation and financial engineering.
 
+## Questions This Answers
+
+- Is this company growing its sales, or is the core business shrinking?
+- Is revenue growth translating into profitability, or is the company burning money to grow?
+- Is the company dangerously dependent on a single customer or product for most of its revenue?
+- Does the price I'm paying make sense relative to what this company actually sells?
+
 ## Evaluating Growth & Sustainability Risks
 
 Revenue trends indicate whether a company's market share and customer demand are expanding or contracting.

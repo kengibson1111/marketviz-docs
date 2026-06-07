@@ -2,6 +2,13 @@
 
 Relative price rate of change compares the acceleration of a stock's price movement against its direct competitors or sector peers over the same time period. While [price rate of change](price-rate-of-change.md) measures how fast a single stock's price is changing in isolation, relative ROC reveals which company's momentum is accelerating or decelerating fastest compared to alternatives. Investors use it to detect early rotation signals, identify emerging sector leaders before cumulative returns reflect the shift, and quantify whether a stock's momentum trajectory is diverging from its peer group.
 
+## Questions This Answers
+
+- Which competitor in this sector is accelerating fastest right now?
+- Is my stock losing momentum speed compared to its peers, even if the price is still rising?
+- Is capital rotating toward a different name in this peer group before total returns show it?
+- Should I buy the sector broadly or one specific stock based on where acceleration is concentrated?
+
 ## Applications in Risk Analysis
 
 ### Detecting Early Rotation Before Cumulative Returns Shift

@@ -2,6 +2,13 @@
 
 The current ratio is a key liquidity metric that measures a company's ability to cover its short-term obligations due within one year using its short-term assets. A weak current ratio signals potential liquidity risk, meaning the company may struggle to meet its immediate financial commitments — a red flag for investors.
 
+## Questions This Answers
+
+- Can this company pay its bills due within the next year using what it has on hand?
+- Is this company's short-term financial position improving or deteriorating over time?
+- Are the company's liquid assets actually convertible to cash quickly, or are they tied up in slow-moving inventory?
+- How does this company's liquidity compare to its direct competitors?
+
 ## The Formula
 
 To find the current ratio, divide total current assets by total current liabilities:

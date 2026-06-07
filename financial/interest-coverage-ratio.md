@@ -2,6 +2,13 @@
 
 Investing in a stock with a low Interest Coverage Ratio (ICR) is generally highly risky. It indicates that operating earnings barely cover — or cannot cover — the interest payments on outstanding debt, signaling severe financial distress and a heightened risk of bankruptcy.
 
+## Questions This Answers
+
+- Can this company comfortably make its debt interest payments from operating profits?
+- How close is this company to defaulting on its debt obligations?
+- Does a slight revenue drop put this company at risk of missing interest payments?
+- Is the interest coverage improving over time, or is the company headed toward crisis?
+
 ## Why Low ICR Means High Risk
 
 - **The Danger Zone:** An ICR below 1.5 is a major red flag, and anything below 1.0 means operating income is insufficient to service debt without tapping into cash reserves.

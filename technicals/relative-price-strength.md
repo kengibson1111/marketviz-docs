@@ -2,6 +2,13 @@
 
 Relative price strength compares a stock's price performance against its direct competitors, sector, or a broad benchmark over the same time period. While [price strength](price-strength.md) measures a stock's own momentum and trend direction in isolation, relative price strength reveals whether a stock is winning or losing the market's preference compared to alternatives. Investors use it to identify sector leaders, detect rotation patterns, and avoid holding underperformers that the market is actively discounting.
 
+## Questions This Answers
+
+- Is my stock outperforming or underperforming its direct competitors over the same period?
+- Is the market rotating capital away from my holding toward a peer?
+- Am I holding the best option in this sector, or is my capital earning less than it could elsewhere?
+- Which stock in a peer group is the market currently rewarding with the most capital?
+
 ## Applications in Risk Analysis
 
 ### Identifying Outperformance and Underperformance vs. Peers

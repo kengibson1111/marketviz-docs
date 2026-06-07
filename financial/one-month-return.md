@@ -2,6 +2,13 @@
 
 When analyzing investing risk, a stock's one-month return is primarily used to calculate short-term volatility, measure momentum, and screen for risk-adjusted performance.
 
+## Questions This Answers
+
+- How volatile has this stock been in the very short term?
+- Is this stock's recent return worth the risk compared to a risk-free alternative?
+- What is the worst-case monthly loss I should expect at a given confidence level?
+- Is there a short-term momentum signal suggesting a trend reversal or continuation?
+
 ## Strategic Uses in Risk Analysis
 
 - **Calculating Standard Deviation (Volatility):** Standard deviation measures how wildly a stock's returns fluctuate around its average. Major financial screeners (like Morningstar) often use exactly 36 continuous monthly return observations to calculate a fund's or stock's annualized historical volatility. Comparing a month's return against a 36-month baseline helps analysts understand how sharp recent market swings are compared to long-term baselines.

@@ -2,6 +2,13 @@
 
 The forward P/E ratio divides a company's current stock price by its forecasted earnings over the next 12 months. It is primarily used to evaluate valuation risk (paying too much), assess market sentiment, and measure growth expectations.
 
+## Questions This Answers
+
+- Am I paying too much for this stock based on what it's expected to earn next year?
+- How much risk do I face if the company misses its projected earnings?
+- Is this stock expensive or cheap compared to its sector peers on a forward basis?
+- How do future expectations compare to what the company has actually delivered historically?
+
 ## Strategic Uses in Risk Analysis
 
 - **Valuation Premium vs. Growth Risk:** A high forward P/E indicates investors expect aggressive profit growth. This signals growth risk: if the company misses future earnings projections, the stock price faces a severe risk of dropping, as the premium valuation can no longer be justified.

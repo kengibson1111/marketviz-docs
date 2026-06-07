@@ -2,6 +2,13 @@
 
 Investing in a stock with a high Price-to-Book (P/B) ratio carries elevated risk because the stock is trading at a premium to its physical assets. It means the market has high expectations for future growth, leaving little margin for error; any shortfall in performance can cause the stock price to drop significantly.
 
+## Questions This Answers
+
+- How much am I paying above the company's actual asset value?
+- If this company failed today, how big is the gap between what I paid and what assets are worth?
+- Is a high P/B justified by strong profitability, or am I overpaying for hype?
+- Is the low P/B a genuine bargain, or does it reflect a company with worthless assets?
+
 ## Key Risk Factors
 
 - **Overvaluation:** A high P/B (e.g., above 3.0 or 4.0) usually suggests a stock is overpriced relative to the equity recorded on its balance sheet.

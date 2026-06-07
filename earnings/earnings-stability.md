@@ -2,6 +2,13 @@
 
 Earnings stability measures the consistency of a company's profits over time. In risk analysis, it is used in fundamental analysis, value investing, and factor investing to identify businesses that can weather economic downturns, support reliable dividend payouts, and project future cash flows with higher accuracy.
 
+## Questions This Answers
+
+- How consistently has this company delivered profits year after year?
+- Can this company maintain its dividend through an economic downturn?
+- Is this stock a steady compounder or a volatile earnings roller coaster?
+- Does this company meet the stability requirements for conservative value investing screens?
+
 ## Applications in Risk Analysis
 
 ### Bankruptcy & Liquidity Risk

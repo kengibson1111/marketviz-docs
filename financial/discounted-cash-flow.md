@@ -2,6 +2,13 @@
 
 Discounted Cash Flow (DCF) modeling is used to estimate a stock's intrinsic value by projecting its future free cash flows and discounting them back to the present. It helps investors analyze risk by answering two core questions: Is the current price fundamentally justified? And what assumptions are required to break even?
 
+## Questions This Answers
+
+- What is this stock actually worth based on the cash it will generate in the future?
+- How much margin of safety do I have between the current price and intrinsic value?
+- How fragile is this valuation — does it collapse if growth slows even slightly?
+- Am I relying on overly optimistic assumptions to justify paying this price?
+
 ## Key Areas Where DCF Modeling Targets Investing Risk
 
 ### 1. Intrinsic Value vs. Market Price

@@ -2,6 +2,13 @@
 
 Earnings quality is used to assess if a company's reported net income accurately reflects its true operational health and sustainability. Investors use it to mitigate the risk of overvaluation, accounting manipulation, or sudden capital loss when the market realizes profits are inflated by non-recurring events or aggressive accounting tactics.
 
+## Questions This Answers
+
+- Are this company's profits real and repeatable, or inflated by one-time events?
+- Is reported net income actually converting into cash the company can use?
+- Am I paying a premium valuation for earnings that won't be there next quarter?
+- How likely is this company to deliver consistent, predictable returns over time?
+
 ## Applications in Risk Analysis
 
 ### Valuation Accuracy

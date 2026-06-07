@@ -2,6 +2,13 @@
 
 The Price Rate of Change (ROC) is a momentum indicator that measures the speed at which a stock's price increases or decreases over a specific period, expressed as a percentage. Investors use ROC to assess risk by quantifying how fast a trend is accelerating or decelerating. Unlike indicators that only show direction, ROC reveals the velocity behind a move, helping investors determine whether momentum supports a position or warns of an impending reversal.
 
+## Questions This Answers
+
+- Is my stock's price rising or falling too fast to be sustainable?
+- Does the momentum behind the current trend support holding my position?
+- Is the trend losing speed before the price chart shows a reversal?
+- How do I tell the difference between healthy momentum and dangerous overextension?
+
 ## Applications in Risk Analysis
 
 ### Identifying Extreme Volatility (Overbought/Oversold Conditions)

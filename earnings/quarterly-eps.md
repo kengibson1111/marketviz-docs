@@ -2,6 +2,13 @@
 
 Multi-year quarterly as-reported EPS (Earnings Per Share), which follows GAAP or IFRS guidelines, is primarily used in value and forensic investing to identify accounting red flags, hidden structural costs, and recurring dilution.
 
+## Questions This Answers
+
+- Is management hiding structural problems behind "adjusted" earnings that differ drastically from reported results?
+- Is my ownership being steadily diluted quarter after quarter by convertible securities?
+- Do reported profits actually convert into real cash, or is there a persistent gap?
+- How badly has this stock's earnings dropped during past recessions, and how quickly did it recover?
+
 ## Applications in Risk Analysis
 
 ### Forensic Accounting & "Cleanliness" Checks

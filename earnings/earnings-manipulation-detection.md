@@ -2,6 +2,13 @@
 
 Earnings manipulation detection tools help investors independently verify whether a company's reported earnings reflect genuine economic performance or have been distorted through aggressive accounting, selective item classification, or artificial smoothing.
 
+## Questions This Answers
+
+- Are this company's reported earnings backed by real cash, or inflated by accounting tricks?
+- Does the financial data show statistical red flags for earnings manipulation?
+- Is management artificially smoothing earnings to hide underlying volatility?
+- Can I trust the reported numbers enough to base my valuation on them?
+
 ## Applications in Risk Analysis
 
 ### Beneish M-Score

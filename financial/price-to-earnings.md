@@ -2,6 +2,13 @@
 
 The price-to-earnings (P/E) ratio is primarily used in risk analysis to identify valuation risk, signaling whether a stock is overvalued relative to its actual earnings. While a simple metric, it highlights specific risks depending on whether the ratio is high, low, or negative.
 
+## Questions This Answers
+
+- Is this stock overpriced relative to what the company actually earns?
+- Is a low P/E a genuine bargain, or is the market warning me about hidden problems?
+- How does this stock's valuation compare to its own history and its sector peers?
+- Is a negative P/E a short-term issue or a sign of serious financial distress?
+
 ## Strategic Uses in Risk Analysis
 
 - **Valuation Risk (Overpricing):** A high P/E ratio suggests the market expects aggressive future growth. The risk here is that if the company fails to meet these high expectations, the stock price may drop sharply as the multiple "compresses" to match reality.

@@ -2,6 +2,13 @@
 
 A stock with a high Price-to-Sales (P/S) ratio generally carries higher risk. It indicates the market has high expectations for future revenue and profits, leaving little room for error. If the company misses these growth targets, or if broader market conditions shift, its stock price can drop significantly.
 
+## Questions This Answers
+
+- Am I paying too much per dollar of revenue compared to this company's peers?
+- Is slowing revenue growth about to expose an overvalued stock?
+- Does this company have a realistic path to profitability that justifies the premium?
+- How sensitive is this high-valuation stock to interest rate increases?
+
 ## Why High P/S Ratios Increase Risk
 
 - **Priced for Perfection:** A high P/S means you are paying a premium for every dollar of revenue. All projected growth is already "priced in," so even a minor earnings miss or a slight slowdown in sales velocity can trigger a massive sell-off.
