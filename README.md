@@ -50,6 +50,12 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Quarterly EPS (As-Reported)](earnings/quarterly-eps.md) | How multi-year as-reported quarterly EPS reveals accounting red flags, dilution trends, and cyclical risk |
 | [Revenue Growth](earnings/revenue-growth.md) | How 5-year revenue growth reveals sustainability, valuation expectations, and operational risk |
 
+## Technical Indicators
+
+| Metric | Description |
+|--------|-------------|
+| [Price Strength](technicals/price-strength.md) | How absolute momentum and trend direction reveal timing risk and overextension |
+
 ## Usage
 
 These docs are designed to be linked from spreadsheet cells, dashboards, or other UI tools. Use the raw GitHub URL for each file:
