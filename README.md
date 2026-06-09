@@ -55,6 +55,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | Metric | Description |
 |--------|-------------|
 | [52-Week High/Low](technicals/52-week-high-low.md) | How the annual price range reveals volatility, support/resistance levels, and momentum risk |
+| [Beta](technicals/beta.md) | How market sensitivity reveals systematic risk, portfolio volatility, and expected return requirements |
 | [Money Flow (CMF)](technicals/money-flow.md) | How volume-weighted accumulation and distribution reveal trend strength, breakout validity, and institutional selling pressure |
 | [Price Rate of Change](technicals/price-rate-of-change.md) | How momentum velocity reveals overbought/oversold conditions, trend strength, and reversal risk |
 | [Price Strength](technicals/price-strength.md) | How absolute momentum and trend direction reveal timing risk and overextension |
