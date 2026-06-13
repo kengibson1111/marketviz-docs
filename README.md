@@ -72,6 +72,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 
 | Metric | Description |
 |--------|-------------|
+| [Earnings Estimate Revisions](experts/earnings-estimates-revisions.md) | How analyst forecast changes reveal fundamental momentum shifts, valuation risk, and earnings surprise exposure |
 | [Short Interest](experts/short-interest.md) | Measures shares sold short but not yet covered, used to gauge bearish sentiment, short squeeze risk, and validate fundamental research. |
 
 ## Usage
