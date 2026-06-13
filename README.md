@@ -64,6 +64,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Relative Price Rate of Change](technicals/relative-price-roc.md) | How peer momentum acceleration comparison reveals early rotation signals and emerging leadership |
 | [Relative Price Strength](technicals/relative-price-strength.md) | How peer price performance comparison reveals sector leadership, rotation, and allocation risk |
 | [Relative Trade Volume](technicals/relative-trade-volume.md) | How peer volume comparison reveals sector rotation, conviction differences, and relative liquidity risk |
+| [Standard Deviation](technicals/standard-deviation.md) | How return dispersion quantifies price unpredictability, risk-adjusted performance, and portfolio volatility |
 | [Trade Volume](technicals/trade-volume.md) | How trading volume reveals liquidity risk, trend conviction, and manipulation exposure |
 | [Volatility](technicals/volatility.md) | How price fluctuation magnitude reveals uncertainty, portfolio risk, and options pricing expectations |
 
