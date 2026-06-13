@@ -68,6 +68,12 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Trade Volume](technicals/trade-volume.md) | How trading volume reveals liquidity risk, trend conviction, and manipulation exposure |
 | [Volatility](technicals/volatility.md) | How price fluctuation magnitude reveals uncertainty, portfolio risk, and options pricing expectations |
 
+## Expert Opinions
+
+| Metric | Description |
+|--------|-------------|
+| [Short Interest](experts/short-interest.md) | Measures shares sold short but not yet covered, used to gauge bearish sentiment, short squeeze risk, and validate fundamental research. |
+
 ## Usage
 
 These docs are designed to be linked from spreadsheet cells, dashboards, or other UI tools. Use the raw GitHub URL for each file:
