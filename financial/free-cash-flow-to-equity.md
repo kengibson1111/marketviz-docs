@@ -38,9 +38,9 @@ Investors evaluate FCFE relative to the company's share price ($\text{FCFE per s
 - **Volatility Across Periods:** FCFE can swing dramatically quarter to quarter due to lumpy debt repayment schedules or capital expenditure timing, making single-period analysis unreliable.
   - *How to address:* Use a trailing 12-month (TTM) or 3-year average FCFE rather than a single quarter. This smooths the impact of lumpy payments and gives a more representative picture of the company's normal cash generation available to equity holders.
 - **Ignores Reinvestment Quality:** FCFE measures cash available to shareholders but does not assess whether the company's reinvestment decisions are generating adequate returns.
-  - *How to address:* Pair FCFE with return on equity (ROE) and return on invested capital (ROIC) trends. If FCFE is high because the company is underinvesting (low capex), check whether that's hurting long-term growth. Declining revenue or market share alongside high FCFE can signal a company harvesting rather than growing.
+  - *How to address:* Pair FCFE with [return on equity](return-on-equity.md) (ROE) and return on invested capital (ROIC) trends. If FCFE is high because the company is underinvesting (low capex), check whether that's hurting long-term growth. Declining revenue or market share alongside high FCFE can signal a company harvesting rather than growing.
 - **Capital Structure Sensitivity:** Because FCFE accounts for debt payments, comparing FCFE across companies with different leverage profiles can be misleading without normalization.
-  - *How to address:* When comparing peers with different capital structures, use FCFF (Free Cash Flow to Firm) for an apples-to-apples comparison of operational cash generation. Reserve FCFE for evaluating individual companies' dividend sustainability and shareholder yield.
+  - *How to address:* When comparing peers with different capital structures, use [FCFF](free-cash-flow-to-firm.md) (Free Cash Flow to Firm) for an apples-to-apples comparison of operational cash generation. Reserve FCFE for evaluating individual companies' dividend sustainability and shareholder yield.
 
 ## Further Research
 

@@ -48,7 +48,7 @@ A drop below a critical CMF threshold (often around -0.05) warns of intense, vol
 - **Sideways Markets:** In range-bound conditions, CMF oscillates around zero without providing clear directional signals, leading to potential whipsaw decisions.
   - *How to address:* During sideways markets, don't act on CMF crossovers alone. Wait for price to break above resistance or below support before using CMF as confirmation. If price is range-bound, CMF is best used to detect which direction pressure is building rather than as a direct buy/sell trigger.
 - **Not a Standalone Indicator:** CMF measures volume-weighted pressure but does not account for a company's fundamentals, valuation, or external catalysts.
-  - *How to address:* Always pair CMF with fundamental analysis. Positive CMF on a stock with deteriorating earnings may simply reflect short-covering or speculative buying rather than institutional conviction. Confirm that the volume-weighted signal aligns with the fundamental trajectory.
+  - *How to address:* Always pair CMF with fundamental analysis. Positive CMF on a stock with deteriorating [earnings](../earnings/earnings-growth.md) may simply reflect short-covering or speculative buying rather than institutional conviction. Confirm that the volume-weighted signal aligns with the fundamental trajectory.
 
 ## Contextual Usage
 

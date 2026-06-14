@@ -49,7 +49,7 @@ Academic research supports the idea that stocks near their 52-week highs tend to
 - **Context-Dependent:** A stock near its 52-week low is not automatically cheap — it may be cheap for a reason (declining earnings, sector headwinds). Similarly, a stock at its high is not automatically expensive if growth justifies the price.
   - *How to address:* Cross-reference with fundamentals: check recent earnings estimate revisions, revenue growth, and free cash flow trends. A stock near its low with rising estimates may be genuinely undervalued; one near its low with falling estimates is declining for good reason.
 - **Not a Standalone Metric:** The 52-week range provides context but lacks information about volume, institutional activity, or fundamental health. Always combine with other indicators.
-  - *How to address:* Pair with money flow (CMF) to confirm whether institutional buying supports a bounce off the low, or with trade volume to confirm whether a breakout above the high has participation backing it.
+  - *How to address:* Pair with [money flow](money-flow.md) (CMF) to confirm whether institutional buying supports a bounce off the low, or with [trade volume](trade-volume.md) to confirm whether a breakout above the high has participation backing it.
 
 ## Contextual Usage
 

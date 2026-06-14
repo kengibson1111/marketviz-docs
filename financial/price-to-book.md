@@ -23,12 +23,12 @@ Many modern companies rely on intellectual property, brand value, or massive use
 
 ### High Profitability
 
-A high P/B is justified if the company is generating massive returns on its equity (ROE).
+A high P/B is justified if the company is generating massive [returns on its equity](return-on-equity.md) (ROE).
 
 ## Key Risks and Limitations
 
 - **Intangible-Heavy Companies:** P/B is unreliable for companies whose value derives from intellectual property, brand, or network effects, as these assets are not reflected in book value.
-  - *How to address:* For companies with minimal tangible assets (tech, services, pharma), use alternative valuation metrics like price-to-earnings, price-to-sales, or EV/EBITDA. If you do use P/B, check whether the company's ROE is high enough to justify the premium — a high P/B paired with consistently high ROE (20%+) is more defensible.
+  - *How to address:* For companies with minimal tangible assets (tech, services, pharma), use alternative valuation metrics like [price-to-earnings](price-to-earnings.md), [price-to-sales](price-to-sales.md), or EV/EBITDA. If you do use P/B, check whether the company's ROE is high enough to justify the premium — a high P/B paired with consistently high ROE (20%+) is more defensible.
 - **Accounting Distortions:** Share buybacks, accumulated depreciation, and goodwill write-downs can dramatically alter the book value denominator without any change in the company's actual productive capacity.
   - *How to address:* Look at tangible book value (book value minus goodwill and intangibles) for a cleaner picture. Also check whether book value has been artificially reduced by aggressive buybacks — if equity is near zero or negative due to buybacks, P/B becomes meaningless and other valuation tools should replace it.
 - **Sector Applicability:** The metric is most meaningful for asset-heavy industries (banking, manufacturing, real estate) and often misleading for asset-light sectors (technology, services).

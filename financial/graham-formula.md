@@ -65,7 +65,7 @@ It grounds an investor in historical, fundamental metrics when market psychology
 - **Modern Asset Mismatch:** The formula assumes historical correlations between interest rates, physical assets, and earnings that may not apply to modern, technology-driven companies reliant on intangible assets or exponential growth.
   - *How to address:* Use the Graham Formula primarily for asset-heavy, mature industries (utilities, industrials, banking) where the assumptions hold. For technology and intangible-heavy companies, pair it with DCF modeling or price-to-sales comparisons that better capture non-physical value drivers.
 - **Growth Estimate Sensitivity:** Small changes in the assumed growth rate (g) can dramatically swing the intrinsic value calculation, making it unreliable for companies with uncertain futures.
-  - *How to address:* Use a conservative growth estimate — ideally the lower of the company's historical 5-year EPS CAGR and the analyst consensus projection. Run the formula at multiple growth rates (e.g., g = 5%, 7%, 10%) to see how sensitive the result is. If intrinsic value doubles with a small change in g, the output is too unstable to trust.
+  - *How to address:* Use a conservative growth estimate — ideally the lower of the company's historical [5-year EPS CAGR](../earnings/five-year-cagr.md) and the analyst consensus projection. Run the formula at multiple growth rates (e.g., g = 5%, 7%, 10%) to see how sensitive the result is. If intrinsic value doubles with a small change in g, the output is too unstable to trust.
 - **Interest Rate Dependence:** The bond-yield adjustment factor can distort results in extremely low or high interest rate environments compared to the 4.4% baseline.
   - *How to address:* Recognize that when corporate bond yields are well below 4.4%, the formula mechanically produces higher intrinsic values (and vice versa). Adjust your margin of safety requirement accordingly — demand a larger discount to intrinsic value when interest rates are unusually low, since the formula is being more generous in those conditions.
 
@@ -73,7 +73,7 @@ It grounds an investor in historical, fundamental metrics when market psychology
 
 - **Value Investing:** The primary tool for Benjamin Graham-style defensive investors seeking a quantified margin of safety.
 - **Screening Tool:** Best used as a first-pass filter rather than a sole decision-making metric.
-- **Complementary Metrics:** Best used alongside price-to-earnings, price-to-book, free cash flow, and earnings quality to build a complete picture of fundamental risk.
+- **Complementary Metrics:** Best used alongside [price-to-earnings](price-to-earnings.md), [price-to-book](price-to-book.md), [free cash flow](free-cash-flow.md), and [earnings quality](../earnings/earnings-quality.md) to build a complete picture of fundamental risk.
 
 ## Further Research
 

@@ -13,7 +13,7 @@ Normalized EPS (Earnings Per Share) is used to measure sustainable, core profita
 
 ### Valuation & P/E Multiples
 
-You use normalized EPS to calculate a more accurate Forward P/E Ratio. A trailing P/E based on unadjusted earnings can artificially plummet if a company records a massive one-time gain.
+You use normalized EPS to calculate a more accurate [Forward P/E Ratio](../financial/price-to-earnings-forward.md). A trailing P/E based on unadjusted earnings can artificially plummet if a company records a massive one-time gain.
 
 - **Where it's used:** Calculating forward and trailing P/E ratios with adjusted earnings figures.
 - **Risk context:** Normalizing the "E" prevents you from misinterpreting a stock as "cheap" when its low P/E is driven by a non-recurring event rather than genuine undervaluation.
@@ -52,7 +52,7 @@ Normalized EPS allows you to compare financial health across industry peers on a
 
 - **Value Investing:** Essential for determining whether a stock is genuinely undervalued or temporarily inflated by non-recurring gains.
 - **Cyclical Sectors:** Critical for assessing companies in industries with volatile earnings patterns.
-- **Complementary Metrics:** Best used alongside earnings stability, free cash flow, and revenue growth to build a complete picture of fundamental risk.
+- **Complementary Metrics:** Best used alongside [earnings stability](earnings-stability.md), [free cash flow](../financial/free-cash-flow.md), and [revenue growth](revenue-growth.md) to build a complete picture of fundamental risk.
 
 ## Further Research
 

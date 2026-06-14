@@ -29,13 +29,13 @@ Revenue serves as the denominator for key efficiency ratios that reveal operatio
 
 Risk is often defined as the price paid for a specific level of performance.
 
-- **Price-to-Sales (P/S) Ratio:** Used to determine if a stock is overvalued relative to its actual sales, particularly for companies that are not yet profitable.
+- **[Price-to-Sales](price-to-sales.md) (P/S) Ratio:** Used to determine if a stock is overvalued relative to its actual sales, particularly for companies that are not yet profitable.
 - **Revenue-Based Valuation:** These metrics are critical for high-growth sectors (like Information Technology in 2026) where traditional earnings multiples may be skewed by heavy reinvestment.
 
 ## Key Risks and Limitations
 
 - **Susceptible to Manipulation:** While revenue is "cleaner" than earnings, companies can still inflate top-line figures through channel stuffing, bill-and-hold arrangements, or aggressive recognition of long-term contracts.
-  - *How to address:* Compare revenue growth to operating cash flow growth. If revenue is growing significantly faster than cash flow, the company may be recognizing revenue before cash is collected. Also check accounts receivable growth — if receivables are rising faster than revenue, collection quality is declining.
+  - *How to address:* Compare revenue growth to operating cash flow growth. If revenue is growing significantly faster than cash flow, the company may be recognizing revenue before cash is collected. Also check accounts receivable growth — if receivables are rising faster than revenue, collection quality is declining. See [earnings quality](../earnings/earnings-quality.md) for more on this dynamic.
 - **Does Not Reflect Profitability:** Growing revenue means nothing if margins are deteriorating. A company can expand sales while becoming less financially viable.
   - *How to address:* Track gross margin and operating margin trends alongside revenue growth. If margins are compressing while revenue rises, the company may be buying growth through unsustainable discounts or bloated spending. Revenue growth paired with stable or expanding margins is a much stronger signal.
 - **Acquisition-Driven Growth:** Revenue jumps from acquisitions may mask stagnation or decline in organic operations. Always distinguish between organic and inorganic growth.

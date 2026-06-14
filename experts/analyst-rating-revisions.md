@@ -62,7 +62,7 @@ Downgrades to "Sell" or "Underperform" are frequently red flags that a stock's v
 - **Pre-Earnings Positioning:** Best used in the weeks leading up to earnings reports to identify stocks where analyst sentiment has recently shifted, helping avoid positions with elevated surprise risk.
 - **Momentum Confirmation:** Useful for validating whether a stock's recent price move is supported by professional analyst conviction or is purely driven by retail sentiment.
 - **Contrarian Screening:** Extreme consensus (nearly all analysts at "Strong Buy" or all at "Sell") can signal crowded positioning, making contrarian opportunities worth investigating when paired with improving fundamentals.
-- **Complementary Metrics:** Most effective when paired with earnings estimate revisions, insider activity, short interest, and valuation metrics like PEG ratio to build a complete picture of forward-looking risk.
+- **Complementary Metrics:** Most effective when paired with [earnings estimate revisions](earnings-estimates-revisions.md), [insider activity](insider-activity.md), [short interest](short-interest.md), and valuation metrics like [PEG ratio](../financial/peg.md) to build a complete picture of forward-looking risk.
 - **Reference Data:** You can track analyst rating revisions on platforms like LSEG StarMine, TIKR, or Koyfin.
 
 ## Further Research

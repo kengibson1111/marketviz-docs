@@ -30,7 +30,7 @@ Determine if the ICR is improving or deteriorating over time. A temporarily low 
 
 ### Cash Flow vs. Accounting Profits
 
-The ICR uses EBIT (Earnings Before Interest and Taxes). Always cross-reference this with the company's actual Free Cash Flow (FCF) to ensure they have the hard cash on hand to make payments.
+The ICR uses EBIT (Earnings Before Interest and Taxes). Always cross-reference this with the company's actual [Free Cash Flow](free-cash-flow.md) (FCF) to ensure they have the hard cash on hand to make payments.
 
 ## Key Risks and Limitations
 

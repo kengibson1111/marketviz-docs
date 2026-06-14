@@ -72,7 +72,7 @@ Some industries exhibit power-law economics where the leading company captures d
 - **Layering with Sector Relative Strength:** Industry relative strength is most powerful when combined with sector-level analysis. A stock showing strength against both its industry peers and its broader sector is displaying multi-level leadership — a higher-conviction signal than either metric alone.
 - **Earnings Season Diagnostics:** Use industry relative strength immediately after earnings reports to quickly diagnose whether results are company-specific or industry-driven, informing whether to hold, add, or exit.
 - **Concentration Risk in Portfolios:** If you hold multiple stocks within the same industry, monitor their relative strength against each other to ensure you are not doubling down on the weakest names while underweighting the winners.
-- **Complementary Metrics:** Combine with earnings estimate revisions (to confirm fundamental trajectory), insider activity (to verify management conviction), and short interest (to gauge bearish sentiment) for a complete competitive-positioning picture.
+- **Complementary Metrics:** Combine with [earnings estimate revisions](earnings-estimates-revisions.md) (to confirm fundamental trajectory), [insider activity](insider-activity.md) (to verify management conviction), and [short interest](short-interest.md) (to gauge bearish sentiment) for a complete competitive-positioning picture.
 - **Reference Data:** Investors track industry relative strength using ratio charts — dividing a stock's price by its industry ETF or sub-industry index — on platforms like StockCharts or TrendSpider.
 
 ## Further Research

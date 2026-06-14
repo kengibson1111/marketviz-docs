@@ -19,7 +19,7 @@ The forward P/E ratio divides a company's current stock price by its forecasted 
 ## Key Risks and Limitations
 
 - **Forecast Uncertainty Risk:** The risk inherent in the metric itself is forecast inaccuracy. Analysts' estimates can be overly optimistic or inaccurate, meaning your assessment of risk is only as good as the underlying data.
-  - *How to address:* Check the direction of recent earnings estimate revisions (30-day and 90-day trends). If estimates are being revised downward, the forward P/E is actually understating how expensive the stock may become. Also compare the forward P/E to the trailing P/E — if the forward figure is dramatically lower, it implies aggressive growth expectations that should be scrutinized against the company's historical delivery.
+  - *How to address:* Check the direction of recent [earnings estimate revisions](../experts/earnings-estimates-revisions.md) (30-day and 90-day trends). If estimates are being revised downward, the forward P/E is actually understating how expensive the stock may become. Also compare the forward P/E to the trailing P/E — if the forward figure is dramatically lower, it implies aggressive growth expectations that should be scrutinized against the company's historical delivery.
 
 ## Further Research
 

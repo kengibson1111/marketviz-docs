@@ -25,7 +25,7 @@ P/S ratios vary widely by sector. A P/S ratio of 10 might be dangerously high fo
 
 ### Revenue Growth Rate
 
-A high P/S can be justified if the company is growing its top-line revenue exponentially (e.g., 40% to 50%+ year-over-year). However, slowing growth rates are a major red flag for high-P/S stocks.
+A high P/S can be justified if the company is growing its top-line [revenue](revenue.md) exponentially (e.g., 40% to 50%+ year-over-year). However, slowing growth rates are a major red flag for high-P/S stocks.
 
 ### Margin Expansion Potential
 
@@ -38,7 +38,7 @@ The P/S ratio completely ignores debt. A company with high sales may still be at
 ## Key Risks and Limitations
 
 - **Ignores Profitability:** A company can have enormous revenue but zero or negative profits. P/S alone cannot distinguish between a profitable business and one burning money to grow.
-  - *How to address:* Always pair P/S with margin data (gross margin, operating margin) and free cash flow. A high-P/S stock with expanding margins and positive FCF is fundamentally different from one burning cash. Check whether the company has a realistic path to profitability and when breakeven is projected.
+  - *How to address:* Always pair P/S with margin data (gross margin, operating margin) and [free cash flow](free-cash-flow.md). A high-P/S stock with expanding margins and positive FCF is fundamentally different from one burning cash. Check whether the company has a realistic path to profitability and when breakeven is projected.
 - **No Debt Consideration:** P/S uses market capitalization (equity value only) in the numerator but does not account for outstanding debt. Two companies with identical P/S ratios can carry vastly different enterprise-level risk.
   - *How to address:* Use $\text{EV/Revenue} = \text{Enterprise Value} \div \text{Revenue}$ as a debt-adjusted alternative. A company with P/S of 5 and no debt looks very different from one with P/S of 5 and $3B in net debt — EV/Revenue reveals the true multiple that includes both equity and debt claims.
 - **Revenue Quality Varies:** Not all revenue is recurring or high-margin. One-time contracts, licensing deals, or low-margin hardware sales inflate the denominator without reflecting sustainable cash generation.

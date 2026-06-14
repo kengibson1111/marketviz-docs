@@ -39,7 +39,7 @@ Absolute price strength provides objective, mathematically defined price levels 
 - **False Signals:** In choppy or sideways markets, price strength indicators frequently generate misleading buy or sell signals that can whipsaw investors.
   - *How to address:* During range-bound periods, widen your threshold for acting on moving average crossovers. Require the price to close decisively beyond a level for 2–3 consecutive days before treating it as a confirmed signal. Alternatively, use longer moving averages (200-day) that generate fewer but more reliable signals.
 - **Ignores Fundamentals:** Price strength tells you nothing about a company's financial health. A stock can show strong momentum while the underlying business deteriorates.
-  - *How to address:* Always validate price strength signals against fundamental data. If a stock shows strong momentum but earnings estimates are declining and free cash flow is negative, the technical signal may be reflecting speculative activity rather than sustainable demand. Use fundamentals as a veto on purely technical entry signals.
+  - *How to address:* Always validate price strength signals against fundamental data. If a stock shows strong momentum but [earnings estimates](../experts/earnings-estimates-revisions.md) are declining and [free cash flow](../financial/free-cash-flow.md) is negative, the technical signal may be reflecting speculative activity rather than sustainable demand. Use fundamentals as a veto on purely technical entry signals.
 
 ## Contextual Usage
 

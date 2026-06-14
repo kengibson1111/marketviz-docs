@@ -42,7 +42,7 @@ To expand your fundamental analysis, review resources like [Investopedia's Forwa
 ## Key Risks and Limitations
 
 - **Based on Projected (Not Guaranteed) Payments:** Forward yield uses the most recently declared dividend annualized. Any cut, suspension, or delay invalidates the calculation immediately.
-  - *How to address:* Verify dividend sustainability by checking the forward payout ratio ($\text{Forward Dividend} \div \text{Projected Earnings}$). If it exceeds 80%, the dividend is at elevated cut risk. Also review free cash flow coverage — the dividend should be comfortably covered by cash generation, not just accounting earnings.
+  - *How to address:* Verify dividend sustainability by checking the [forward payout ratio](dividend-payout-forward.md) ($\text{Forward Dividend} \div \text{Projected Earnings}$). If it exceeds 80%, the dividend is at elevated cut risk. Also review [free cash flow](free-cash-flow.md) coverage — the dividend should be comfortably covered by cash generation, not just accounting earnings.
 - **Price Sensitivity Creates False Signals:** Because yield moves inversely to price, a stock experiencing fundamental deterioration can appear to offer an attractive forward yield precisely when risk is highest.
   - *How to address:* Determine the cause of the high yield. If the stock has dropped 30%+ in the past quarter, investigate whether earnings estimates are falling alongside it. A high yield driven by a price decline with stable-to-rising earnings is more credible than one paired with deteriorating fundamentals.
 - **Ignores Total Return:** Forward yield measures income only. A stock with a high forward yield but declining share price may deliver negative total returns despite the dividend.

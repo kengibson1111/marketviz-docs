@@ -60,7 +60,7 @@ High executive turnover alongside heavy insider selling can be a red flag pointi
 
 - **Fundamental Confirmation:** Best used to validate or challenge your independent fundamental analysis — if you are bearish but insiders are aggressively buying, investigate what they may know that the market is missing.
 - **Cluster Activity Screening:** Focus on periods where three or more insiders transact in the same direction within a 30-day window for the highest-conviction signals.
-- **Complementary Metrics:** Most effective when paired with earnings estimate revisions, short interest, free cash flow trends, and debt-to-equity to build a complete picture of forward-looking risk.
+- **Complementary Metrics:** Most effective when paired with [earnings estimate revisions](earnings-estimates-revisions.md), [short interest](short-interest.md), [free cash flow](../financial/free-cash-flow.md) trends, and [debt-to-equity](../financial/debt-to-equity.md) to build a complete picture of forward-looking risk.
 - **Reference Data:** You can track insider transactions on platforms like SEC EDGAR, Quiver Quantitative, or Nasdaq's insider activity pages.
 
 ## Further Research

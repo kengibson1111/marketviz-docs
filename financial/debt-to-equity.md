@@ -27,7 +27,7 @@ Acceptable D/E ratios vary drastically depending on the sector. Capital-intensiv
 
 ### 2. Check the Interest Coverage Ratio
 
-A high D/E isn't necessarily fatal if the company generates massive cash flow to easily cover its interest payments. Look at the Interest Coverage Ratio (EBIT ÷ Interest Expense) to see exactly how comfortably the company is servicing its debt.
+A high D/E isn't necessarily fatal if the company generates massive cash flow to easily cover its interest payments. Look at the [Interest Coverage Ratio](interest-coverage-ratio.md) (EBIT ÷ Interest Expense) to see exactly how comfortably the company is servicing its debt.
 
 ### 3. Analyze the Growth Trajectory
 
@@ -40,7 +40,7 @@ Sometimes, a company takes on significant debt to aggressively fund expansion or
 - **Off-Balance-Sheet Obligations:** Operating leases, pension liabilities, and contingent guarantees may not appear in the standard D/E calculation, understating true leverage.
   - *How to address:* Review the footnotes in the 10-K for operating lease obligations, unfunded pension liabilities, and guarantees. Add these to the debt figure for a more complete picture. Post-IFRS 16 / ASC 842 reporting now capitalizes most leases, but older filings may not reflect this.
 - **Equity Distortions:** Share buybacks, accumulated losses, or large intangible asset write-downs can shrink the equity base and artificially inflate the ratio without any change in actual borrowing.
-  - *How to address:* Check whether equity has been reduced by aggressive buybacks or goodwill write-downs. If the D/E ratio spiked without new borrowing, look at total debt relative to EBITDA (Net Debt/EBITDA) as an alternative leverage measure that is less affected by equity-side distortions.
+  - *How to address:* Check whether equity has been reduced by aggressive buybacks or goodwill write-downs. If the D/E ratio spiked without new borrowing, look at total debt relative to EBITDA (Net Debt/EBITDA) as an alternative leverage measure that is less affected by equity-side distortions. Also review the [interest coverage ratio](interest-coverage-ratio.md) post-transaction.
 - **Point-in-Time Measure:** The D/E ratio captures a single balance sheet date. Seasonal borrowing patterns or recent debt issuance for strategic acquisitions can temporarily distort the picture.
   - *How to address:* Review the D/E trend over four or more quarters. If a spike coincides with a recent acquisition, check whether the acquired assets are generating enough cash flow to service the new debt by reviewing the interest coverage ratio post-transaction.
 

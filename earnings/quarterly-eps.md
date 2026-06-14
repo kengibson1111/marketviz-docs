@@ -13,7 +13,7 @@ Multi-year quarterly as-reported EPS (Earnings Per Share), which follows GAAP or
 
 ### Forensic Accounting & "Cleanliness" Checks
 
-Analysts compare as-reported results with management's "adjusted" or non-GAAP EPS to assess earnings quality.
+Analysts compare as-reported results with management's "adjusted" or non-GAAP EPS to assess [earnings quality](earnings-quality.md).
 
 - **Where it's used:** Side-by-side comparison of as-reported EPS vs. company-presented adjusted EPS over multiple years.
 - **Risk context:** If multi-year as-reported EPS consistently falls far below adjusted EPS, it points to aggressive accounting, excessive stock-based compensation, or frequently recurring "one-time" write-offs. This gap signals that management may be masking structural profitability issues behind non-GAAP adjustments.
@@ -59,7 +59,7 @@ By mapping as-reported quarterly results over a multi-year period, analysts trac
 
 - **Value Investing:** Essential for establishing whether a stock's historical earnings power justifies its current valuation multiple.
 - **Forensic Investing:** The primary tool for detecting patterns of aggressive accounting or recurring "exceptional" charges that erode long-term shareholder value.
-- **Complementary Metrics:** Best used alongside diluted EPS, normalized EPS, free cash flow, and operating cash flow to build a complete picture of earnings quality and risk.
+- **Complementary Metrics:** Best used alongside [diluted EPS](diluted-eps.md), [normalized EPS](normalized-eps.md), [free cash flow](../financial/free-cash-flow.md), and operating cash flow to build a complete picture of earnings quality and risk.
 
 ## Further Research
 

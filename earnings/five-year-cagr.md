@@ -37,7 +37,7 @@ By measuring a stock's 5-year CAGR against the CAGR of a benchmark index (like t
 - **Hides Volatility:** Because CAGR calculates a "smoothed" constant rate, it hides volatility—meaning a stock with an erratic path will have the exact same CAGR as a stock with slow and steady growth.
   - *How to address:* Always pair CAGR with a volatility measure like standard deviation or maximum drawdown over the same period. Two stocks with identical 5-year CAGRs can have vastly different risk profiles — the one with lower standard deviation delivered more reliable compounding.
 - **Backward-Looking:** Past CAGR does not predict future returns; market conditions, competitive dynamics, and macroeconomic shifts can dramatically alter growth trajectories.
-  - *How to address:* Cross-reference historical CAGR with forward analyst estimates and the company's revenue growth trend. If forward projections are materially lower than the historical CAGR, the past rate is likely unsustainable. Also check whether the growth was organic or acquisition-driven.
+  - *How to address:* Cross-reference historical CAGR with forward analyst estimates and the company's [revenue growth](revenue-growth.md) trend. If forward projections are materially lower than the historical CAGR, the past rate is likely unsustainable. Also check whether the growth was organic or acquisition-driven.
 - **Window Sensitivity:** The specific five-year window chosen can significantly impact the result, especially if it begins or ends during unusual market conditions.
   - *How to address:* Calculate CAGR over multiple overlapping windows (e.g., 3-year, 5-year, 7-year) to see if results are consistent. If the 5-year CAGR looks dramatically different from the 3-year or 7-year figure, investigate whether the window start or end coincided with a market crash, pandemic, or one-time event.
 
@@ -45,7 +45,7 @@ By measuring a stock's 5-year CAGR against the CAGR of a benchmark index (like t
 
 - **Growth Stocks:** Useful for verifying whether rapid price appreciation is backed by real compounding in revenue or earnings.
 - **Income Stocks:** Helps assess whether dividend growth has compounded at a rate that keeps pace with inflation and market returns.
-- **Complementary Metrics:** Best used alongside volatility measures (standard deviation, beta), PEG ratio, and earnings quality indicators to form a complete risk picture.
+- **Complementary Metrics:** Best used alongside volatility measures ([standard deviation](../technicals/standard-deviation.md), [beta](../technicals/beta.md)), [PEG ratio](../financial/peg.md), and [earnings quality](earnings-quality.md) indicators to form a complete risk picture.
 
 ## Further Research
 

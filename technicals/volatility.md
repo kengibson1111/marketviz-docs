@@ -57,7 +57,7 @@ Traders and investors use volatility to identify opportunities and protect again
 - **Backward-Looking:** Standard deviation and historical volatility are calculated from past data. They assume prior patterns will persist, which may not hold during regime changes or black swan events.
   - *How to address:* Compare historical volatility to implied volatility (from options pricing). If implied volatility is significantly higher than historical, the market expects upcoming turbulence that history doesn't capture. Also check whether fundamental changes (acquisitions, leadership shifts, regulatory actions) suggest the future may not resemble the past.
 - **Does Not Indicate Direction:** Volatility measures the size of price moves, not whether those moves will be up or down. A high-volatility stock could surge or collapse with equal statistical likelihood.
-  - *How to address:* Combine volatility with directional signals: price trend (above/below 200-day moving average), earnings estimate revisions, and insider activity. High volatility paired with positive fundamental momentum is different from high volatility paired with deteriorating fundamentals — the former may represent opportunity while the latter represents danger.
+  - *How to address:* Combine volatility with directional signals: price trend (above/below 200-day moving average), [earnings estimate revisions](../experts/earnings-estimates-revisions.md), and [insider activity](../experts/insider-activity.md). High volatility paired with positive fundamental momentum is different from high volatility paired with deteriorating fundamentals — the former may represent opportunity while the latter represents danger.
 - **Time Period Sensitivity:** Volatility values change significantly depending on the measurement window (30 days vs. 1 year) and data frequency (daily vs. weekly), potentially giving conflicting signals.
   - *How to address:* Use a consistent measurement methodology across all stocks you're evaluating. For portfolio decisions, annualized volatility from monthly returns over 3 years provides a stable baseline. For short-term tactical decisions, 30-day realized volatility is more responsive but noisier.
 - **Volatility Clustering:** Periods of high volatility tend to cluster together. A stock that becomes volatile often stays volatile for extended stretches, making it difficult to time entries during calm windows.
@@ -67,7 +67,7 @@ Traders and investors use volatility to identify opportunities and protect again
 
 - **Risk Tolerance Matching:** Best used to confirm that a stock's price behavior aligns with your personal comfort level for uncertainty before entering a position.
 - **Portfolio-Level Analysis:** Essential for evaluating how adding a new position will shift your portfolio's aggregate risk exposure and whether diversification benefits hold.
-- **Complementary Metrics:** Most effective when paired with beta, earnings stability, and fundamental health indicators to distinguish between volatility driven by opportunity and volatility driven by deteriorating fundamentals.
+- **Complementary Metrics:** Most effective when paired with [beta](beta.md), [earnings stability](../earnings/earnings-stability.md), and fundamental health indicators to distinguish between volatility driven by opportunity and volatility driven by deteriorating fundamentals.
 - **Reference Data:** You can find a stock's historical and implied volatility on platforms like Yahoo Finance or Fidelity's Learning Center.
 
 ## Further Research

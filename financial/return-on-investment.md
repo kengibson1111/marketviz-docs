@@ -19,13 +19,13 @@ A stock's one-year Return on Investment (ROI) is primarily used as a tactical ba
 ## Key Risks and Limitations
 
 - **Short Timeframe Bias:** One year is too brief to draw conclusions about a stock's long-term risk or reward. A single year can be dominated by one-time events, anomalies, or unusual market conditions.
-  - *How to address:* Always evaluate 1-year ROI alongside 3-year and 5-year CAGR figures. If the one-year return deviates dramatically from the longer-term averages, investigate whether a one-time catalyst (earnings surprise, M&A, sector rotation) drove the divergence.
+  - *How to address:* Always evaluate 1-year ROI alongside 3-year and [5-year CAGR](../earnings/five-year-cagr.md) figures. If the one-year return deviates dramatically from the longer-term averages, investigate whether a one-time catalyst (earnings surprise, M&A, sector rotation) drove the divergence.
 - **No Volatility Context:** A raw one-year return number does not reveal the path taken. Two stocks with identical one-year ROI can have vastly different risk profiles depending on the severity of drawdowns within that year.
   - *How to address:* Check the maximum drawdown and standard deviation during the same one-year period. A stock that returned 15% with a 5% max drawdown has a very different risk profile from one that returned 15% but experienced a 40% drawdown mid-year. The Sharpe ratio incorporates this distinction.
 - **Benchmark Dependency:** One-year ROI is only meaningful when compared to an appropriate benchmark. Mismatched comparisons (e.g., comparing a small-cap stock to the S&P 500) can produce misleading performance conclusions.
   - *How to address:* Compare against the most relevant benchmark for the stock's market cap and sector (e.g., Russell 2000 for small-caps, sector ETFs for sector-specific stocks). Also compare against the 3-month T-Bill return to see whether the stock is compensating you for taking equity risk over the same period.
 - **Does Not Predict Future Returns:** Past one-year returns have limited predictive value for future performance. Mean reversion, changing market conditions, and evolving fundamentals can reverse prior trends.
-  - *How to address:* Treat one-year ROI as a diagnostic rather than a forecast. Pair it with forward-looking indicators like earnings estimate revisions, revenue growth trajectory, and valuation metrics to assess whether the past year's trend is likely to continue or reverse.
+  - *How to address:* Treat one-year ROI as a diagnostic rather than a forecast. Pair it with forward-looking indicators like [earnings estimate revisions](../experts/earnings-estimates-revisions.md), revenue growth trajectory, and valuation metrics to assess whether the past year's trend is likely to continue or reverse.
 
 ## Further Research
 

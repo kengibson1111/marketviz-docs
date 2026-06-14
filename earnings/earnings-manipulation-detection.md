@@ -48,7 +48,7 @@ Comparing the standard deviation of earnings to the standard deviation of operat
 - **False Positives:** A high Beneish M-Score or accrual ratio does not prove manipulation — fast-growing companies or those undergoing legitimate business transitions may trigger these signals.
   - *How to address:* Before acting on a red flag, check whether the company recently completed an acquisition, entered a new market, or changed its revenue recognition method. Legitimate transitions often normalize within two to three quarters. Compare against industry peers to see if similar companies also show elevated scores.
 - **Lagging Indicators:** These tools rely on published financial statements, meaning manipulation may persist for several quarters before detection models flag it.
-  - *How to address:* Supplement with real-time signals like insider selling activity, short interest trends, and auditor changes. A spike in insider sales or a sudden auditor resignation alongside borderline detection scores strengthens the case for concern.
+  - *How to address:* Supplement with real-time signals like [insider selling activity](../experts/insider-activity.md), [short interest](../experts/short-interest.md) trends, and auditor changes. A spike in insider sales or a sudden auditor resignation alongside borderline detection scores strengthens the case for concern.
 - **Sector Sensitivity:** Capital-intensive or subscription-based businesses naturally carry higher accruals, requiring sector-adjusted thresholds rather than universal cutoffs.
   - *How to address:* Compare a company's accrual ratio or M-Score to its direct industry peers rather than to universal thresholds. Many screeners allow sector-relative filtering — use that to calibrate what "normal" looks like within the specific business model.
 - **No Single Silver Bullet:** Each tool captures a different dimension of risk. Cross-referencing two or more signals provides far more confidence than relying on any single metric.
@@ -57,9 +57,9 @@ Comparing the standard deviation of earnings to the standard deviation of operat
 ## Contextual Usage
 
 - **Normalized EPS Validation:** Use these tools to verify that a company's normalized earnings are not themselves the product of selective adjustments or artificial smoothing.
-- **Earnings Quality Screening:** Essential as a pre-filter before relying on any earnings-based valuation metric (P/E, PEG, Graham Formula).
+- **Earnings Quality Screening:** Essential as a pre-filter before relying on any earnings-based valuation metric (P/E, PEG, [Graham Formula](../financial/graham-formula.md)).
 - **Portfolio Monitoring:** Run periodic checks on holdings to detect deteriorating earnings quality before it shows up in price action.
-- **Complementary Metrics:** Best used alongside free cash flow analysis, earnings stability scores, and auditor opinion changes to build a complete picture of reporting reliability.
+- **Complementary Metrics:** Best used alongside [free cash flow](../financial/free-cash-flow.md) analysis, [earnings stability](earnings-stability.md) scores, and auditor opinion changes to build a complete picture of reporting reliability.
 
 ## Practical Access for Retail Investors
 

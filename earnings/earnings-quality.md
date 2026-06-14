@@ -13,7 +13,7 @@ Earnings quality is used to assess if a company's reported net income accurately
 
 ### Valuation Accuracy
 
-Traditional metrics like the Price-to-Earnings (P/E) ratio can be misleading if the "E" is artificially inflated. Adjusting earnings to remove one-time gains or asset sales prevents investors from paying a premium for an unsustainable valuation.
+Traditional metrics like the [Price-to-Earnings](../financial/price-to-earnings.md) (P/E) ratio can be misleading if the "E" is artificially inflated. Adjusting earnings to remove one-time gains or asset sales prevents investors from paying a premium for an unsustainable valuation.
 
 - **Where it's used:** Screening for companies where reported EPS includes non-recurring items such as asset sales, legal settlements, or tax windfalls.
 - **Risk context:** Paying a high multiple on inflated earnings exposes investors to sharp corrections when those gains are not repeated in subsequent quarters.
@@ -52,7 +52,7 @@ High-quality earnings demonstrate a robust, recurring business model. Investors 
 
 - **Defensive Investing:** Essential for identifying financially sound companies that are less likely to surprise investors with earnings shortfalls.
 - **Fraud Detection:** Useful as an early warning signal when combined with forensic accounting screens.
-- **Complementary Metrics:** Best used alongside free cash flow, debt-to-equity, and revenue growth to build a complete picture of fundamental risk.
+- **Complementary Metrics:** Best used alongside [free cash flow](../financial/free-cash-flow.md), [debt-to-equity](../financial/debt-to-equity.md), and [revenue growth](revenue-growth.md) to build a complete picture of fundamental risk.
 - **Reference Data:** You can evaluate the specific accounting metrics used to compute these scores by reviewing the NASDAQ Earnings Quality Ranking data feed.
 
 ## Further Research

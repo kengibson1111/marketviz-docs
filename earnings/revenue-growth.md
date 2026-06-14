@@ -22,7 +22,7 @@ Analyzing a consistent 5-year track record proves that a company's past success 
 
 Long-term revenue projections are fundamental inputs to establishing a stock's actual intrinsic worth.
 
-- **Calculating Intrinsic Value:** In Discounted Cash Flow (DCF) models, long-term projections (such as 5-year revenue forecasts) are the primary drivers for determining fair value.
+- **Calculating Intrinsic Value:** In [Discounted Cash Flow](../financial/discounted-cash-flow.md) (DCF) models, long-term projections (such as 5-year revenue forecasts) are the primary drivers for determining fair value.
 - **Avoiding Overpriced Hype:** Comparing current stock prices to their 5-year revenue run rate prevents you from paying a premium for a stock that the market has priced for near-perfect execution.
 
 ### Gauging Operational Risk
@@ -45,7 +45,7 @@ Comparing top-line revenue growth to bottom-line earnings growth reveals operati
 
 - **Growth Stocks:** Essential for confirming that high valuations are backed by proven, sustained revenue expansion rather than speculation.
 - **Dividend Stocks:** Provides confidence that cash flows supporting dividends are structurally growing.
-- **Complementary Metrics:** Best used alongside five-year earnings growth, free cash flow, and profit margins to build a complete picture of fundamental risk.
+- **Complementary Metrics:** Best used alongside [five-year earnings growth](earnings-growth.md), [free cash flow](../financial/free-cash-flow.md), and profit margins to build a complete picture of fundamental risk.
 
 ## Further Research
 
