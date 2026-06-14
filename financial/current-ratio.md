@@ -68,6 +68,13 @@ The quick ratio (also called the acid-test ratio) is a stricter version of the c
 - **Heavy or illiquid inventory:** Manufacturers, homebuilders, or specialty retailers with large, slow-moving inventory balances. If that inventory can't be sold quickly at fair value, the current ratio overstates real liquidity.
 - **Stress-testing solvency:** When evaluating whether a company could survive a sudden demand shock that renders inventory unsellable, the quick ratio provides a worst-case liquidity floor.
 
+## Key Risks and Limitations
+
+- **Asset Quality Assumptions:** The current ratio treats all current assets equally, but inventory and prepaid expenses may not convert to cash quickly or at full value during financial stress.
+- **Sector Variability:** Acceptable ratios differ drastically across industries. Applying universal thresholds without industry context produces misleading risk assessments.
+- **Timing Sensitivity:** The ratio is a point-in-time snapshot. Large debt maturities, seasonal revenue patterns, or recent capital raises can temporarily inflate or deflate the figure.
+- **Does Not Capture Cash Flow:** A company can have a healthy current ratio while burning cash operationally if current assets are growing due to uncollected receivables rather than genuine liquidity.
+
 ## Further Research
 
 To calculate and track this metric, use the [Bankrate Current Ratio Calculator](https://www.bankrate.com/business/current-ratio-calculator/) or explore the [Corporate Finance Institute Current Ratio Formula guide](https://corporatefinanceinstitute.com/resources/accounting/current-ratio-formula/) for in-depth examples. For broader context on liquidity ratios, check out the [Harvard Business School Online Liquidity Ratios guide](https://online.hbs.edu/blog/post/liquidity-ratios).

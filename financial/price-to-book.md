@@ -25,6 +25,13 @@ Many modern companies rely on intellectual property, brand value, or massive use
 
 A high P/B is justified if the company is generating massive returns on its equity (ROE).
 
+## Key Risks and Limitations
+
+- **Intangible-Heavy Companies:** P/B is unreliable for companies whose value derives from intellectual property, brand, or network effects, as these assets are not reflected in book value.
+- **Accounting Distortions:** Share buybacks, accumulated depreciation, and goodwill write-downs can dramatically alter the book value denominator without any change in the company's actual productive capacity.
+- **Sector Applicability:** The metric is most meaningful for asset-heavy industries (banking, manufacturing, real estate) and often misleading for asset-light sectors (technology, services).
+- **Does Not Capture Earnings Power:** A stock can trade below book value for years if the assets on the balance sheet fail to generate adequate returns.
+
 ## Further Research
 
 When researching, investors should use tools like the [AAII Price-to-Book Ratio Guide](https://www.aaii.com/education/article/15680-what-is-price-to-book-ratio) or view [Investopedia's P/B Analysis](https://www.investopedia.com/investing/using-price-to-book-ratio-evaluate-companies/) to understand how to compare this metric alongside return on equity (ROE) and industry averages.

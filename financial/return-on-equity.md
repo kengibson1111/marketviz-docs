@@ -41,6 +41,13 @@ A single year's ROE is useful, but the trend over multiple years tells a more co
 
 Always compare the ROE trend against industry peers. A company with a flat ROE in a sector where competitors are improving may be losing ground even if its absolute number looks acceptable.
 
+## Key Risks and Limitations
+
+- **Debt-Amplified ROE:** Companies can artificially boost ROE by taking on excessive debt (which reduces the equity base). A high ROE driven by leverage masks underlying weakness and increases bankruptcy risk.
+- **Backward-Looking:** Historical ROE reflects past performance and may not persist if the company's competitive position, margins, or capital structure are changing.
+- **Sector Variability:** Capital-intensive industries structurally produce lower ROE due to their large asset bases. Comparing across sectors without normalization is misleading.
+- **One-Time Distortions:** Asset write-downs, share buybacks, or non-recurring gains can temporarily inflate or deflate ROE without reflecting true operational efficiency.
+
 ## How to Evaluate
 
 To determine if a low ROE company is a value trap or a genuine bargain, evaluate these specific financial metrics:

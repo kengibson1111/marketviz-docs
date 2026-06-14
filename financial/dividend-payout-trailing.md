@@ -37,3 +37,10 @@ These are complementary metrics. A stock can have a modest yield but a dangerous
 ## References
 
 - [Investopedia: Dividend Payout Ratio Definition, Formula, and Calculation](https://www.investopedia.com/terms/d/dividendpayoutratio.asp)
+
+## Key Risks and Limitations
+
+- **Backward-Looking:** The trailing payout ratio reflects the past 12 months. A recent earnings decline or dividend hike may not yet be fully captured, understating current risk.
+- **Earnings Volatility Distortion:** For cyclical companies, trailing net income can fluctuate sharply, causing the payout ratio to swing between appearing safe and appearing dangerous without any change in actual dividend policy.
+- **Does Not Distinguish Funding Sources:** A trailing payout ratio below 100% does not prove the dividend was funded by operations — companies can use asset sales or debt proceeds to supplement earnings.
+- **Ignores Free Cash Flow:** Net income includes non-cash items (depreciation, amortization). A ratio based on net income can understate or overstate sustainability compared to one based on free cash flow.

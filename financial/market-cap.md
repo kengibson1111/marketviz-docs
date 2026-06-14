@@ -32,7 +32,7 @@ Market cap is the standard tool for balancing a portfolio to match an investor's
 - **Risk Management:** Diversifying across market caps prevents overexposure to a single market segment. For instance, mid-caps may offer a blend of stability and growth that large-caps cannot provide alone.
 - **Asset Allocation:** Analysts use cap-weighted benchmarks like the S&P 500 (large-cap) or the Russell 2000 (small-cap) to measure relative performance and risk.
 
-## Limitations in Risk Analysis
+## Key Risks and Limitations
 
 While useful, market cap does not provide a complete risk picture.
 

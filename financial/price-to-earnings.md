@@ -20,7 +20,7 @@ The price-to-earnings (P/E) ratio is primarily used in risk analysis to identify
 - **Historical Deviations:** Comparing a stock's current P/E to its historical range helps identify if it is currently at a high-risk peak valuation.
 - **Relative Sector Risk:** Comparing P/Es across the same industry helps identify outliers. A stock with a much higher P/E than its peers may carry more downside risk if it doesn't possess a distinct competitive advantage.
 
-## Limitations
+## Key Risks and Limitations
 
 Relying solely on P/E can mask other major risks:
 

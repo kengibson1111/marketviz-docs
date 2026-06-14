@@ -35,6 +35,13 @@ Calculated as FCFF ÷ Enterprise Value (or Market Capitalization), FCFF Yield he
 
 Comparing FCFF to reported net income helps expose aggressive accounting. If net income is rising but FCFF is stagnant or negative, the company may be facing uncollected receivables or inventory build-ups, signaling future operational risks and potential earnings restatements.
 
+## Key Risks and Limitations
+
+- **Forecast Dependency:** FCFF-based valuations depend on multi-year growth projections that are inherently uncertain. Small errors in assumptions compound significantly over a 5–10 year horizon.
+- **Working Capital Noise:** Changes in inventory, receivables, and payables can cause FCFF to fluctuate quarter to quarter without reflecting true operational improvement or decline.
+- **Does Not Isolate Equity Risk:** Because FCFF measures cash available to all capital providers (debt and equity), it can overstate value from the equity holder's perspective in highly leveraged companies.
+- **WACC Sensitivity:** The discount rate (WACC) used in FCFF models is itself an estimate. Small changes to the cost of equity or debt assumptions meaningfully shift the resulting enterprise value.
+
 ## How to Evaluate the Stock
 
 To confirm if a stock's FCFF profile fits your risk tolerance, you can:

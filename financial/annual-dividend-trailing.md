@@ -16,6 +16,13 @@ The trailing annual dividend is primarily used in risk analysis to assess a comp
 - **Verification of Consistency:** Investors use it to verify a company's track record of regular payments during varying market conditions, providing a "stress test" of past reliability.
 - **Lagging Indicator Risks:** In 2026, analysts caution that trailing data can be misleading if a company has recently announced a pivot in strategy or a major dividend cut that hasn't appeared in the last 12 months of actual cash outlays.
 
+## Key Risks and Limitations
+
+- **Backward-Looking:** Trailing dividends reflect what was already paid and may not represent the company's current financial capacity or management's forward intentions.
+- **Price-Driven Yield Inflation:** A rising trailing yield caused by a falling stock price creates a false signal of income strength when the underlying business may be deteriorating.
+- **Does Not Capture Payout Capacity:** The trailing dividend alone does not reveal whether payments were funded by earnings, debt, or cash reserves. Without payout ratio context, sustainability is unknown.
+- **Misses Recent Cuts or Suspensions:** If a dividend cut was announced but not yet reflected in a full 12-month trailing window, the metric overstates the company's income reliability.
+
 ## Comparison of Dividend Risk Metrics
 
 | Metric | Risk Focus | Data Source |

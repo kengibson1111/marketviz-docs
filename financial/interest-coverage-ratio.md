@@ -32,6 +32,13 @@ Determine if the ICR is improving or deteriorating over time. A temporarily low 
 
 The ICR uses EBIT (Earnings Before Interest and Taxes). Always cross-reference this with the company's actual Free Cash Flow (FCF) to ensure they have the hard cash on hand to make payments.
 
+## Key Risks and Limitations
+
+- **Single-Year Snapshot:** A low ICR in one period may reflect temporary conditions (a large capital investment, restructuring charges) rather than chronic inability to service debt.
+- **Uses EBIT, Not Cash Flow:** EBIT includes non-cash items like depreciation. A company may have a weak ICR on paper while generating adequate cash to cover interest payments.
+- **Ignores Principal Repayments:** The ratio only measures interest coverage, not the company's ability to repay debt principal when it matures.
+- **Sector Variability:** Capital-intensive industries structurally operate with lower coverage ratios. Applying a universal threshold without sector context produces false alarms.
+
 ## Further Research
 
 Review the [Investopedia Interest Coverage Ratio Guide](https://www.investopedia.com/terms/i/interestcoverageratio.asp) for a detailed breakdown of the formula and its broader implications. If a company's ratio is borderline or low, ensure it possesses massive cash reserves or operates in a highly recession-resistant industry before considering an investment.

@@ -33,6 +33,13 @@ This reveals how fragile an investment is to changing economic conditions. A sto
 
 By focusing purely on free cash flow rather than accounting earnings, DCF removes the ability of inflated net incomes or accounting maneuvers to hide underlying operational or liquidity risks. This gives investors a clearer view of actual business performance.
 
+## Key Risks and Limitations
+
+- **Input Sensitivity:** Small changes to the discount rate or growth assumptions can swing intrinsic value by 30–50%, making the output only as reliable as its inputs.
+- **Forecasting Difficulty:** Projecting free cash flows 5–10 years into the future requires assumptions about revenue growth, margins, and capital expenditures that are inherently speculative.
+- **Terminal Value Dominance:** In most DCF models, 60–80% of the calculated value comes from the terminal value — a single assumption about perpetual growth — rather than from near-term, observable cash flows.
+- **Not Suitable for All Companies:** Early-stage, pre-profit, or highly cyclical companies lack the stable cash flow patterns that DCF modeling requires, making the output unreliable for these categories.
+
 ## How to Evaluate the Stock
 
 To learn more about setting up a DCF model for your specific portfolio, you can:

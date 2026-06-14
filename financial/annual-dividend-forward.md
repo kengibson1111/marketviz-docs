@@ -24,3 +24,10 @@ In stock analysis, the forward annual dividend is a primary input for calculatin
 ## Comparison with Trailing Metrics
 
 While the trailing dividend shows what a company has paid, the forward dividend reflects current management confidence and upcoming obligations. Discrepancies between the two often highlight a recent shift in risk profile - such as a recent dividend hike (lower risk/growth signal) or a dividend suspension (high risk).
+
+## Key Risks and Limitations
+
+- **Projection Uncertainty:** Forward dividends are based on the most recently declared rate annualized. Companies can cut or suspend dividends at any time, making the forward figure unreliable for companies with inconsistent payout histories.
+- **Ignores Special Dividends:** The forward metric captures regular dividends only. Special one-time payouts or irregular distributions are excluded, potentially understating total shareholder returns.
+- **Price-Driven Yield Distortion:** Because yield is calculated against the current share price, a falling stock price automatically inflates the forward yield, creating the appearance of income strength when the underlying situation may be deteriorating.
+- **Does Not Capture Total Return:** Focusing solely on dividend income ignores capital appreciation (or depreciation), which often dominates total shareholder returns over time.

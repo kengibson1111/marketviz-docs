@@ -37,3 +37,10 @@ When analyzing this risk metric, consider these nuances:
 
 - [Breckinridge Capital Advisors: Navigating the Risks of High Payout Ratios](https://www.breckinridge.com/insights/navigating-the-risks-high-payout-ratios-and-stable-dividend-income)
 - [Morningstar: How to Spot Dividend Traps](https://www.morningstar.com/stocks/is-your-dividend-income-risk-heres-how-spot-dividend-traps)
+
+## Key Risks and Limitations
+
+- **Earnings Forecast Dependency:** The forward payout ratio is only as reliable as the earnings projection it uses. If analysts overestimate future profits, the ratio will appear safer than reality warrants.
+- **Does Not Capture Cash Flow:** The ratio uses projected net income, which includes non-cash items. A company can have a sustainable-looking payout ratio while lacking the cash to actually fund the dividend.
+- **One-Year Horizon Only:** The forward ratio projects one year ahead. Companies facing multi-year earnings declines may show a comfortable near-term ratio that masks longer-term unsustainability.
+- **Sector-Specific Norms:** REITs and MLPs are structured to distribute most earnings by design. Applying standard payout thresholds to these entities produces false alarms.

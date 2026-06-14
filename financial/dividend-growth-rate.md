@@ -47,3 +47,10 @@ Platforms and index funds use the 5-year dividend growth rate as a strict requir
 ## Further Reading
 
 To deepen your understanding of dividend growth analysis, review resources like [Investopedia's Dividend Growth Rate Guide](https://www.investopedia.com/terms/d/dividendgrowthrate.asp) for calculation methods and practical examples.
+
+## Key Risks and Limitations
+
+- **Backward-Looking Bias:** A strong five-year growth rate does not guarantee future increases. Deteriorating earnings, rising debt, or management changes can reverse established growth trends.
+- **Base Effect Distortion:** A company that cut its dividend five years ago and then restored it can show an artificially high growth rate from a depressed base, overstating true financial improvement.
+- **Ignores Payout Sustainability:** Rapid dividend growth funded by increasing debt or unsustainable payout ratios may appear positive while actually elevating future cut risk.
+- **Sector Limitations:** Some industries (utilities, REITs) have structural payout constraints that cap growth regardless of business performance, making cross-sector comparisons misleading.

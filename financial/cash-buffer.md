@@ -63,6 +63,13 @@ A shrinking cash buffer over consecutive quarters — especially if paired with 
 - **Growth-stage or pre-profit companies:** The cash buffer is critical — it represents survival runway.
 - **Cyclical businesses:** Companies in cyclical industries should carry larger buffers to weather downturns.
 
+## Key Risks and Limitations
+
+- **Not a Profitability Measure:** A large cash buffer does not mean the company is profitable or well-managed — it only indicates short-term liquidity. A company can hold significant cash while its core operations steadily lose money.
+- **Opportunity Cost:** Excessive cash sitting idle may signal that management lacks attractive reinvestment opportunities, potentially dragging long-term shareholder returns.
+- **Context-Dependent Benchmarks:** Acceptable cash levels vary widely by industry, business stage, and capital structure. Comparing across sectors without adjustment produces misleading conclusions.
+- **Point-in-Time Snapshot:** Cash balances fluctuate significantly around debt maturities, dividend payments, and seasonal revenue cycles. A single quarter's figure may not represent the company's typical liquidity position.
+
 ## Further Research
 
 For more context on evaluating liquidity and cash positions, explore the [Corporate Finance Institute Cash Ratio guide](https://corporatefinanceinstitute.com/resources/accounting/cash-ratio/) or the [Investopedia Cash and Cash Equivalents overview](https://www.investopedia.com/terms/c/cashandcashequivalents.asp).

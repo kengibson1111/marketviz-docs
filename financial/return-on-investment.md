@@ -16,6 +16,13 @@ A stock's one-year Return on Investment (ROI) is primarily used as a tactical ba
 - **Benchmark Comparison (Alpha):** One-year ROI is compared directly to the return of a benchmark index to find Alpha. If a stock's one-year return is lower than the benchmark, it indicates underperformance and poor risk-adjusted returns.
 - **Sharpe Ratio:** This metric measures the excess return of a stock relative to the risk-free rate (like a 10-year Treasury) divided by its standard deviation. One-year returns provide the necessary data point for short-term risk-adjusted performance comparisons.
 
+## Key Risks and Limitations
+
+- **Short Timeframe Bias:** One year is too brief to draw conclusions about a stock's long-term risk or reward. A single year can be dominated by one-time events, anomalies, or unusual market conditions.
+- **No Volatility Context:** A raw one-year return number does not reveal the path taken. Two stocks with identical one-year ROI can have vastly different risk profiles depending on the severity of drawdowns within that year.
+- **Benchmark Dependency:** One-year ROI is only meaningful when compared to an appropriate benchmark. Mismatched comparisons (e.g., comparing a small-cap stock to the S&P 500) can produce misleading performance conclusions.
+- **Does Not Predict Future Returns:** Past one-year returns have limited predictive value for future performance. Mean reversion, changing market conditions, and evolving fundamentals can reverse prior trends.
+
 ## Why Context Matters
 
 While one-year ROI helps measure recent risk, relying on it alone can be misleading because it captures a short, potentially unrepresentative timeframe. Longer-term horizons (like 3-, 5-, or 10-year Compound Annual Growth Rates (CAGR)) are generally preferred to smooth out market cycles and get an accurate picture of a stock's long-term risk profile.

@@ -33,3 +33,10 @@ A stock's trailing yield can reveal whether a dividend-paying stock is currently
 ## Mitigating Risk
 
 To mitigate risk, investors rarely rely on trailing yield in isolation. It is used as an initial screening metric to identify potential investments, which are then cross-referenced with forward yield forecasts, free cash flow, and balance sheet health.
+
+## Key Risks and Limitations
+
+- **Backward-Looking:** Trailing yield reflects dividends already paid. It cannot account for recently announced cuts, suspensions, or policy changes that have not yet flowed through a full 12-month window.
+- **Price-Driven Distortion:** A spiking trailing yield often signals a crashing stock price rather than generous payouts, creating a misleading appearance of income attractiveness.
+- **Ignores Payout Source:** The trailing yield does not reveal whether dividends were funded by operating cash flow, debt issuance, or asset sales. Sustainability requires separate payout ratio analysis.
+- **No Forward Predictive Power:** Past dividends do not guarantee future payments. Companies can reduce or eliminate dividends at any time based on changing business conditions.

@@ -35,6 +35,13 @@ Assess if the company can scale its profit margins over time. A company with hig
 
 The P/S ratio completely ignores debt. A company with high sales may still be at risk of bankruptcy if it has a heavy debt burden or is burning through its cash reserves.
 
+## Key Risks and Limitations
+
+- **Ignores Profitability:** A company can have enormous revenue but zero or negative profits. P/S alone cannot distinguish between a profitable business and one burning money to grow.
+- **No Debt Consideration:** P/S uses market capitalization (equity value only) in the numerator but does not account for outstanding debt. Two companies with identical P/S ratios can carry vastly different enterprise-level risk.
+- **Revenue Quality Varies:** Not all revenue is recurring or high-margin. One-time contracts, licensing deals, or low-margin hardware sales inflate the denominator without reflecting sustainable cash generation.
+- **Limited Cross-Sector Utility:** Acceptable P/S ranges vary enormously by industry. Applying a universal threshold across sectors produces misleading conclusions.
+
 ## Further Research
 
 Before committing your capital, consult the [Investopedia Guide to P/S Ratios](https://www.investopedia.com/terms/p/price-to-salesratio.asp) for a breakdown of valuation, and ensure you check the company's profitability and debt on financial platforms like [Yahoo Finance](https://finance.yahoo.com).

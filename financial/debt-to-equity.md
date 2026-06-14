@@ -33,6 +33,13 @@ A high D/E isn't necessarily fatal if the company generates massive cash flow to
 
 Sometimes, a company takes on significant debt to aggressively fund expansion or acquisitions. If those investments generate returns that exceed the cost of the debt, it can ultimately boost the share price.
 
+## Key Risks and Limitations
+
+- **Industry Norms Vary Widely:** Capital-intensive sectors (utilities, airlines) naturally carry high D/E ratios that would be alarming in asset-light industries. Cross-sector comparisons without normalization are misleading.
+- **Off-Balance-Sheet Obligations:** Operating leases, pension liabilities, and contingent guarantees may not appear in the standard D/E calculation, understating true leverage.
+- **Equity Distortions:** Share buybacks, accumulated losses, or large intangible asset write-downs can shrink the equity base and artificially inflate the ratio without any change in actual borrowing.
+- **Point-in-Time Measure:** The D/E ratio captures a single balance sheet date. Seasonal borrowing patterns or recent debt issuance for strategic acquisitions can temporarily distort the picture.
+
 ## Further Research
 
 To investigate the financial health of a specific company, you can check its balance sheet and leverage ratios on financial platforms like [Yahoo Finance](https://finance.yahoo.com) or [Morningstar](https://www.morningstar.com).

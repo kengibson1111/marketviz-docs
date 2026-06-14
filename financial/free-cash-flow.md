@@ -28,6 +28,13 @@ If a company's FCF is low or declining, watch out for these warning signs that i
 
 The acceptable level of FCF varies by sector. Capital-intensive industries (like manufacturing, telecommunications, or utilities) naturally have lower FCF due to constant equipment upgrades. However, asset-light sectors (like software) should consistently convert a high percentage of their revenue into free cash.
 
+## Key Risks and Limitations
+
+- **Ignores Growth Phase:** Negative FCF is normal for high-growth companies reinvesting aggressively. Using FCF alone to judge these companies may cause you to miss legitimate opportunities.
+- **Capital Expenditure Timing:** Large one-time investments (factory builds, acquisitions) can depress FCF temporarily without reflecting ongoing operational weakness.
+- **Accounting Variability:** Companies classify certain expenditures differently between operating and investing activities, making cross-company FCF comparisons imperfect.
+- **Does Not Measure Quality of Spending:** FCF tells you how much cash remains but not whether the reinvestments being made are generating adequate returns.
+
 ## How to Evaluate the Stock
 
 To confirm if a low-FCF stock fits your risk tolerance, you can:

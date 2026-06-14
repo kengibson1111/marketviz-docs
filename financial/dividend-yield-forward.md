@@ -38,3 +38,10 @@ When analyzing risk, comparing the forward yield to the trailing yield (actual p
 ## Further Reading
 
 To expand your fundamental analysis, review resources like [Investopedia's Forward Dividend Yield Guide](https://www.investopedia.com/terms/f/forward-dividend-yield.asp) or [Morningstar's Dividend Yield Definition](https://www.morningstar.com/investing-terms/dividend-yield-forward) for details on calculating expected returns.
+
+## Key Risks and Limitations
+
+- **Based on Projected (Not Guaranteed) Payments:** Forward yield uses the most recently declared dividend annualized. Any cut, suspension, or delay invalidates the calculation immediately.
+- **Price Sensitivity Creates False Signals:** Because yield moves inversely to price, a stock experiencing fundamental deterioration can appear to offer an attractive forward yield precisely when risk is highest.
+- **Ignores Total Return:** Forward yield measures income only. A stock with a high forward yield but declining share price may deliver negative total returns despite the dividend.
+- **Does Not Account for Tax Treatment:** Dividend tax rates vary by jurisdiction and investor type. The quoted yield overstates after-tax income for investors in high tax brackets.

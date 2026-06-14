@@ -15,7 +15,7 @@ The forward P/E ratio divides a company's current stock price by its forecasted 
 - **Cyclical and Turnaround Assessment:** For companies with volatile earnings (like retail or manufacturing) or those recovering from a slump, trailing P/E ratios can be misleading. Forward P/E focuses on normalized future operations, providing a clearer baseline for risk.
 - **Sector & Peer Group Comparisons:** Comparing a stock's forward P/E to competitors or industry averages helps identify if a stock is overvalued or undervalued relative to the sector's general consensus.
 
-## Limitations
+## Key Risks and Limitations
 
 - **Forecast Uncertainty Risk:** The risk inherent in the metric itself is forecast inaccuracy. Analysts' estimates can be overly optimistic or inaccurate, meaning your assessment of risk is only as good as the underlying data.
 

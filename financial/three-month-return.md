@@ -29,3 +29,10 @@ While the return of a 3-month T-Bill is used to measure baseline risk, looking a
 
 - **Short-Term Momentum Analysis:** Gauging immediate, short-term bullish or bearish trends.
 - **Volatility and Value-at-Risk (VaR) Calibration:** Setting near-term limits on how much a portfolio is allowed to drop during a quarter.
+
+## Key Risks and Limitations
+
+- **Not a Direct Stock Risk Metric:** The 3-month T-Bill yield measures macro interest rate conditions, not the risk of any individual stock. Changes in this rate affect all equities simultaneously.
+- **Assumption of "Risk-Free":** While U.S. Treasuries are considered virtually risk-free, inflation can erode real returns, and extreme scenarios (debt ceiling crises) introduce brief uncertainty.
+- **Model Sensitivity:** Small changes in the risk-free rate propagate through CAPM, Sharpe, and DCF models, potentially shifting valuations and risk assessments for entire portfolios.
+- **Lag in Reflecting Conditions:** The 3-month yield responds to Fed policy and market expectations with a lag, meaning models using it may temporarily misrepresent the current opportunity cost of equity investing.

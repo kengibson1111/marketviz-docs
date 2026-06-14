@@ -31,6 +31,13 @@ FCFE strictly accounts for principal debt repayments and new debt issued. Analyz
 
 Investors evaluate FCFE relative to the company's share price (FCFE per share ÷ stock price) to calculate a cash-return yield. A higher yield indicates a faster payback period for the equity investor and is often viewed as a defensive cushion during market volatility.
 
+## Key Risks and Limitations
+
+- **Debt Distortion:** FCFE increases when a company takes on new debt (since net borrowings are added back). A rising FCFE driven by borrowing rather than operational improvement masks underlying weakness.
+- **Volatility Across Periods:** FCFE can swing dramatically quarter to quarter due to lumpy debt repayment schedules or capital expenditure timing, making single-period analysis unreliable.
+- **Ignores Reinvestment Quality:** FCFE measures cash available to shareholders but does not assess whether the company's reinvestment decisions are generating adequate returns.
+- **Capital Structure Sensitivity:** Because FCFE accounts for debt payments, comparing FCFE across companies with different leverage profiles can be misleading without normalization.
+
 ## How to Evaluate the Stock
 
 To confirm if a stock's FCFE profile fits your risk tolerance, you can:
