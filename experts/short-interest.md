@@ -8,6 +8,7 @@ Short interest measures the total number of shares sold short but not yet covere
 - How vulnerable is this stock to a violent short squeeze that could spike the price?
 - Does the current short interest level signal peak pessimism or legitimate fundamental concern?
 - How many days would it take short sellers to cover their positions given normal trading volume?
+- Is the short interest data I'm looking at current enough to act on, given the reporting lag?
 
 ## Applications in Risk Analysis
 

@@ -8,6 +8,7 @@ Relative price rate of change compares the acceleration of a stock's price movem
 - Is my stock losing momentum speed compared to its peers, even if the price is still rising?
 - Is capital rotating toward a different name in this peer group before total returns show it?
 - Should I buy the sector broadly or one specific stock based on where acceleration is concentrated?
+- Is the acceleration I'm seeing driven by a real fundamental catalyst, or could it reverse without warning?
 
 ## Applications in Risk Analysis
 

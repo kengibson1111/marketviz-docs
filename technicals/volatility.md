@@ -8,6 +8,7 @@ Volatility measures the magnitude and speed of a stock's price fluctuations over
 - Is this stock's price action stable enough to match my risk tolerance, or am I exposed to dramatic swings?
 - How does this stock's volatility compare to the broader market or other candidates in my watchlist?
 - Are options on this stock expensive or cheap relative to the market's expectation of future movement?
+- If this stock has recently become volatile, should I expect that elevated volatility to persist?
 
 ## Applications in Risk Analysis
 

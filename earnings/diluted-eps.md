@@ -8,6 +8,7 @@ Diluted EPS is used to analyze the worst-case scenario for a stock's profitabili
 - Is this stock's P/E ratio misleading because it ignores potential dilution?
 - How much of my ownership stake is at risk of being watered down by future share issuance?
 - Am I comparing companies fairly when one relies heavily on stock-based compensation?
+- Are the companies I'm comparing using the same dilution calculation method, or could differences distort my analysis?
 
 ## Applications in Risk Analysis
 

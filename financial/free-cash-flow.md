@@ -8,6 +8,7 @@ A stock investment with low Free Cash Flow (FCF) carries moderate to high risk. 
 - Is low free cash flow a temporary reinvestment phase, or a sign of fundamental weakness?
 - Is this a "value trap" — a stock that looks cheap but can't generate the cash to recover?
 - Is the company borrowing money just to stay afloat or pay dividends?
+- When the company does reinvest its cash, is it generating adequate returns on that spending?
 
 ## Evaluating the Risk
 

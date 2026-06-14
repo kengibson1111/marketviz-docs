@@ -8,6 +8,7 @@ The current ratio is a key liquidity metric that measures a company's ability to
 - Is this company's short-term financial position improving or deteriorating over time?
 - Are the company's liquid assets actually convertible to cash quickly, or are they tied up in slow-moving inventory?
 - How does this company's liquidity compare to its direct competitors?
+- Is the current ratio rising because of genuine cash strength, or because uncollected receivables are piling up?
 
 ## The Formula
 

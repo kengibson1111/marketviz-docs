@@ -8,6 +8,7 @@ Relative volume compares a stock's trading activity against its direct competito
 - During a sector sell-off, is my stock being sold harder than its peers?
 - Is my stock's liquidity adequate compared to similar-sized competitors?
 - Is a volume spike company-specific or part of a broader sector-wide capital move?
+- Am I comparing volume fairly across companies of different sizes, or do I need to normalize for market cap?
 
 ## Applications in Risk Analysis
 

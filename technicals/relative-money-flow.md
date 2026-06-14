@@ -8,6 +8,7 @@ Relative money flow compares Chaikin Money Flow (CMF) readings across a stock an
 - Is this breakout backed by stronger money flow than what peers are showing?
 - Among several discounted stocks in a sector, which one is actually attracting smart money?
 - Is the selling pressure on my stock unique, or is the entire peer group under distribution?
+- Am I comparing the right peers, or could a poorly chosen group give me a false signal about capital allocation?
 
 ## Applications in Risk Analysis
 

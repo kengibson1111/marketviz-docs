@@ -8,6 +8,7 @@ Market capitalization is primarily used in risk analysis to determine a company'
 - Is this company large and resilient enough to survive an economic downturn?
 - Does my portfolio have the right balance of large, mid, and small companies for my risk tolerance?
 - Is this stock's size appropriate for the amount of capital I want to invest?
+- Could two companies with similar market caps carry very different risk levels because one is loaded with debt?
 
 ## Core Applications in Risk Analysis
 

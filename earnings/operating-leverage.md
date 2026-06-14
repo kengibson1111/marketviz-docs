@@ -8,6 +8,7 @@ Operating leverage is a measure of a company's fixed-cost structure versus its v
 - Is the fixed-cost structure set up to amplify losses during a downturn?
 - How close is this company to its breakeven point, and how much cushion exists?
 - Will a small increase in sales produce outsized profit growth, or is the upside limited?
+- Has the company's cost structure changed recently, making a single-period leverage calculation misleading?
 
 ## Where Investors Apply Operating Leverage
 

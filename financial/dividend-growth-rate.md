@@ -8,6 +8,7 @@ The five-year dividend growth rate is used to analyze investing risk by evaluati
 - Is the dividend growing fast enough to keep up with inflation and preserve my purchasing power?
 - Does the growth pattern signal financial health, or is it erratic and unreliable?
 - Can I trust management to maintain and raise the dividend through different economic cycles?
+- Is the high growth rate real, or was it inflated by recovering from a prior dividend cut?
 
 ## Dividend Discount Models (DDM)
 

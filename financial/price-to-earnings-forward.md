@@ -8,6 +8,7 @@ The forward P/E ratio divides a company's current stock price by its forecasted 
 - How much risk do I face if the company misses its projected earnings?
 - Is this stock expensive or cheap compared to its sector peers on a forward basis?
 - How do future expectations compare to what the company has actually delivered historically?
+- Are earnings estimates being revised downward, making the forward P/E appear cheaper than reality warrants?
 
 ## Strategic Uses in Risk Analysis
 
