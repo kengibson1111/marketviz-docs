@@ -59,4 +59,8 @@ Low trade volume environments create conditions where small participants or coor
 - **Entry and Exit Planning:** Essential for determining whether a stock has sufficient liquidity to support your position size without excessive slippage.
 - **Trend Validation:** Best used to confirm whether a price movement is backed by meaningful participation before committing capital.
 - **Complementary Metrics:** Most effective when paired with price strength indicators, moving averages, and fundamental analysis to build a complete risk assessment.
-- **Reference Data:** You can review historical volume data and volume-weighted indicators using platforms like [Yahoo Finance](https://finance.yahoo.com) or [MarketWatch](https://www.marketwatch.com) to evaluate a stock's trading activity patterns.
+- **Reference Data:** You can review historical volume data and volume-weighted indicators using platforms like Yahoo Finance or MarketWatch to evaluate a stock's trading activity patterns.
+
+## Further Research
+
+For a detailed explanation of how volume analysis is used in technical trading, review the [Investopedia Volume Guide](https://www.investopedia.com/terms/v/volume.asp) or the [Fidelity Volume Analysis Guide](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/volume). For a deep dive into On-Balance Volume and volume-price confirmation, see the [StockCharts Volume Indicators Overview](https://school.stockcharts.com/doku.php?id=technical_indicators:on_balance_volume_obv).

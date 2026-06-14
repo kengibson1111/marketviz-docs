@@ -55,7 +55,7 @@ In fundamental analysis, Diluted EPS ensures an even playing field when evaluati
 - **Value Stocks:** Useful for confirming that a seemingly cheap valuation isn't artificially deflated by a large overhang of unexercised options or convertible debt.
 - **Complementary Metrics:** Best used alongside Basic EPS, normalized EPS, and free cash flow to build a complete picture of fundamental risk.
 
-## References
+## Further Research
 
 - [Morningstar: Understanding Diluted EPS and Normalized Diluted EPS](https://community.morningstar.com/s/article/Understanding-Diluted-EPS-and-Normalized-Diluted-EPS-Key-Metrics-for-Evaluating-Stock-Performance-on-Morningstar-com-website)
 - [Investopedia: Diluted EPS](https://www.investopedia.com/terms/d/dilutedeps.asp)

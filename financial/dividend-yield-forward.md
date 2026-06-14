@@ -35,7 +35,7 @@ When analyzing risk, comparing the forward yield to the trailing yield (actual p
 
 - **The Risk Signal:** If a company's forward yield is significantly lower than its trailing yield, it indicates that management expects poorer performance and has reduced future dividend payments.
 
-## Further Reading
+## Further Research
 
 To expand your fundamental analysis, review resources like [Investopedia's Forward Dividend Yield Guide](https://www.investopedia.com/terms/f/forward-dividend-yield.asp) or [Morningstar's Dividend Yield Definition](https://www.morningstar.com/investing-terms/dividend-yield-forward) for details on calculating expected returns.
 

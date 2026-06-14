@@ -67,7 +67,7 @@ Comparing the standard deviation of earnings to the standard deviation of operat
 - The Sloan Accrual Ratio can be computed from any income statement and cash flow statement available in free SEC EDGAR filings.
 - Cash-flow-to-earnings comparisons require only basic spreadsheet work with quarterly or annual data from any financial data provider.
 
-## References
+## Further Research
 
 - [Investopedia: Beneish Model](https://www.investopedia.com/terms/b/beneishmodel.asp/)
 - [Investing.com: Sloan Ratio](https://www.investing.com/academy/analysis/sloan-ratio-definition/)

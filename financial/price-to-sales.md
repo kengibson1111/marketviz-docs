@@ -48,4 +48,4 @@ The P/S ratio completely ignores debt. A company with high sales may still be at
 
 ## Further Research
 
-Before committing your capital, consult the [Investopedia Guide to P/S Ratios](https://www.investopedia.com/terms/p/price-to-salesratio.asp) for a breakdown of valuation, and ensure you check the company's profitability and debt on financial platforms like [Yahoo Finance](https://finance.yahoo.com).
+Before committing your capital, review the [Investopedia Guide to P/S Ratios](https://www.investopedia.com/terms/p/price-to-salesratio.asp) for a breakdown of valuation methodology. For understanding how EV/Revenue improves upon basic P/S for debt-laden companies, see the [Corporate Finance Institute EV/Revenue Guide](https://corporatefinanceinstitute.com/resources/valuation/ev-to-revenue-multiple/).

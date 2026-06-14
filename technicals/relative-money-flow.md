@@ -63,4 +63,8 @@ Relative money flow provides context for how aggressively institutions are selli
 - **Breakout Filtering:** Essential for distinguishing company-specific breakouts from broad sector moves by comparing the money flow conviction behind each peer's price action.
 - **Value Recovery Timing:** Helps identify which discounted stock in a peer group is first to attract institutional re-entry, reducing value trap risk.
 - **Complementary Metrics:** Most effective when combined with [money flow](money-flow.md) baseline analysis, [relative trade volume](relative-trade-volume.md), [relative price strength](relative-price-strength.md), and fundamental comparisons like earnings quality and revenue growth.
-- **Reference Data:** You can compare CMF across peer groups using screening tools on platforms like [Finviz](https://finviz.com) or [StockCharts](https://stockcharts.com) to identify relative accumulation and distribution patterns.
+- **Reference Data:** You can compare CMF across peer groups using screening tools on platforms like Finviz or StockCharts to identify relative accumulation and distribution patterns.
+
+## Further Research
+
+For a deeper understanding of how Chaikin Money Flow is calculated and applied in peer analysis, review the [StockCharts CMF Indicator Guide](https://school.stockcharts.com/doku.php?id=technical_indicators:chaikin_money_flow) or the [Investopedia Chaikin Money Flow Guide](https://www.investopedia.com/terms/c/chaikinmoneyflow.asp). For practical peer comparison techniques, see the [Finviz Screener Guide](https://finviz.com/help/screener.ashx).

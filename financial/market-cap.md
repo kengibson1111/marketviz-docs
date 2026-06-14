@@ -41,3 +41,7 @@ While useful, market cap does not provide a complete risk picture.
   - *How to address:* Check the company's enterprise value (market cap + debt − cash) to get a fuller picture of total financial exposure. A $10B market cap company with $8B in debt carries far more risk than one with $2B in debt, even though their market caps are identical.
 - **Valuation:** A high market cap does not inherently mean a stock is "safe" if it is fundamentally overvalued.
   - *How to address:* Pair market cap classification with valuation metrics like P/E ratio, price-to-sales, and free cash flow yield. A large-cap stock trading at 50x earnings carries more valuation risk than a mid-cap trading at 15x, regardless of size.
+
+## Further Research
+
+For a clear breakdown of market cap categories and their investment implications, review the [Investopedia Market Capitalization Guide](https://www.investopedia.com/terms/m/marketcapitalization.asp) or the [Fidelity Market Cap Classifications Guide](https://www.fidelity.com/learning-center/trading-investing/fundamental-analysis/understanding-market-capitalization). To explore how cap-weighted indices differ from equal-weighted alternatives, see the [S&P Dow Jones Indices Market Cap FAQ](https://www.spglobal.com/spdji/en/education/article/index-literacy-what-is-market-cap/).

@@ -54,7 +54,7 @@ Normalized EPS allows you to compare financial health across industry peers on a
 - **Cyclical Sectors:** Critical for assessing companies in industries with volatile earnings patterns.
 - **Complementary Metrics:** Best used alongside earnings stability, free cash flow, and revenue growth to build a complete picture of fundamental risk.
 
-## References
+## Further Research
 
 - [Investopedia: Normalized Earnings](https://www.investopedia.com/terms/n/normalizedearnings.asp)
 - Morningstar provides in-depth details on how to decompose and utilize these adjustments.

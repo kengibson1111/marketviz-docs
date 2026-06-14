@@ -55,4 +55,8 @@ A drop below a critical CMF threshold (often around -0.05) warns of intense, vol
 - **Trend Confirmation:** Best used to verify whether volume supports a price move before entering or adding to a position.
 - **Breakout Validation:** Essential for filtering genuine breakouts from bull traps by requiring volume confirmation via a positive CMF crossover.
 - **Complementary Metrics:** Most effective when paired with price strength, relative strength, and fundamental analysis (earnings growth, valuation ratios) to build a complete risk picture.
-- **Reference Data:** You can review CMF data using platforms like [Yahoo Finance](https://finance.yahoo.com) or [StockCharts](https://stockcharts.com) to evaluate accumulation and distribution trends for a stock.
+- **Reference Data:** You can review CMF data using platforms like Yahoo Finance or StockCharts to evaluate accumulation and distribution trends for a stock.
+
+## Further Research
+
+For a detailed explanation of the Chaikin Money Flow formula and how to interpret its signals, review the [Investopedia Chaikin Money Flow Guide](https://www.investopedia.com/terms/c/chaikinmoneyflow.asp) or the [StockCharts CMF Technical Indicator Guide](https://school.stockcharts.com/doku.php?id=technical_indicators:chaikin_money_flow).

@@ -68,4 +68,8 @@ Traders and investors use volatility to identify opportunities and protect again
 - **Risk Tolerance Matching:** Best used to confirm that a stock's price behavior aligns with your personal comfort level for uncertainty before entering a position.
 - **Portfolio-Level Analysis:** Essential for evaluating how adding a new position will shift your portfolio's aggregate risk exposure and whether diversification benefits hold.
 - **Complementary Metrics:** Most effective when paired with beta, earnings stability, and fundamental health indicators to distinguish between volatility driven by opportunity and volatility driven by deteriorating fundamentals.
-- **Reference Data:** You can find a stock's historical and implied volatility on platforms like [Yahoo Finance](https://finance.yahoo.com) or [Fidelity's Learning Center](https://www.fidelity.com/learning-center/smart-money/what-is-volatility).
+- **Reference Data:** You can find a stock's historical and implied volatility on platforms like Yahoo Finance or Fidelity's Learning Center.
+
+## Further Research
+
+For a comprehensive explanation of historical vs. implied volatility and their roles in investment decisions, review the [Investopedia Volatility Guide](https://www.investopedia.com/terms/v/volatility.asp) or the [Fidelity Understanding Volatility Guide](https://www.fidelity.com/learning-center/smart-money/what-is-volatility). For understanding how the VIX index measures market-wide fear, see the [Investopedia VIX Guide](https://www.investopedia.com/terms/v/vix.asp).

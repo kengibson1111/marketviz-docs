@@ -63,4 +63,8 @@ Downgrades to "Sell" or "Underperform" are frequently red flags that a stock's v
 - **Momentum Confirmation:** Useful for validating whether a stock's recent price move is supported by professional analyst conviction or is purely driven by retail sentiment.
 - **Contrarian Screening:** Extreme consensus (nearly all analysts at "Strong Buy" or all at "Sell") can signal crowded positioning, making contrarian opportunities worth investigating when paired with improving fundamentals.
 - **Complementary Metrics:** Most effective when paired with earnings estimate revisions, insider activity, short interest, and valuation metrics like PEG ratio to build a complete picture of forward-looking risk.
-- **Reference Data:** You can track analyst rating revisions on platforms like [LSEG StarMine Analyst Revisions Models](https://www.lseg.com/en/data-analytics/financial-data/analytics/quantitative-analytics/starmine-analyst-revisions-models), [TIKR](https://tikr.com), or [Koyfin](https://www.koyfin.com).
+- **Reference Data:** You can track analyst rating revisions on platforms like LSEG StarMine, TIKR, or Koyfin.
+
+## Further Research
+
+For a detailed guide on interpreting analyst ratings and understanding how Wall Street consensus is formed, review the [Investopedia Analyst Ratings Guide](https://www.investopedia.com/articles/analyst-opinions/) or the [LSEG StarMine Analyst Revisions Models Overview](https://www.lseg.com/en/data-analytics/financial-data/analytics/quantitative-analytics/starmine-analyst-revisions-models). For practical research on consensus estimates, see [TIKR](https://tikr.com) or [Koyfin](https://www.koyfin.com).

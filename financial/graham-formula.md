@@ -41,7 +41,7 @@ $$\text{Graham Number} = \sqrt{22.5 \times EPS \times BVPS}$$
 
 ### Preliminary Stock Screening
 
-Investors utilize both formulas on sites like [Old School Value](https://www.oldschoolvalue.com/guide-to-stock-valuation/graham-formula/) or screeners to quickly filter out expensive, risky stocks.
+Investors utilize both formulas on screeners to quickly filter out expensive, risky stocks.
 
 - **Where it's used:** Building initial candidate lists from broad market universes before deeper fundamental analysis.
 - **Risk context:** Rapidly eliminates overvalued names, reducing the chance of anchoring on stocks that carry excessive downside.
@@ -74,3 +74,7 @@ It grounds an investor in historical, fundamental metrics when market psychology
 - **Value Investing:** The primary tool for Benjamin Graham-style defensive investors seeking a quantified margin of safety.
 - **Screening Tool:** Best used as a first-pass filter rather than a sole decision-making metric.
 - **Complementary Metrics:** Best used alongside price-to-earnings, price-to-book, free cash flow, and earnings quality to build a complete picture of fundamental risk.
+
+## Further Research
+
+For a detailed walkthrough of the Graham Formula with practical examples, review the [Old School Value Graham Formula Guide](https://www.oldschoolvalue.com/guide-to-stock-valuation/graham-formula/) or the [Investopedia Benjamin Graham's Intelligent Investor Guide](https://www.investopedia.com/articles/07/ben_graham.asp). For understanding how the Graham Number is used alongside modern valuation tools, see the [Investopedia Graham Number Guide](https://www.investopedia.com/terms/g/graham-number.asp).

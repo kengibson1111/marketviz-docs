@@ -49,3 +49,7 @@ Analyzing the "structure" of revenue identifies specific points of failure.
 
 - **Customer Concentration:** Reliance on a single major client creates high risk if that client's demand shifts.
 - **Product Expansion Risk:** Using the Ansoff Matrix, analysts assess the risk of management's growth strategy—diversifying into new products for new markets is considered the highest-risk revenue strategy.
+
+## Further Research
+
+For a deeper understanding of revenue analysis in fundamental investing, review the [Investopedia Revenue Guide](https://www.investopedia.com/terms/r/revenue.asp) or the [Corporate Finance Institute Revenue Analysis Guide](https://corporatefinanceinstitute.com/resources/accounting/revenue/). For guidance on how to evaluate customer concentration risk, see the [SEC EDGAR Filing Database](https://www.sec.gov/search-filings) to access 10-K reports that disclose revenue dependencies.

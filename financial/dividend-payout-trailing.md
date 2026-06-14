@@ -25,7 +25,7 @@ A trailing payout ratio near or above 100% means the company paid out most or al
 
 When the trailing payout ratio is consistently below 75%, the company has a buffer to maintain its dividend through earnings fluctuations. A ratio that has been climbing over several periods may signal deteriorating earnings or an overly aggressive dividend policy.
 
-For in-depth strategies on how to analyze these metrics and screen for safe income-generating stocks, consult the [Fidelity Dividend Income Strategy](https://digital.fidelity.com/prgw/digital/msw/details/DividendIncome).
+For in-depth strategies on how to analyze these metrics and screen for safe income-generating stocks, consult the Further Research section below.
 
 ## Trailing Payout Ratio vs. Trailing Dividend Yield
 
@@ -34,9 +34,10 @@ For in-depth strategies on how to analyze these metrics and screen for safe inco
 
 These are complementary metrics. A stock can have a modest yield but a dangerously high payout ratio (low earnings), or a high yield with a comfortable payout ratio (strong earnings, depressed price).
 
-## References
+## Further Research
 
 - [Investopedia: Dividend Payout Ratio Definition, Formula, and Calculation](https://www.investopedia.com/terms/d/dividendpayoutratio.asp)
+- [Fidelity Dividend Income Strategy](https://digital.fidelity.com/prgw/digital/msw/details/DividendIncome)
 
 ## Key Risks and Limitations
 

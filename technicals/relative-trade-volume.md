@@ -53,4 +53,8 @@ Relative volume provides context for whether a stock's liquidity is appropriate 
 - **Risk Differentiation:** Essential for understanding why the market treats one competitor differently from another during periods of stress or opportunity.
 - **Position Sizing:** Helps determine whether a stock's liquidity is sufficient relative to peers, informing how large a position can be managed without excessive slippage.
 - **Complementary Metrics:** Most effective when combined with [trade volume](trade-volume.md) baseline analysis, price strength, and fundamental comparisons like revenue growth and earnings quality.
-- **Reference Data:** You can compare volume across peer groups using screening tools on platforms like [Finviz](https://finviz.com) or [Yahoo Finance](https://finance.yahoo.com) sector views to identify relative volume anomalies.
+- **Reference Data:** You can compare volume across peer groups using screening tools on platforms like Finviz or Yahoo Finance sector views to identify relative volume anomalies.
+
+## Further Research
+
+For a detailed understanding of how volume analysis is used in peer comparison and sector rotation detection, review the [Investopedia Volume Analysis Guide](https://www.investopedia.com/terms/v/volume.asp) or the [StockCharts Volume Indicators Education](https://school.stockcharts.com/doku.php?id=technical_indicators:on_balance_volume_obv). For practical screening techniques, see the [Finviz Screener Guide](https://finviz.com/help/screener.ashx).

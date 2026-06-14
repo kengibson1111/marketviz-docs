@@ -61,7 +61,7 @@ By mapping as-reported quarterly results over a multi-year period, analysts trac
 - **Forensic Investing:** The primary tool for detecting patterns of aggressive accounting or recurring "exceptional" charges that erode long-term shareholder value.
 - **Complementary Metrics:** Best used alongside diluted EPS, normalized EPS, free cash flow, and operating cash flow to build a complete picture of earnings quality and risk.
 
-## References
+## Further Research
 
 - [SEC EDGAR Filings](https://www.sec.gov/search-filings)
 - [TIKR.com](https://www.tikr.com/)

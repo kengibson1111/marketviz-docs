@@ -20,7 +20,7 @@ Companies with wildly fluctuating earnings face severe distress during economic 
 
 ### Fundamental & Quality Factor Investing
 
-Tools evaluating "Quality" (e.g., scoring models in [IBD MarketSurge](https://www.investors.com/how-to-invest/investors-corner/earnings-growth-is-essential-but-better-when-its-also-steady-heres-how-to-find-it/)) score stocks based on consecutive quarters or years of steady, solid profit growth. Low earnings volatility is a key characteristic of these lower-risk, blue-chip stocks.
+Tools evaluating "Quality" (e.g., scoring models in IBD MarketSurge) score stocks based on consecutive quarters or years of steady, solid profit growth. Low earnings volatility is a key characteristic of these lower-risk, blue-chip stocks.
 
 - **Where it's used:** Factor-based screening models that rank stocks by consistency of profit delivery.
 - **Risk context:** Stocks with erratic earnings tend to score poorly on quality factors, signaling higher fundamental risk and greater susceptibility to drawdowns.
@@ -58,3 +58,7 @@ Investors calculate a company's payout ratio (dividends divided by earnings). If
 - **Income/Dividend Stocks:** Critical for confirming that payouts are backed by dependable earnings.
 - **Defensive Stocks:** Helps identify companies that hold up during recessions, reducing portfolio drawdown risk.
 - **Complementary Metrics:** Best used alongside free cash flow stability, debt-to-equity ratio, and interest coverage ratio to build a complete picture of fundamental risk.
+
+## Further Research
+
+For an understanding of how earnings consistency is scored and used in quality factor investing, review the [IBD Earnings Stability Rating Guide](https://www.investors.com/how-to-invest/investors-corner/earnings-growth-is-essential-but-better-when-its-also-steady-heres-how-to-find-it/) or the [Investopedia Quality Factor Guide](https://www.investopedia.com/terms/q/qualityfactor.asp). For Benjamin Graham's original criteria on earnings consistency in value investing, see the [Investopedia Benjamin Graham Guide](https://www.investopedia.com/articles/07/ben_graham.asp).

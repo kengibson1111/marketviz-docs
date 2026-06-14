@@ -43,11 +43,11 @@ Consistently rising dividends over a 5-year period—especially through varying 
 Platforms and index funds use the 5-year dividend growth rate as a strict requirement to filter out volatile companies and highlight "quality" investments.
 
 - **The Risk Signal:** Stocks that fail to meet a minimum growth threshold are excluded from dividend-focused indices, which can reduce institutional demand and liquidity.
-- **How It's Used:** Tools like [Schwab's dividend stock screener](https://www.schwab.com/learn/story/ways-to-evaluate-dividend-growing-stocks) and indices like the Dow Jones U.S. Dividend 100 Index require a positive 5-year growth rate, helping investors avoid companies with unstable or declining payouts.
+- **How It's Used:** Tools like Schwab's dividend stock screener and indices like the Dow Jones U.S. Dividend 100 Index require a positive 5-year growth rate, helping investors avoid companies with unstable or declining payouts.
 
-## Further Reading
+## Further Research
 
-To deepen your understanding of dividend growth analysis, review resources like [Investopedia's Dividend Growth Rate Guide](https://www.investopedia.com/terms/d/dividendgrowthrate.asp) for calculation methods and practical examples.
+To deepen your understanding of dividend growth analysis, review resources like [Investopedia's Dividend Growth Rate Guide](https://www.investopedia.com/terms/d/dividendgrowthrate.asp) for calculation methods and practical examples. For screening dividend-growing stocks, see the [Schwab Guide to Evaluating Dividend-Growing Stocks](https://www.schwab.com/learn/story/ways-to-evaluate-dividend-growing-stocks).
 
 ## Key Risks and Limitations
 

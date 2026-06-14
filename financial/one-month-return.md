@@ -26,3 +26,7 @@ When analyzing investing risk, a stock's one-month return is primarily used to c
   - *How to address:* Pair one-month returns with fundamental data points: earnings estimate revisions, insider activity, and valuation metrics. A strong one-month return supported by rising analyst estimates is far more meaningful than one driven by a short squeeze or speculative momentum.
 - **Survivorship Bias in Screens:** Screening for top one-month performers often surfaces stocks experiencing unsustainable catalysts (short squeezes, speculative spikes) rather than genuine quality improvements.
   - *How to address:* When using one-month return as a screening filter, add quality filters (positive free cash flow, rising earnings estimates, institutional ownership above 30%) to separate fundamental momentum from speculative noise.
+
+## Further Research
+
+For a deeper understanding of how short-term returns are used in risk-adjusted models and momentum screens, review the [Investopedia Sharpe Ratio Guide](https://www.investopedia.com/terms/s/sharperatio.asp) or the [Fidelity Understanding Returns and Risk Guide](https://www.fidelity.com/learning-center/investment-products/mutual-funds/guide-to-returns).

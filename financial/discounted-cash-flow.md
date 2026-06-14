@@ -44,9 +44,6 @@ By focusing purely on free cash flow rather than accounting earnings, DCF remove
 - **Not Suitable for All Companies:** Early-stage, pre-profit, or highly cyclical companies lack the stable cash flow patterns that DCF modeling requires, making the output unreliable for these categories.
   - *How to address:* For pre-profit companies, use revenue-based multiples (P/S) or comparable transaction analysis instead. For cyclical companies, normalize cash flows by averaging over a full economic cycle before applying DCF, and explicitly model both peak and trough scenarios.
 
-## How to Evaluate the Stock
+## Further Research
 
-To learn more about setting up a DCF model for your specific portfolio, you can:
-
-- Read [Investopedia's Discounted Cash Flow Explained](https://www.investopedia.com/terms/d/dcf.asp) for a step-by-step walkthrough of the model.
-- Use platforms like [Morningstar](https://www.morningstar.com) or [Yahoo Finance](https://finance.yahoo.com) to find the free cash flow figures and growth rates needed as inputs.
+To learn more about setting up a DCF model for your specific portfolio, review [Investopedia's Discounted Cash Flow Explained](https://www.investopedia.com/terms/d/dcf.asp) for a step-by-step walkthrough, or the [Corporate Finance Institute DCF Modeling Guide](https://corporatefinanceinstitute.com/resources/valuation/dcf-formula-guide/) for a more advanced treatment of terminal value and discount rate selection.

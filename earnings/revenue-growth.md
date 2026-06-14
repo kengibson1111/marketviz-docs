@@ -46,3 +46,7 @@ Comparing top-line revenue growth to bottom-line earnings growth reveals operati
 - **Growth Stocks:** Essential for confirming that high valuations are backed by proven, sustained revenue expansion rather than speculation.
 - **Dividend Stocks:** Provides confidence that cash flows supporting dividends are structurally growing.
 - **Complementary Metrics:** Best used alongside five-year earnings growth, free cash flow, and profit margins to build a complete picture of fundamental risk.
+
+## Further Research
+
+For a detailed explanation of how revenue growth is measured and how to distinguish organic from inorganic growth, review the [Investopedia Revenue Growth Guide](https://www.investopedia.com/terms/r/revenue.asp) or the [Corporate Finance Institute Revenue Growth Rate Guide](https://corporatefinanceinstitute.com/resources/accounting/revenue-growth-rate/). For understanding how top-line growth validates valuation models, see the [Investopedia Discounted Cash Flow Guide](https://www.investopedia.com/terms/d/dcf.asp).

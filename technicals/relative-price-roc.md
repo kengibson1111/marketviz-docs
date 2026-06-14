@@ -54,4 +54,8 @@ When a stock's ROC trajectory separates meaningfully from its peer group average
 - **Rotation Detection:** Best used to identify which stock within a peer group is gaining momentum fastest, providing earlier rotation signals than cumulative relative strength comparisons.
 - **Risk Timing:** Essential for detecting when a holding's acceleration is fading relative to alternatives, signaling that capital may be migrating before absolute price weakness appears.
 - **Complementary Metrics:** Most effective when paired with [relative price strength](relative-price-strength.md) (for cumulative return context), [price rate of change](price-rate-of-change.md) (for absolute momentum baseline), and [relative volume](relative-trade-volume.md) (to confirm that acceleration is backed by increasing participation).
-- **Reference Data:** You can compare ROC across peer groups by calculating the indicator on multiple tickers simultaneously using platforms like [StockCharts](https://stockcharts.com), [TradingView](https://www.tradingview.com), or [Yahoo Finance](https://finance.yahoo.com) to identify relative acceleration divergences.
+- **Reference Data:** You can compare ROC across peer groups by calculating the indicator on multiple tickers simultaneously using platforms like StockCharts, TradingView, or Yahoo Finance to identify relative acceleration divergences.
+
+## Further Research
+
+For a detailed explanation of how Rate of Change is calculated and applied to momentum analysis, review the [Investopedia Rate of Change Guide](https://www.investopedia.com/terms/p/pricerateofchange.asp) or the [StockCharts ROC Indicator Guide](https://school.stockcharts.com/doku.php?id=technical_indicators:rate_of_change_roc_and_momentum).

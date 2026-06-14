@@ -61,4 +61,8 @@ Technical indicators like the Relative Strength Index (RSI) help pinpoint overbo
 - **Fundamental Confirmation:** Best used to validate whether a stock's price performance aligns with its fundamental trajectory — strong relative strength paired with improving earnings estimates is a high-conviction combination.
 - **Portfolio Risk Management:** Monitor sector-level relative strength to ensure your portfolio is not overexposed to weakening sectors, reducing the probability of correlated drawdowns across multiple positions.
 - **Complementary Metrics:** Most effective when paired with earnings estimate revisions, insider activity, short interest, and volume analysis to build a complete picture of institutional conviction and forward-looking risk.
-- **Reference Data:** Traders discuss practical applications of relative strength analysis in communities such as [Reddit RealDayTrading](https://www.reddit.com/r/RealDayTrading/), and sector ETF performance comparisons are available on platforms like [Finviz Sector Performance](https://finviz.com/groups.ashx) or [StockCharts Sector Summary](https://stockcharts.com/freecharts/perf.php).
+- **Reference Data:** Traders discuss practical applications of relative strength analysis in communities such as Reddit RealDayTrading, and sector ETF performance comparisons are available on platforms like Finviz or StockCharts.
+
+## Further Research
+
+For a practical understanding of how sector relative strength informs portfolio allocation, review the [Investopedia Sector Rotation Guide](https://www.investopedia.com/terms/s/sectorrotation.asp) or the [Finviz Sector Performance Dashboard](https://finviz.com/groups.ashx). For relative strength charting and sector comparison techniques, see the [StockCharts Sector Summary Tool](https://stockcharts.com/freecharts/perf.php).

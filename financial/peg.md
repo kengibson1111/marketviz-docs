@@ -31,3 +31,7 @@ While the PEG ratio provides a more refined view than the standard P/E ratio, it
 - **Growth Stocks:** Best for profitable companies with high expected expansion.
 - **Value Stocks:** Often less useful for mature companies with little or no growth, where dividend yield or book value are better risk metrics.
 - **Complementary Metrics:** To mitigate risk, PEG should be used alongside other indicators such as debt-to-equity, free cash flow, and industry benchmarks.
+
+## Further Research
+
+For a walkthrough of PEG ratio calculation and interpretation, review the [Investopedia PEG Ratio Guide](https://www.investopedia.com/terms/p/pegratio.asp) or the [Morningstar PEG Ratio Explanation](https://www.morningstar.com/investing-definitions/peg-ratio). For guidance on screening stocks by PEG, see the [Schwab Stock Screener Methodology](https://www.schwab.com/research/stocks/stock-screener).

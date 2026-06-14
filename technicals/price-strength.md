@@ -46,4 +46,8 @@ Absolute price strength provides objective, mathematically defined price levels 
 - **Trend Confirmation:** Best used to confirm whether fundamental analysis aligns with actual market behavior before entering a position.
 - **Risk Timing:** Essential for avoiding entries at overextended price levels, even when a stock is fundamentally sound.
 - **Complementary Metrics:** Most effective when paired with volume analysis, earnings growth, and valuation ratios to build a complete risk picture.
-- **Reference Data:** You can review historical price and moving average data using platforms like [Yahoo Finance](https://finance.yahoo.com) or [StockCharts](https://stockcharts.com) to evaluate a stock's price strength trends.
+- **Reference Data:** You can review historical price and moving average data using platforms like Yahoo Finance or StockCharts to evaluate a stock's price strength trends.
+
+## Further Research
+
+For a detailed walkthrough of moving average strategies and trend identification, review the [Investopedia Moving Average Guide](https://www.investopedia.com/terms/m/movingaverage.asp) or the [StockCharts Moving Averages Education](https://school.stockcharts.com/doku.php?id=technical_indicators:moving_averages). For Bollinger Band theory and application, see the [Investopedia Bollinger Bands Guide](https://www.investopedia.com/terms/b/bollingerbands.asp).

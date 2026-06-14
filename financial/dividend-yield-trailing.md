@@ -44,3 +44,7 @@ To mitigate risk, investors rarely rely on trailing yield in isolation. It is us
   - *How to address:* Calculate $\text{Dividends Paid} \div \text{Free Cash Flow}$ for the same trailing period. If the company paid more in dividends than it generated in free cash flow, the payout is being subsidized by borrowing or asset liquidation — a clear sustainability warning.
 - **No Forward Predictive Power:** Past dividends do not guarantee future payments. Companies can reduce or eliminate dividends at any time based on changing business conditions.
   - *How to address:* Use trailing yield as a verification tool rather than a forecast. Pair it with the forward dividend yield and earnings estimate revisions to assess whether the past payout level is likely to continue, grow, or be cut.
+
+## Further Research
+
+For a detailed walkthrough of how trailing yield is calculated and how to distinguish genuine bargains from yield traps, review the [Investopedia Dividend Yield Guide](https://www.investopedia.com/terms/d/dividendyield.asp) or the [Schwab Dividend Yield Explained Guide](https://www.schwab.com/learn/story/dividend-yield-what-it-is-and-how-to-calculate-it).

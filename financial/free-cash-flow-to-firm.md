@@ -46,10 +46,6 @@ Comparing FCFF to reported net income helps expose aggressive accounting. If net
 - **WACC Sensitivity:** The discount rate (WACC) used in FCFF models is itself an estimate. Small changes to the cost of equity or debt assumptions meaningfully shift the resulting enterprise value.
   - *How to address:* Build a WACC sensitivity table showing enterprise value at different discount rates (e.g., ±1%). If value swings 30%+ with a 1% change in WACC, the valuation is fragile. Cross-reference with simpler valuation multiples (EV/EBITDA, P/E) as a reasonableness check.
 
-## How to Evaluate the Stock
+## Further Research
 
-To confirm if a stock's FCFF profile fits your risk tolerance, you can:
-
-- Review the company's cash flow statement directly using a platform like [Morningstar](https://www.morningstar.com) or [Yahoo Finance](https://finance.yahoo.com) to verify operating cash flow and capital expenditure trends.
-- Compare FCFF to total debt service (interest + principal payments) to assess solvency risk over time.
-- Track FCFF margin ($\text{FCFF} \div \text{Revenue}$) across multiple quarters to identify whether cash generation is improving or deteriorating relative to top-line growth.
+For a detailed explanation of the FCFF formula and how it differs from FCFE, review the [Investopedia FCFF Guide](https://www.investopedia.com/terms/f/freecashflowfirm.asp) or the [Corporate Finance Institute FCFF Guide](https://corporatefinanceinstitute.com/resources/valuation/free-cash-flow-to-firm-fcff/). For understanding how WACC interacts with FCFF in DCF models, see the [Investopedia WACC Guide](https://www.investopedia.com/terms/w/wacc.asp).

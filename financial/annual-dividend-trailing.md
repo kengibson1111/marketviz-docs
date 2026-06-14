@@ -34,3 +34,7 @@ The trailing annual dividend is primarily used in risk analysis to assess a comp
 | Trailing Yield | Detecting historical inconsistency and "traps" caused by price drops. | Actual past 12 months |
 | Forward Yield | Estimating future cash flow reliability based on recent hikes/cuts. | Projected next 12 months |
 | Payout Ratio | Measuring the "margin of safety" between earnings and dividends. | Dividends vs. Earnings |
+
+## Further Research
+
+For practical guidance on evaluating trailing dividend metrics and spotting yield traps, review the [Investopedia Trailing Dividend Guide](https://www.investopedia.com/terms/t/trailingdividend.asp) or the [Morningstar Dividend Investing Guide](https://www.morningstar.com/investing-definitions/dividend-yield).

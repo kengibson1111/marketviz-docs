@@ -35,3 +35,7 @@ While the trailing dividend shows what a company has paid, the forward dividend 
   - *How to address:* Check whether the yield increase resulted from a dividend raise or a share price decline. Compare the forward yield to the company's own 5-year yield range — if the current yield is far above its historical average, investigate whether the price decline reflects fundamental deterioration rather than a buying opportunity.
 - **Does Not Capture Total Return:** Focusing solely on dividend income ignores capital appreciation (or depreciation), which often dominates total shareholder returns over time.
   - *How to address:* Evaluate total return potential by combining the forward yield with expected capital appreciation from earnings growth. A 4% yield with flat or declining earnings may deliver worse total returns than a 2% yield with 10% annual earnings growth.
+
+## Further Research
+
+For a breakdown of how forward dividends factor into income planning and yield analysis, review the [Investopedia Annual Dividend Guide](https://www.investopedia.com/terms/d/annual-dividend.asp) or the [Schwab Dividend Investing Strategies Guide](https://www.schwab.com/learn/story/keys-to-investing-in-dividend-stocks).

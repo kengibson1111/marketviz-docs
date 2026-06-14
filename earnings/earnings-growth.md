@@ -46,3 +46,7 @@ Analyzing past 5-year historical earnings (EPS) growth is a core tenet of growth
 - **Growth Stocks:** Essential for evaluating whether a premium valuation is justified by sustained earnings expansion.
 - **Value Stocks:** Useful for identifying turnaround candidates showing improving earnings trajectories.
 - **Complementary Metrics:** Best used alongside PEG ratio, free cash flow, and revenue growth to build a complete picture of fundamental risk.
+
+## Further Research
+
+For a deeper understanding of how earnings growth rates drive valuation multiples, review the [Investopedia Earnings Growth Guide](https://www.investopedia.com/terms/e/earningsgrowth.asp) or the [Morningstar Earnings Growth Methodology](https://www.morningstar.com/investing-definitions/earnings-growth). For understanding how historical growth feeds into the PEG ratio, see the [Investopedia PEG Ratio Guide](https://www.investopedia.com/terms/p/pegratio.asp).

@@ -51,4 +51,8 @@ Relative price strength forces investors to confront whether their capital is de
 - **Stock Selection:** Best used to choose between competing investment options within a sector by favoring those the market is already rewarding with capital inflows.
 - **Risk Timing:** Essential for identifying when a holding's market position is deteriorating relative to alternatives, often providing earlier exit signals than absolute price analysis alone.
 - **Complementary Metrics:** Most effective when paired with [relative volume](relative-volume.md) analysis (to confirm that price leadership is backed by volume participation), [price strength](price-strength.md) (for absolute trend context), and fundamental metrics like earnings growth and revenue trends.
-- **Reference Data:** You can compare price performance across peer groups using tools like [Finviz](https://finviz.com) relative performance charts, [StockCharts PerfCharts](https://stockcharts.com), or [Yahoo Finance](https://finance.yahoo.com) comparison views to evaluate relative price strength trends.
+- **Reference Data:** You can compare price performance across peer groups using tools like Finviz relative performance charts, StockCharts PerfCharts, or Yahoo Finance comparison views to evaluate relative price strength trends.
+
+## Further Research
+
+For a detailed explanation of relative strength methodologies and how to construct ratio charts, review the [StockCharts Relative Strength Guide](https://school.stockcharts.com/doku.php?id=technical_indicators:price_relative) or the [Investopedia Relative Strength Guide](https://www.investopedia.com/terms/r/relativestrength.asp). For practical application of relative strength in stock selection, see the [IBD Relative Strength Rating Guide](https://www.investors.com/how-to-invest/investors-corner/relative-strength-rating-stock-chart-analysis-helps-pick-outstanding-growth-stocks/).

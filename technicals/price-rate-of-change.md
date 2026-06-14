@@ -59,4 +59,8 @@ A positive result means the price is higher now than it was n periods ago (upwar
 - **Trend Confirmation:** Best used to validate whether momentum supports an entry or exit decision already suggested by fundamental analysis or other technical signals.
 - **Risk Timing:** Essential for identifying when a stock's price velocity has reached unsustainable levels, warning investors to tighten stops or reduce position size.
 - **Complementary Metrics:** Most effective when paired with [price strength](price-strength.md) analysis (for absolute trend context), volume confirmation, and valuation metrics to build a complete risk picture.
-- **Reference Data:** You can review ROC calculations and charting applications using the [Investopedia ROC Guide](https://www.investopedia.com/terms/p/pricerateofchange.asp) or the [Fidelity Technical Indicator Guide](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/roc) to see how thresholds are mapped in practice.
+- **Reference Data:** You can review ROC calculations and charting applications using Investopedia or Fidelity's indicator guides to see how thresholds are mapped in practice.
+
+## Further Research
+
+For a detailed explanation of the Price Rate of Change formula and practical application in trading, review the [Investopedia ROC Guide](https://www.investopedia.com/terms/p/pricerateofchange.asp) or the [Fidelity Technical Indicator Guide: ROC](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/roc).

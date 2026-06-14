@@ -63,4 +63,8 @@ Standard deviation is the mathematical foundation for Bollinger Bands, a widely 
 - **Risk Tolerance Matching:** Best used to confirm that a stock's historical price behavior aligns with your personal comfort level for uncertainty before entering a position.
 - **Portfolio-Level Analysis:** Essential for evaluating how adding a new position will shift your portfolio's aggregate volatility and whether diversification benefits hold.
 - **Complementary Metrics:** Most effective when paired with beta (to separate market-driven risk from stock-specific risk), the Sharpe ratio (to assess risk-adjusted returns), and fundamental health indicators like earnings stability and debt ratios.
-- **Reference Data:** You can find a stock's historical standard deviation and related volatility metrics on platforms like [Yahoo Finance](https://finance.yahoo.com) or [Fidelity's Learning Center](https://www.fidelity.com/learning-center/smart-money/what-is-volatility).
+- **Reference Data:** You can find a stock's historical standard deviation and related volatility metrics on platforms like Yahoo Finance or Fidelity's Learning Center.
+
+## Further Research
+
+For a detailed explanation of how standard deviation is calculated and applied to investment analysis, review the [Investopedia Standard Deviation Guide](https://www.investopedia.com/terms/s/standarddeviation.asp) or the [Fidelity Understanding Volatility Guide](https://www.fidelity.com/learning-center/smart-money/what-is-volatility). For Bollinger Band theory and application, see the [Investopedia Bollinger Bands Guide](https://www.investopedia.com/terms/b/bollingerbands.asp).

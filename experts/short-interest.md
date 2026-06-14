@@ -52,4 +52,8 @@ Some investors view high short interest as a sign of peak pessimism, reasoning t
 - **Due Diligence Validation:** Best used to cross-reference your fundamental analysis — if you are bullish but professional money is heavily short, investigate what they may see that you are missing.
 - **Volatility Planning:** Essential for position sizing and stop-loss placement on stocks with elevated squeeze risk.
 - **Complementary Metrics:** Most effective when paired with Days to Cover, trading volume trends, institutional ownership data, and fundamental health indicators like debt-to-equity and free cash flow.
-- **Reference Data:** You can track short interest statistics on platforms like [FINRA](https://www.finra.org/investors/insights/short-interest) or the [Schwab Short Interest Monitor](https://www.schwab.com/learn/story/short-interest-monitor).
+- **Reference Data:** You can track short interest statistics on platforms like FINRA or Schwab.
+
+## Further Research
+
+For a detailed breakdown of how short interest is reported and how to interpret days-to-cover ratios, review the [Investopedia Short Interest Guide](https://www.investopedia.com/terms/s/shortinterest.asp) or the [FINRA Short Interest Explained Guide](https://www.finra.org/investors/insights/short-interest). For short squeeze mechanics, see the [Schwab Short Interest Monitor](https://www.schwab.com/learn/story/short-interest-monitor).

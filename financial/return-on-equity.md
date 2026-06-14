@@ -52,10 +52,6 @@ Always compare the ROE trend against industry peers. A company with a flat ROE i
 - **One-Time Distortions:** Asset write-downs, share buybacks, or non-recurring gains can temporarily inflate or deflate ROE without reflecting true operational efficiency.
   - *How to address:* Check whether the equity base has been reduced by recent buybacks or write-downs. If the equity denominator has shrunk dramatically in a single quarter, calculate ROE using average equity over the past 4 quarters rather than the latest snapshot. Also verify that net income doesn't include large non-recurring items.
 
-## How to Evaluate
+## Further Research
 
-To determine if a low ROE company is a value trap or a genuine bargain, evaluate these specific financial metrics:
-
-- **Compare to the Industry:** Always benchmark the ROE against industry competitors to see if the whole sector is sluggish, or if this specific company is losing market share.
-- **Check the Debt-to-Equity Ratio:** Ensure the company isn't masking poor profits with dangerous levels of leverage.
-- **Analyze Free Cash Flow:** Profitability can sometimes be misstated by accounting rules, so investigate the [Investor.gov database](https://www.investor.gov) to review the company's cash flow statement to see if actual cash is being generated.
+To determine if a low ROE company is a value trap or a genuine bargain, review the [Investopedia Return on Equity Guide](https://www.investopedia.com/terms/r/returnonequity.asp) for a breakdown of the formula and DuPont decomposition. For an understanding of how ROE fits into quality factor investing, see the [Corporate Finance Institute ROE Guide](https://corporatefinanceinstitute.com/resources/accounting/what-is-return-on-equity-roe/). The [Investor.gov Financial Statements Guide](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/financial-statements) can help you review actual cash flow statements to verify operational health.

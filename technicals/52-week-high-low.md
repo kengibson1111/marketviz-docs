@@ -56,4 +56,8 @@ Academic research supports the idea that stocks near their 52-week highs tend to
 - **Entry and Exit Planning:** Use the 52-week high and low as reference points for setting stop-losses, profit targets, and position entry levels.
 - **Breakout Confirmation:** Pair with volume-based indicators (like Chaikin Money Flow or trade volume) to confirm whether a breakout above the high or breakdown below the low has institutional backing.
 - **Complementary Metrics:** Most effective when combined with price strength, relative price strength, momentum indicators, and fundamental analysis to build a complete risk picture.
-- **Reference Data:** You can look up the 52-week range for specific tickers using financial tools like [Yahoo Finance](https://finance.yahoo.com) or [Google Finance](https://www.google.com/finance).
+- **Reference Data:** You can look up the 52-week range for specific tickers using financial tools like Yahoo Finance or Google Finance.
+
+## Further Research
+
+For a deeper understanding of how the 52-week range is used in technical analysis and momentum strategies, review the [Investopedia 52-Week High/Low Guide](https://www.investopedia.com/terms/1/52weekhighlow.asp) or the [Fidelity Technical Analysis Learning Center](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/overview).

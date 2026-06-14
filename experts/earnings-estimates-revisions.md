@@ -31,7 +31,7 @@ The magnitude and dispersion of estimate changes indicate how uncertain the mark
 
 Earnings revisions directly impact the accuracy of forward-looking valuation models like discounted cash flow (DCF) and price-to-earnings multiples.
 
-- **Where it's used:** Recalculating intrinsic value when analysts adjust future earnings forecasts, using platforms like [LSEG Workspace](https://www.lseg.com/en/data-analytics/financial-data/analytics/quantitative-analytics/starmine-analyst-revisions-models) or [Zacks Investment Research](https://www.zacks.com).
+- **Where it's used:** Recalculating intrinsic value when analysts adjust future earnings forecasts, using platforms like LSEG Workspace or Zacks Investment Research.
 - **Risk context (valuation creep):** Even if a stock's price remains stable, downward earnings revisions cause its valuation multiples (like P/E ratios) to silently inflate. This makes the asset riskier and more expensive relative to its actual profit generation, increasing the probability of a correction when the market reprices the stock.
 
 ## Key Risks and Limitations
@@ -50,4 +50,8 @@ Earnings revisions directly impact the accuracy of forward-looking valuation mod
 - **Pre-Earnings Screening:** Best used in the weeks leading up to earnings reports to identify stocks where expectations have recently shifted, helping avoid positions with elevated surprise risk.
 - **Momentum Confirmation:** Useful for validating whether a stock's recent price move is supported by improving fundamentals or is purely speculative.
 - **Complementary Metrics:** Most effective when paired with earnings quality, revenue growth, PEG ratio, and short interest to build a complete picture of forward-looking risk.
-- **Reference Data:** You can track earnings estimate revisions on platforms like [Zacks Investment Research](https://www.zacks.com) or [LSEG StarMine Analyst Revisions Models](https://www.lseg.com/en/data-analytics/financial-data/analytics/quantitative-analytics/starmine-analyst-revisions-models).
+- **Reference Data:** You can track earnings estimate revisions on platforms like Zacks Investment Research or LSEG StarMine.
+
+## Further Research
+
+For a comprehensive guide on how earnings estimate revisions drive stock performance, review the [Investopedia Earnings Estimate Guide](https://www.investopedia.com/terms/e/earningsestimate.asp) or the [Zacks Earnings Estimate Methodology](https://www.zacks.com/education/stock-education-center/). For institutional-grade revision models, see the [LSEG StarMine Analyst Revisions Models Overview](https://www.lseg.com/en/data-analytics/financial-data/analytics/quantitative-analytics/starmine-analyst-revisions-models).

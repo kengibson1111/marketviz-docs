@@ -63,4 +63,8 @@ Relative price change provides objective criteria for determining when active st
 - **Stock Selection Validation:** Essential for confirming that outperformance is both peer-leading and benchmark-beating, not just one or the other.
 - **Exit Criteria:** Provides objective, quantitative thresholds for when individual stock ownership has failed to justify its risk and a switch to passive exposure is warranted.
 - **Complementary Metrics:** Most effective when paired with [relative price strength](relative-price-strength.md) (for peer-only context), [price rate of change](price-rate-of-change.md) (for absolute momentum), and risk-adjusted measures like the Sharpe ratio to account for volatility differences.
-- **Reference Data:** You can compare stock returns against the S&P 500 and peers using platforms like [Yahoo Finance](https://finance.yahoo.com) comparison charts, [Portfolio Visualizer](https://www.portfoliovisualizer.com), or [StockCharts PerfCharts](https://stockcharts.com) to evaluate relative price change across multiple time horizons.
+- **Reference Data:** You can compare stock returns against the S&P 500 and peers using platforms like Yahoo Finance comparison charts, Portfolio Visualizer, or StockCharts PerfCharts to evaluate relative price change across multiple time horizons.
+
+## Further Research
+
+For a deeper understanding of relative performance measurement and how to calculate risk-adjusted excess returns, review the [Investopedia Alpha Guide](https://www.investopedia.com/terms/a/alpha.asp) or the [Portfolio Visualizer Asset Comparison Tool](https://www.portfoliovisualizer.com/asset-analytics). For understanding how opportunity cost factors into individual stock ownership decisions, see the [Investopedia Opportunity Cost Guide](https://www.investopedia.com/terms/o/opportunitycost.asp).

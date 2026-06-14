@@ -70,3 +70,7 @@ Costs fluctuate directly with sales volume. If sales drop, expenses decrease pro
 - **Growth Stocks:** High operating leverage is common in scaling tech and SaaS companies; investors should weigh the upside potential against earnings volatility risk.
 - **Cyclical Stocks:** Essential for evaluating how severely profits may swing across economic cycles.
 - **Complementary Metrics:** Best used alongside revenue growth, free cash flow, and debt-to-equity to build a complete picture of fundamental risk.
+
+## Further Research
+
+For a detailed walkthrough of how operating leverage is calculated and applied in sector analysis, review the [Investopedia Operating Leverage Guide](https://www.investopedia.com/terms/o/operatingleverage.asp) or the [Corporate Finance Institute DOL Guide](https://corporatefinanceinstitute.com/resources/accounting/degree-of-operating-leverage/). For understanding how breakeven analysis factors into investment decisions, see the [Investopedia Breakeven Analysis Guide](https://www.investopedia.com/terms/b/breakevenanalysis.asp).

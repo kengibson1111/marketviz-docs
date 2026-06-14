@@ -27,6 +27,10 @@ A stock's one-year Return on Investment (ROI) is primarily used as a tactical ba
 - **Does Not Predict Future Returns:** Past one-year returns have limited predictive value for future performance. Mean reversion, changing market conditions, and evolving fundamentals can reverse prior trends.
   - *How to address:* Treat one-year ROI as a diagnostic rather than a forecast. Pair it with forward-looking indicators like earnings estimate revisions, revenue growth trajectory, and valuation metrics to assess whether the past year's trend is likely to continue or reverse.
 
+## Further Research
+
+For a deeper understanding of how return metrics are used in portfolio risk management, review the [Investopedia ROI Guide](https://www.investopedia.com/terms/r/returnoninvestment.asp) or the [Fidelity Understanding Investment Returns Guide](https://www.fidelity.com/learning-center/investment-products/mutual-funds/guide-to-returns). For information on calculating and interpreting alpha and beta, see the [Investopedia Jensen's Alpha Guide](https://www.investopedia.com/terms/j/jensensmeasure.asp).
+
 ## Why Context Matters
 
 While one-year ROI helps measure recent risk, relying on it alone can be misleading because it captures a short, potentially unrepresentative timeframe. Longer-term horizons (like 3-, 5-, or 10-year Compound Annual Growth Rates (CAGR)) are generally preferred to smooth out market cycles and get an accurate picture of a stock's long-term risk profile.

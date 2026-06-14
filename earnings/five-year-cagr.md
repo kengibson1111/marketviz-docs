@@ -46,3 +46,7 @@ By measuring a stock's 5-year CAGR against the CAGR of a benchmark index (like t
 - **Growth Stocks:** Useful for verifying whether rapid price appreciation is backed by real compounding in revenue or earnings.
 - **Income Stocks:** Helps assess whether dividend growth has compounded at a rate that keeps pace with inflation and market returns.
 - **Complementary Metrics:** Best used alongside volatility measures (standard deviation, beta), PEG ratio, and earnings quality indicators to form a complete risk picture.
+
+## Further Research
+
+For a detailed explanation of how CAGR is calculated and where it fits in investment analysis, review the [Investopedia CAGR Guide](https://www.investopedia.com/terms/c/cagr.asp) or the [Corporate Finance Institute CAGR Guide](https://corporatefinanceinstitute.com/resources/valuation/cagr-compound-annual-growth-rate/). For comparing CAGR across investment alternatives, see the [Investopedia Annualized Return Guide](https://www.investopedia.com/terms/a/annualized-total-return.asp).

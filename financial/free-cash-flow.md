@@ -40,9 +40,6 @@ The acceptable level of FCF varies by sector. Capital-intensive industries (like
 - **Does Not Measure Quality of Spending:** FCF tells you how much cash remains but not whether the reinvestments being made are generating adequate returns.
   - *How to address:* Pair FCF with return on invested capital (ROIC). A company with low FCF but high ROIC is likely reinvesting productively. A company with low FCF and declining ROIC is burning cash without generating value — a much more concerning signal.
 
-## How to Evaluate the Stock
+## Further Research
 
-To confirm if a low-FCF stock fits your risk tolerance, you can:
-
-- Review the [Charles Schwab guide on FCF](https://www.schwab.com/learn/story/whats-free-cash-flow-and-why-it-matters) to track FCF trends and see if cash generation is improving or worsening over time.
-- Examine the company's financial statements directly using a platform like [Morningstar](https://www.morningstar.com) or [Yahoo Finance](https://finance.yahoo.com) to verify debt levels and capital expenditures.
+To confirm if a low-FCF stock fits your risk tolerance, review the [Charles Schwab Guide on FCF](https://www.schwab.com/learn/story/whats-free-cash-flow-and-why-it-matters) to understand FCF trends and what drives cash generation. For a walkthrough of how FCF is calculated from financial statements, see the [Investopedia Free Cash Flow Guide](https://www.investopedia.com/terms/f/freecashflow.asp).

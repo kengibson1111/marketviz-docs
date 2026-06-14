@@ -63,3 +63,7 @@ Comparing expected EPS growth rates across different companies in the same indus
 - **Value Stocks:** Useful for identifying turnaround stories where rising EPS projections signal improving fundamentals.
 - **Earnings Season:** Particularly important in the weeks surrounding quarterly reports, when consensus estimates drive pre- and post-announcement price action.
 - **Complementary Metrics:** Best used alongside revenue projections, free cash flow forecasts, and historical earnings quality to build a complete picture of forward-looking risk.
+
+## Further Research
+
+For a detailed explanation of how EPS projections are formed and how consensus estimates drive stock prices, review the [Investopedia EPS Guide](https://www.investopedia.com/terms/e/eps.asp) or the [Zacks Earnings Estimate Methodology](https://www.zacks.com/education/stock-education-center/). For understanding earnings surprises and their market impact, see the [Investopedia Earnings Surprise Guide](https://www.investopedia.com/terms/e/earningssurprise.asp).

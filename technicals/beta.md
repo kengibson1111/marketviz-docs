@@ -56,4 +56,8 @@ Investors use beta to engineer a portfolio's overall market sensitivity to match
 - **Risk Tolerance Matching:** Best used to align individual stock picks with your overall risk appetite before entering a position.
 - **Portfolio-Level Analysis:** Essential for evaluating how a new position will shift your portfolio's aggregate market exposure.
 - **Complementary Metrics:** Most effective when paired with fundamental analysis (earnings stability, debt ratios), price strength indicators, and volume analysis to build a complete risk picture.
-- **Reference Data:** You can find a stock's current beta alongside other financial metrics on platforms like [Yahoo Finance](https://finance.yahoo.com) or [Google Finance](https://www.google.com/finance) quote summary pages.
+- **Reference Data:** You can find a stock's current beta alongside other financial metrics on platforms like Yahoo Finance or Google Finance quote summary pages.
+
+## Further Research
+
+For a detailed explanation of how beta is calculated and applied in portfolio construction, review the [Investopedia Beta Guide](https://www.investopedia.com/terms/b/beta.asp) or the [Fidelity Understanding Beta Guide](https://www.fidelity.com/learning-center/trading-investing/fundamental-analysis/understanding-beta). For a walkthrough of the Capital Asset Pricing Model, see the [Corporate Finance Institute CAPM Guide](https://corporatefinanceinstitute.com/resources/valuation/capital-asset-pricing-model-capm/).

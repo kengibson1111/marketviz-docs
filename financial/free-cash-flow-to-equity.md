@@ -42,10 +42,6 @@ Investors evaluate FCFE relative to the company's share price ($\text{FCFE per s
 - **Capital Structure Sensitivity:** Because FCFE accounts for debt payments, comparing FCFE across companies with different leverage profiles can be misleading without normalization.
   - *How to address:* When comparing peers with different capital structures, use FCFF (Free Cash Flow to Firm) for an apples-to-apples comparison of operational cash generation. Reserve FCFE for evaluating individual companies' dividend sustainability and shareholder yield.
 
-## How to Evaluate the Stock
+## Further Research
 
-To confirm if a stock's FCFE profile fits your risk tolerance, you can:
-
-- Review the company's cash flow statement using a platform like [Morningstar](https://www.morningstar.com) or [Yahoo Finance](https://finance.yahoo.com) to verify operating cash flow, capital expenditures, and net borrowing trends.
-- Compare FCFE to total dividends paid and share repurchases to assess whether shareholder returns are sustainable.
-- Track FCFE per share over multiple quarters to identify whether cash available to equity holders is growing or shrinking relative to the stock price.
+For a detailed walkthrough of the FCFE formula and its role in equity valuation, review the [Investopedia FCFE Guide](https://www.investopedia.com/terms/f/freecashflowtoequity.asp) or the [Corporate Finance Institute FCFE Guide](https://corporatefinanceinstitute.com/resources/valuation/free-cash-flow-to-equity-fcfe/).

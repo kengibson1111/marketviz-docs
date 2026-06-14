@@ -33,7 +33,7 @@ When analyzing this risk metric, consider these nuances:
 - **Sector Differences:** Capital-intensive sectors like utilities, telecommunications, and real estate investment trusts (REITs) typically run higher payout ratios and are viewed as normal. Conversely, cyclical or tech companies operating with high payout ratios carry a much higher risk of a dividend cut.
 - **Earnings Volatility:** Forecasting is not guaranteed. If a company's earnings fluctuate widely, its forward payout ratio will be unreliable.
 
-## References
+## Further Research
 
 - [Breckinridge Capital Advisors: Navigating the Risks of High Payout Ratios](https://www.breckinridge.com/insights/navigating-the-risks-high-payout-ratios-and-stable-dividend-income)
 - [Morningstar: How to Spot Dividend Traps](https://www.morningstar.com/stocks/is-your-dividend-income-risk-heres-how-spot-dividend-traps)

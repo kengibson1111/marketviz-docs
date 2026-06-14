@@ -53,4 +53,8 @@ High-quality earnings demonstrate a robust, recurring business model. Investors 
 - **Defensive Investing:** Essential for identifying financially sound companies that are less likely to surprise investors with earnings shortfalls.
 - **Fraud Detection:** Useful as an early warning signal when combined with forensic accounting screens.
 - **Complementary Metrics:** Best used alongside free cash flow, debt-to-equity, and revenue growth to build a complete picture of fundamental risk.
-- **Reference Data:** You can evaluate the specific accounting metrics used to compute these scores by reviewing the [NASDAQ Earnings Quality Ranking](https://data.nasdaq.com/databases/EQR) data feed.
+- **Reference Data:** You can evaluate the specific accounting metrics used to compute these scores by reviewing the NASDAQ Earnings Quality Ranking data feed.
+
+## Further Research
+
+For a deeper understanding of how earnings quality is scored and used in institutional screens, review the [Investopedia Earnings Quality Guide](https://www.investopedia.com/terms/q/qualityofearnings.asp) or the [NASDAQ Earnings Quality Ranking](https://data.nasdaq.com/databases/EQR). For understanding the Quality Minus Junk factor in academic research, see the [AQR Quality Minus Junk Paper](https://www.aqr.com/Insights/Datasets/Quality-Minus-Junk-Factors-Monthly).

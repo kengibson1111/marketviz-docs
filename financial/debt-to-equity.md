@@ -46,4 +46,4 @@ Sometimes, a company takes on significant debt to aggressively fund expansion or
 
 ## Further Research
 
-To investigate the financial health of a specific company, you can check its balance sheet and leverage ratios on financial platforms like [Yahoo Finance](https://finance.yahoo.com) or [Morningstar](https://www.morningstar.com).
+To investigate the financial health of a specific company, review the [Investopedia Debt-to-Equity Ratio Guide](https://www.investopedia.com/terms/d/debtequityratio.asp) for a detailed breakdown of the formula and interpretation. For understanding how leverage affects equity returns, see the [Corporate Finance Institute Debt-to-Equity Guide](https://corporatefinanceinstitute.com/resources/commercial-lending/debt-to-equity-ratio/).

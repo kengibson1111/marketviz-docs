@@ -46,3 +46,7 @@ While the return of a 3-month T-Bill is used to measure baseline risk, looking a
   - *How to address:* Run sensitivity analysis on your models by varying the risk-free rate ±0.5%. If your investment thesis changes materially with a small rate shift, the conclusion is fragile and should be supported by additional valuation methods (comparables, fundamental screens) rather than relying solely on rate-sensitive models.
 - **Lag in Reflecting Conditions:** The 3-month yield responds to Fed policy and market expectations with a lag, meaning models using it may temporarily misrepresent the current opportunity cost of equity investing.
   - *How to address:* During periods of active Fed rate changes, check market-implied forward rates (Fed funds futures) alongside the current 3-month yield to anticipate where the risk-free rate is heading. Adjust your required equity risk premium if rates are expected to change significantly in the near term.
+
+## Further Research
+
+For a practical understanding of how the risk-free rate feeds into portfolio models, review the [Investopedia Risk-Free Rate Guide](https://www.investopedia.com/terms/r/risk-freerate.asp) or the [Investopedia CAPM Guide](https://www.investopedia.com/terms/c/capm.asp). To track current 3-month Treasury yields, see the [U.S. Treasury Daily Yield Curve Rates](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve).

@@ -30,3 +30,7 @@ Relying solely on P/E can mask other major risks:
   - *How to address:* Compare P/E to the price-to-free-cash-flow ratio. If P/E looks attractive but the price-to-FCF ratio tells a different story, earnings quality may be suspect. Also check earnings manipulation detection scores (Beneish M-Score) to flag potential accounting aggression.
 - **Growth Blindness:** It does not factor in the rate of growth. Analysts often use the PEG ratio (P/E divided by growth) to determine if a high P/E is justified by high growth.
   - *How to address:* Calculate the PEG ratio by dividing the P/E by the expected 5-year earnings growth rate. A PEG below 1.0 suggests the growth rate justifies the multiple; a PEG above 2.0 suggests you're paying a premium that growth alone doesn't support.
+
+## Further Research
+
+For a deeper understanding of how to interpret and apply P/E ratios, review the [Investopedia Price-to-Earnings Ratio Guide](https://www.investopedia.com/terms/p/price-earningsratio.asp) or the [Morningstar P/E Valuation Methodology](https://www.morningstar.com/investing-definitions/price-to-earnings-ratio). For historical context on market-wide P/E levels, explore [multpl.com's S&P 500 P/E History](https://www.multpl.com/s-p-500-pe-ratio).
