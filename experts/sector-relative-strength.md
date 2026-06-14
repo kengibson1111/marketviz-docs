@@ -46,10 +46,15 @@ Technical indicators like the Relative Strength Index (RSI) help pinpoint overbo
 ## Key Risks and Limitations
 
 - **Sector Classification Is Imperfect:** Many companies operate across multiple sectors, making single-sector comparisons potentially misleading. A conglomerate may not move in lockstep with any single benchmark.
+  - *How to address:* For diversified companies, compare against multiple sector benchmarks weighted by revenue contribution (e.g., if 60% of revenue comes from tech and 40% from healthcare, evaluate relative strength against both). Alternatively, use the company's industry-level peers for a tighter comparison.
 - **Relative Strength Does Not Guarantee Absolute Gains:** A stock can outperform its sector while both still decline in absolute terms. Relative outperformance during a bear market does not prevent losses.
+  - *How to address:* Always check absolute return alongside relative performance. If the sector itself is in a downtrend, relative leadership alone is not a buy signal — it simply means the stock may fall less. Use absolute price trend (above or below its 200-day moving average) as a complementary filter.
 - **Lagging Indicator in Rotation:** By the time sector rotation is clearly visible in relative strength data, much of the move may have already occurred. Early signals often require confirmation from fundamental or flow-based data.
+  - *How to address:* Monitor money flow (CMF) and relative volume data for early rotation signals before they show up in price-based relative strength. Also watch earnings estimate revision trends, which often lead price momentum by several weeks.
 - **Benchmark Selection Matters:** Results vary significantly depending on whether you compare a stock to a broad sector ETF, a sub-industry index, or a custom peer group. Always ensure the benchmark is representative.
+  - *How to address:* Use the most commonly referenced sector ETF for your stock's GICS sector (e.g., XLK for tech, XLF for financials) as the default benchmark. If results seem off, narrow to the sub-industry ETF. Be consistent in your benchmark choice over time so trends are comparable.
 - **Short-Term Noise:** Daily or weekly relative strength readings can be volatile and misleading. Longer measurement periods (30–90 days) provide more reliable signals about true leadership.
+  - *How to address:* Use a minimum 30-day rolling window for relative strength calculations. Confirm any signal that appears on a weekly chart with the monthly trend before making allocation decisions.
 
 ## Contextual Usage
 

@@ -42,10 +42,11 @@ Normalized EPS allows you to compare financial health across industry peers on a
 ## Key Risks and Limitations
 
 - **Subjectivity in Adjustments:** There is no universal standard for what constitutes a "one-off" event, so different analysts may arrive at different normalized figures.
+  - *How to address:* Compare normalized EPS from at least two independent sources (e.g., Morningstar vs. S&P Capital IQ). If their figures diverge significantly, investigate which items each source treated as non-recurring and form your own judgment based on whether those items have appeared more than once.
 - **Over-Smoothing:** Averaging earnings over a cycle can mask genuine structural deterioration in a business.
+  - *How to address:* Check the trend direction within the normalization window. If the most recent 2–3 years show declining as-reported EPS while the normalized figure remains flat, the smoothing may be hiding a real downturn. Cross-reference with revenue growth — falling revenue alongside stable normalized EPS is a warning sign.
 - **Management Bias:** Companies may selectively classify negative items as non-recurring while treating positive items as core, skewing the normalized figure in their favor.
-
-Independent detection tools such as the Beneish M-Score, Sloan Accrual Ratio, and cash-flow variability analysis can help identify over-smoothing and management bias. See [Earnings Manipulation Detection](earnings-manipulation-detection.md) for details.
+  - *How to address:* Review the "non-recurring" adjustments in the earnings footnotes over multiple quarters. If the same type of charge (e.g., restructuring costs, asset impairments) appears repeatedly, it is effectively recurring regardless of how management labels it. Earnings manipulation detection tools such as the Beneish M-Score, Sloan Accrual Ratio, and cash-flow variability analysis can help identify this pattern. See [Earnings Manipulation Detection](earnings-manipulation-detection.md) for details.
 
 ## Contextual Usage
 

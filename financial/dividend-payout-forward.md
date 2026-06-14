@@ -41,6 +41,10 @@ When analyzing this risk metric, consider these nuances:
 ## Key Risks and Limitations
 
 - **Earnings Forecast Dependency:** The forward payout ratio is only as reliable as the earnings projection it uses. If analysts overestimate future profits, the ratio will appear safer than reality warrants.
+  - *How to address:* Check the recent direction of earnings estimate revisions. If estimates have been revised downward over the past 60–90 days, recalculate the payout ratio using the lowest analyst estimate rather than the consensus. This gives a more conservative view of sustainability.
 - **Does Not Capture Cash Flow:** The ratio uses projected net income, which includes non-cash items. A company can have a sustainable-looking payout ratio while lacking the cash to actually fund the dividend.
+  - *How to address:* Calculate a parallel cash-flow payout ratio by dividing the projected dividend by projected free cash flow. If the cash-flow-based ratio exceeds 100% while the earnings-based ratio looks safe, the dividend is likely being funded by reserves or debt rather than operations.
 - **One-Year Horizon Only:** The forward ratio projects one year ahead. Companies facing multi-year earnings declines may show a comfortable near-term ratio that masks longer-term unsustainability.
+  - *How to address:* Look at the earnings growth trajectory for the next 2–3 years. If analysts project declining earnings beyond the current year, calculate what the payout ratio would be in year two and three to gauge whether the dividend can survive past the near-term window.
 - **Sector-Specific Norms:** REITs and MLPs are structured to distribute most earnings by design. Applying standard payout thresholds to these entities produces false alarms.
+  - *How to address:* For REITs and MLPs, use Funds from Operations (FFO) or Distributable Cash Flow (DCF) instead of net income as the earnings base. These sector-specific measures more accurately reflect the cash available for distributions.

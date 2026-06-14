@@ -35,8 +35,11 @@ Comparing top-line revenue growth to bottom-line earnings growth reveals operati
 ## Key Risks and Limitations
 
 - **Short-Term Hype:** A single strong year can distort the 5-year average; always examine the year-over-year consistency within the window.
+  - *How to address:* Break down the 5-year figure into individual year-over-year growth rates. If one year accounts for the majority of cumulative growth while others are flat or declining, treat the average with skepticism. A consistently rising trend across all five years is far more reliable than a single spike.
 - **Revenue Quality:** Not all revenue is equal. One-time contract wins, acquisitions, or accounting changes can inflate top-line growth without reflecting organic business strength.
+  - *How to address:* Check whether the company discloses organic revenue growth separately from acquisition-driven growth. Review the 10-K for large contract wins or revenue recognition policy changes. If free cash flow growth lags far behind revenue growth, the top-line number may be lower quality than it appears.
 - **Macro Sensitivity:** Some sectors (e.g., commodities, cyclicals) experience revenue swings tied to economic cycles rather than company-specific execution.
+  - *How to address:* Compare the company's revenue growth to its direct industry peers over the same period. If the entire sector grew at a similar rate, the company may simply be riding a macro tailwind rather than outperforming. Also check whether revenue growth persisted through the last economic slowdown within the window.
 
 ## Contextual Usage
 

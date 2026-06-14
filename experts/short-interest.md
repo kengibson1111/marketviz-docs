@@ -36,9 +36,13 @@ Some investors view high short interest as a sign of peak pessimism, reasoning t
 ## Key Risks and Limitations
 
 - **Delayed Reporting:** Short interest data is reported on a semi-monthly basis with a publication lag, meaning the numbers may not reflect real-time positioning changes.
+  - *How to address:* Use the trend direction over multiple reporting periods rather than reacting to a single snapshot. Supplement with daily cost-to-borrow data (available on some brokerage platforms) which updates more frequently and can signal shifts in short demand between official reports.
 - **Does Not Explain Why:** A high short interest number tells you *that* professionals are bearish, but not *why*. The reasons could range from fundamental deterioration to hedging activity or pairs trading that has nothing to do with a directional bet against the company.
+  - *How to address:* Cross-reference with fundamental indicators — check earnings estimate revisions, insider activity, debt-to-equity, and free cash flow trends. If fundamentals are strong and improving, the short interest may be hedge-related rather than a fundamental bet. If fundamentals are deteriorating alongside rising short interest, the bearish case gains credibility.
 - **Squeeze Risk Cuts Both Ways:** While a squeeze can benefit existing long holders, it can also create false price signals that lure in new buyers at unsustainable levels before the stock reverts.
+  - *How to address:* If you are long a high-short-interest stock that spikes on a squeeze, do not assume the new price level is sustainable. Check whether the fundamental thesis has changed. Use the Days to Cover metric — if it drops sharply after the spike (shorts have covered), the buying pressure that caused the rally is gone and reversion risk is high.
 - **Sector Context Matters:** Some sectors naturally carry higher short interest due to structural hedging activity. Always compare short interest to sector peers rather than a universal threshold.
+  - *How to address:* Rank short interest as a percentile within the stock's sector or industry peer group. A 5% short interest in a biotech stock (where 8–10% is common) is less alarming than 5% in a utility stock (where 1–2% is typical). Sector-relative rankings provide a clearer signal than absolute numbers.
 
 ## Contextual Usage
 

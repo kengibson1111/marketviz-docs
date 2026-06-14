@@ -49,8 +49,11 @@ By mapping as-reported quarterly results over a multi-year period, analysts trac
 ## Key Risks and Limitations
 
 - **One-Time Distortions:** As-reported figures include genuinely non-recurring items (lawsuit settlements, natural disasters), which can make a single quarter misleading without multi-year context.
+  - *How to address:* Always review at least 8–12 quarters of data rather than reacting to a single period. Flag quarters with unusually large EPS spikes or drops, then check the 10-Q footnotes to confirm whether the cause was genuinely non-recurring. Compare the distorted quarter against normalized EPS for the same period to gauge the true impact.
 - **Accounting Standard Changes:** Shifts in GAAP/IFRS rules across reporting periods can create artificial discontinuities in the historical series.
+  - *How to address:* When you spot a sudden jump or drop that coincides with a new reporting year, check whether the company disclosed an accounting standard adoption (e.g., ASC 606 revenue recognition or IFRS 16 lease accounting). Many filings restate prior periods for comparability — use restated figures when available.
 - **Cross-Border Comparisons:** Companies reporting under GAAP vs. IFRS may treat certain items differently, complicating direct peer comparisons of as-reported EPS.
+  - *How to address:* When comparing a GAAP-reporting company to an IFRS-reporting peer, focus on cash-flow-based metrics (free cash flow, operating cash flow) as a common denominator, since cash generation is less affected by accounting framework differences. Alternatively, use normalized EPS from a provider that reconciles both standards.
 
 ## Contextual Usage
 

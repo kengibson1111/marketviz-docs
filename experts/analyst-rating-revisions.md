@@ -47,10 +47,15 @@ Downgrades to "Sell" or "Underperform" are frequently red flags that a stock's v
 ## Key Risks and Limitations
 
 - **Herding Behavior:** Analysts sometimes follow each other rather than conducting fully independent research, which can amplify revision trends beyond what fundamentals justify and create misleading consensus signals.
+  - *How to address:* Look at the dispersion of individual analyst price targets. If all targets cluster within a narrow range, herding is likely. Compare the consensus view to the company's own guidance and to independent research sources for a reality check.
 - **Conflict of Interest:** Sell-side analysts may face pressure from investment banking relationships, potentially biasing their ratings toward optimism and making downgrades slower to appear than upgrades.
+  - *How to address:* Weight ratings from independent research firms (those without investment banking arms) more heavily. Also track whether a firm that recently underwrote the company's offering is issuing the upgrade — that context reduces the signal's reliability.
 - **Lagging Indicators:** Analyst models update on a periodic basis. In rapidly evolving situations (such as sudden demand shifts, regulatory changes, or management crises), rating revisions may trail reality significantly.
+  - *How to address:* Supplement with real-time signals like insider trading activity, short interest changes, and earnings estimate revision trends, which tend to update faster than formal rating changes.
 - **Binary Signal Limitation:** Ratings compress a complex risk landscape into simple categories (Buy/Hold/Sell). They do not capture the magnitude of risk, the specific timeframe, or the conditional factors that could change the thesis.
+  - *How to address:* Look beyond the rating label to the analyst's price target and the specific commentary in the research note. A "Hold" with a price target 20% above the current price carries different information than a "Hold" with a target at the current price. When possible, review the analyst's historical accuracy on this specific stock.
 - **Sector Context Matters:** Some sectors receive more frequent rating changes due to cyclicality, commodity sensitivity, or rapid innovation cycles. Always compare revision patterns to sector peers rather than applying universal thresholds.
+  - *How to address:* Track the revision trend relative to sector peers rather than in isolation. A single downgrade in a sector experiencing broad downgrades is less concerning than a lone downgrade when all peers are being upgraded.
 
 ## Contextual Usage
 

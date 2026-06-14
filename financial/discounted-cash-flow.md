@@ -36,9 +36,13 @@ By focusing purely on free cash flow rather than accounting earnings, DCF remove
 ## Key Risks and Limitations
 
 - **Input Sensitivity:** Small changes to the discount rate or growth assumptions can swing intrinsic value by 30–50%, making the output only as reliable as its inputs.
+  - *How to address:* Run a sensitivity table (also called a "what-if" matrix) that shows intrinsic value across a range of discount rates and growth rates. If the stock only looks undervalued under the most optimistic assumptions, the margin of safety is too thin to rely on.
 - **Forecasting Difficulty:** Projecting free cash flows 5–10 years into the future requires assumptions about revenue growth, margins, and capital expenditures that are inherently speculative.
+  - *How to address:* Anchor projections to the company's historical free cash flow growth rate and compare against analyst consensus estimates. Use conservative assumptions (lower growth, higher capex) as your base case, and treat optimistic scenarios as upside rather than baseline.
 - **Terminal Value Dominance:** In most DCF models, 60–80% of the calculated value comes from the terminal value — a single assumption about perpetual growth — rather than from near-term, observable cash flows.
+  - *How to address:* Cap the terminal growth rate at or below long-term GDP growth (2–3%). If the majority of your intrinsic value disappears when you reduce the terminal growth rate by 1%, the thesis is fragile. Cross-reference DCF output with simpler valuation metrics (P/E, P/S, Graham Number) as a sanity check.
 - **Not Suitable for All Companies:** Early-stage, pre-profit, or highly cyclical companies lack the stable cash flow patterns that DCF modeling requires, making the output unreliable for these categories.
+  - *How to address:* For pre-profit companies, use revenue-based multiples (P/S) or comparable transaction analysis instead. For cyclical companies, normalize cash flows by averaging over a full economic cycle before applying DCF, and explicitly model both peak and trough scenarios.
 
 ## How to Evaluate the Stock
 

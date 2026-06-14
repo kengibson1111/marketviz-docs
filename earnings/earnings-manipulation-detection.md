@@ -44,9 +44,13 @@ Comparing the standard deviation of earnings to the standard deviation of operat
 ## Key Risks and Limitations
 
 - **False Positives:** A high Beneish M-Score or accrual ratio does not prove manipulation — fast-growing companies or those undergoing legitimate business transitions may trigger these signals.
+  - *How to address:* Before acting on a red flag, check whether the company recently completed an acquisition, entered a new market, or changed its revenue recognition method. Legitimate transitions often normalize within two to three quarters. Compare against industry peers to see if similar companies also show elevated scores.
 - **Lagging Indicators:** These tools rely on published financial statements, meaning manipulation may persist for several quarters before detection models flag it.
+  - *How to address:* Supplement with real-time signals like insider selling activity, short interest trends, and auditor changes. A spike in insider sales or a sudden auditor resignation alongside borderline detection scores strengthens the case for concern.
 - **Sector Sensitivity:** Capital-intensive or subscription-based businesses naturally carry higher accruals, requiring sector-adjusted thresholds rather than universal cutoffs.
+  - *How to address:* Compare a company's accrual ratio or M-Score to its direct industry peers rather than to universal thresholds. Many screeners allow sector-relative filtering — use that to calibrate what "normal" looks like within the specific business model.
 - **No Single Silver Bullet:** Each tool captures a different dimension of risk. Cross-referencing two or more signals provides far more confidence than relying on any single metric.
+  - *How to address:* Require at least two independent red flags before downgrading conviction. For example, pair a flagged M-Score with a divergence between cash flow and reported earnings, or combine a high accrual ratio with declining earnings quality scores.
 
 ## Contextual Usage
 

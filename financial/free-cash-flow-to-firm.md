@@ -38,9 +38,13 @@ Comparing FCFF to reported net income helps expose aggressive accounting. If net
 ## Key Risks and Limitations
 
 - **Forecast Dependency:** FCFF-based valuations depend on multi-year growth projections that are inherently uncertain. Small errors in assumptions compound significantly over a 5–10 year horizon.
+  - *How to address:* Run a sensitivity analysis with conservative, base, and optimistic scenarios. Anchor growth projections to the company's historical FCFF growth rate and analyst consensus. If the valuation only works under optimistic assumptions, the margin of safety is insufficient.
 - **Working Capital Noise:** Changes in inventory, receivables, and payables can cause FCFF to fluctuate quarter to quarter without reflecting true operational improvement or decline.
+  - *How to address:* Use trailing 12-month (TTM) FCFF rather than a single quarter. Also track the trend in working capital as a percentage of revenue — if it's stable, quarter-to-quarter FCFF swings are noise. If working capital is consistently growing faster than revenue, investigate whether inventory is building or receivables are aging.
 - **Does Not Isolate Equity Risk:** Because FCFF measures cash available to all capital providers (debt and equity), it can overstate value from the equity holder's perspective in highly leveraged companies.
+  - *How to address:* After calculating enterprise value using FCFF, subtract net debt to arrive at equity value. For highly leveraged companies, also check FCFE (Free Cash Flow to Equity) to understand what cash actually flows through to shareholders after debt service.
 - **WACC Sensitivity:** The discount rate (WACC) used in FCFF models is itself an estimate. Small changes to the cost of equity or debt assumptions meaningfully shift the resulting enterprise value.
+  - *How to address:* Build a WACC sensitivity table showing enterprise value at different discount rates (e.g., ±1%). If value swings 30%+ with a 1% change in WACC, the valuation is fragile. Cross-reference with simpler valuation multiples (EV/EBITDA, P/E) as a reasonableness check.
 
 ## How to Evaluate the Stock
 

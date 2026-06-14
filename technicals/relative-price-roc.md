@@ -38,10 +38,15 @@ When a stock's ROC trajectory separates meaningfully from its peer group average
 ## Key Risks and Limitations
 
 - **Short-Term Noise:** ROC is inherently more volatile than cumulative return metrics. Comparing noisy signals across multiple stocks amplifies the chance of false rotation signals, particularly over very short lookback periods (5 days or fewer).
+  - *How to address:* Use a minimum 10-day ROC period for peer comparisons to filter out daily noise. Require that a relative ROC divergence persist for at least 3–5 consecutive trading days before treating it as a meaningful rotation signal rather than a random fluctuation.
 - **Peer Group Sensitivity:** Results depend heavily on which competitors are included. A stock may show strong relative ROC against weak peers but weak relative ROC against the actual companies competing for the same capital. Peer selection must be rigorous.
+  - *How to address:* Define peers based on competitive overlap (companies targeting the same customers and market) rather than broad sector classification. Include at least 3–5 direct competitors for statistical reliability, and verify that all have similar market caps and business models.
 - **Period Mismatch Risk:** Using different ROC periods (10-day vs. 20-day vs. 50-day) across the same peer group can produce contradictory signals. Consistency in lookback period is critical for valid comparisons.
+  - *How to address:* Apply the same ROC period uniformly across all peers in a single analysis. If you want to examine multiple timeframes, run them as separate analyses and look for agreement — peers showing acceleration across both 10-day and 30-day windows provide stronger signals.
 - **Ignores Magnitude of Underlying Move:** A stock can have the highest relative ROC in its peer group while moving from $10.00 to $10.50, while a peer with lower relative ROC moves from $100 to $108. Relative ROC measures velocity proportion, not absolute dollar opportunity.
+  - *How to address:* Combine relative ROC with absolute price change data. A stock leading on relative ROC but with tiny absolute moves may not offer enough profit potential to justify a trade. Focus on stocks where both relative ROC leadership and meaningful absolute price movement align.
 - **Catalyst Blindness:** Relative ROC detects that acceleration is occurring but cannot explain why. Without pairing it with fundamental research, investors risk chasing momentum driven by unsustainable one-time events.
+  - *How to address:* When relative ROC flags a new leader, immediately check for recent catalysts: earnings beats, analyst upgrades, new product announcements, or insider buying. Acceleration backed by a fundamental catalyst is more sustainable than acceleration with no identifiable driver.
 
 ## Contextual Usage
 

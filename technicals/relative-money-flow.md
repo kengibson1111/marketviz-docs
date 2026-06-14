@@ -46,10 +46,15 @@ Relative money flow provides context for how aggressively institutions are selli
 ## Key Risks and Limitations
 
 - **Peer Group Definition:** Relative money flow analysis depends entirely on selecting appropriate peers. Comparing companies with different business models, market caps, or customer bases produces misleading signals about capital allocation preferences.
+  - *How to address:* Build a peer group based on actual competitive overlap — companies fighting for the same customers with similar business models and market capitalizations. Review the company's 10-K "Competition" section to identify true rivals rather than relying solely on GICS codes.
 - **Timing Differences:** Peers may report earnings or face catalysts on different dates, temporarily distorting relative CMF readings. A stock's CMF may spike due to an earnings surprise while peers have not yet reported, creating a false signal of selective accumulation.
+  - *How to address:* When comparing CMF, note whether any peer recently reported earnings or faced a material news event. Discount CMF differences that appear within a few days of a peer's earnings report — wait until all peers in the group have reported for the most reliable comparison window.
 - **Data Complexity:** Tracking and comparing CMF across multiple competitors simultaneously requires screening tools. Manual comparison is impractical for most retail investors without platform support.
+  - *How to address:* Use screening platforms like Finviz, StockCharts, or TradingView that display CMF for multiple tickers on a single chart. Many platforms allow side-by-side technical comparisons that make relative money flow practical without manual data gathering.
 - **Period Alignment:** CMF calculation periods must be identical across all peers for valid comparison. Different lookback windows produce incomparable readings.
+  - *How to address:* Use a consistent 21-day CMF window for all stocks in the peer group. If your charting tool defaults to different periods for different tickers, manually set them to match before drawing conclusions.
 - **Small Peer Groups:** In sectors with few direct competitors, relative comparisons have limited statistical meaning. One outlier can dominate the analysis.
+  - *How to address:* When the peer group has fewer than 4–5 members, be cautious about drawing strong conclusions from relative CMF. Consider expanding to adjacent sub-industries or using the sector ETF's money flow as an additional reference point rather than relying solely on a small sample.
 
 ## Contextual Usage
 

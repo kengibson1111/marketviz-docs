@@ -19,9 +19,13 @@ The trailing annual dividend is primarily used in risk analysis to assess a comp
 ## Key Risks and Limitations
 
 - **Backward-Looking:** Trailing dividends reflect what was already paid and may not represent the company's current financial capacity or management's forward intentions.
+  - *How to address:* Compare the trailing dividend to the forward annual dividend. If the forward figure is lower, management has signaled a cut. Also check recent earnings estimate revisions — deteriorating earnings often precede dividend reductions.
 - **Price-Driven Yield Inflation:** A rising trailing yield caused by a falling stock price creates a false signal of income strength when the underlying business may be deteriorating.
+  - *How to address:* Check whether the yield increase came from a dividend hike or a share price decline. Look at the stock's 52-week price range and recent earnings trends. If the price has dropped 30%+ while the dividend hasn't changed, investigate the company's fundamentals before assuming it's a bargain.
 - **Does Not Capture Payout Capacity:** The trailing dividend alone does not reveal whether payments were funded by earnings, debt, or cash reserves. Without payout ratio context, sustainability is unknown.
+  - *How to address:* Always pair the trailing dividend with the trailing payout ratio (dividends ÷ net income) and free cash flow coverage (dividends ÷ free cash flow). If dividends exceed free cash flow, they are being funded by borrowing or cash drawdowns — a red flag for sustainability.
 - **Misses Recent Cuts or Suspensions:** If a dividend cut was announced but not yet reflected in a full 12-month trailing window, the metric overstates the company's income reliability.
+  - *How to address:* Check the company's most recent dividend declaration date and amount against prior quarters. If the most recent declared dividend is lower than previous quarters, calculate a pro-forma trailing figure using the new rate rather than relying on the stale 12-month number.
 
 ## Comparison of Dividend Risk Metrics
 

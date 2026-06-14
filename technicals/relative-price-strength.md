@@ -38,9 +38,13 @@ Relative price strength forces investors to confront whether their capital is de
 ## Key Risks and Limitations
 
 - **Momentum Reversal Risk:** Stocks with extreme relative strength (far outperforming peers) can experience sharp mean reversion. Chasing the strongest relative performer at an extended point increases the risk of entering just before a rotation back toward laggards.
+  - *How to address:* Check how long the current relative leadership has persisted and how far the ratio chart has extended from its own moving average. If relative strength is at a multi-year extreme, size the position conservatively and tighten stop-losses. Consider waiting for a pullback within the relative uptrend rather than buying at the peak.
 - **Peer Group Sensitivity:** Results depend heavily on which competitors or benchmarks you compare against. A stock may look strong relative to weak peers but weak relative to the broader market. The choice of comparison set meaningfully changes the signal.
+  - *How to address:* Run relative strength against multiple references: the sector ETF, 3–5 direct competitors, and the S&P 500. A stock that outperforms all three has the strongest signal. One that only outperforms weak peers but lags the index warrants skepticism.
 - **Ignores Absolute Direction:** A stock can show strong relative price strength during a bear market simply by declining less than peers. Relative outperformance does not mean positive returns — it means less negative returns in a down environment. Investors must combine relative and absolute analysis.
+  - *How to address:* Always check absolute price trend (is the stock above or below its 200-day moving average?) alongside relative strength. If both absolute and relative trends are positive, conviction is high. If relative is positive but absolute is negative, you're simply losing less — not winning.
 - **Backward-Looking Bias:** Relative strength rankings reflect what has already happened. While momentum tends to persist, sudden catalysts like earnings misses, regulatory changes, or management departures can instantly invalidate historical relative positioning.
+  - *How to address:* Confirm relative price strength with forward-looking indicators: are earnings estimates rising? Is insider activity bullish? Is money flow positive? Relative strength backed by improving fundamentals is more likely to persist than relative strength in the absence of fundamental support.
 
 ## Contextual Usage
 

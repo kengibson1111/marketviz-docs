@@ -38,9 +38,13 @@ Relative volume provides context for whether a stock's liquidity is appropriate 
 ## Key Risks and Limitations
 
 - **Peer Group Definition:** Relative volume analysis is only as useful as the peer group selected. Comparing a software company to a hardware manufacturer within the same "technology" sector can produce misleading signals. Peers should share similar business models, market caps, and customer bases.
+  - *How to address:* Select peers based on actual competitive overlap rather than broad sector classification. Include 3–5 companies with similar business models, market capitalizations, and customer bases. Review the company's 10-K "Competition" section to confirm the peer list.
 - **Market Cap Distortion:** Without normalizing for company size, raw volume comparisons are meaningless. A mega-cap stock will almost always trade higher absolute volume than a mid-cap peer, even if the mid-cap has stronger relative participation.
+  - *How to address:* Normalize volume by dividing daily shares traded by total shares outstanding to produce a turnover ratio. This makes companies of different sizes directly comparable. Alternatively, compare each stock's current volume to its own 50-day average before comparing across peers.
 - **Event-Driven Noise:** Earnings dates, index inclusion, options expiration, and other scheduled events can temporarily distort one stock's volume relative to peers. These one-time spikes should not be confused with sustained shifts in market preference.
+  - *How to address:* When a volume spike coincides with a known event (earnings release, options expiration, index rebalance), discount that data point. Look for volume trends that persist for 5+ days beyond the event to distinguish genuine shifts from temporary noise.
 - **Data Availability:** Retail investors may find it cumbersome to track and compare volume across multiple peers simultaneously. Screening tools are typically required to make this analysis practical.
+  - *How to address:* Use screening platforms like Finviz, Yahoo Finance sector views, or TradingView that display volume metrics for peer groups on a single screen. Many platforms offer pre-built peer comparison features that simplify this analysis considerably.
 
 ## Contextual Usage
 

@@ -42,8 +42,11 @@ In fundamental analysis, Diluted EPS ensures an even playing field when evaluati
 ## Key Risks and Limitations
 
 - **Overstated Dilution:** Not all convertible securities will actually be exercised; Diluted EPS assumes full conversion, which may paint an overly pessimistic picture.
+  - *How to address:* Check the company's proxy statement or 10-K footnotes for the exercise prices of outstanding options and warrants. If most exercise prices are well above the current stock price, actual dilution is unlikely in the near term.
 - **Timing Uncertainty:** Stock options and warrants often have vesting schedules and exercise price thresholds, meaning dilution may never materialize if the stock price doesn't cooperate.
+  - *How to address:* Review the vesting schedule disclosures in annual filings and compare the weighted average exercise price to the current share price. Also look at the trend in diluted share count over multiple quarters — a stable count suggests dilution risk is not accelerating.
 - **Accounting Variability:** Different companies may use varying methods (treasury stock method vs. if-converted method) to calculate diluted shares, making direct comparisons imperfect.
+  - *How to address:* When comparing peers, confirm that each company uses the same dilution method (noted in the earnings footnotes). If methods differ, focus on the trend in diluted share count growth rate rather than absolute EPS figures for a fairer comparison.
 
 ## Contextual Usage
 

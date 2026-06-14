@@ -71,9 +71,13 @@ The quick ratio (also called the acid-test ratio) is a stricter version of the c
 ## Key Risks and Limitations
 
 - **Asset Quality Assumptions:** The current ratio treats all current assets equally, but inventory and prepaid expenses may not convert to cash quickly or at full value during financial stress.
+  - *How to address:* Check the quick ratio (acid-test ratio) alongside the current ratio. If the quick ratio is significantly lower, the company's liquidity depends heavily on selling inventory — investigate whether that inventory is perishable, seasonal, or slow-moving.
 - **Sector Variability:** Acceptable ratios differ drastically across industries. Applying universal thresholds without industry context produces misleading risk assessments.
+  - *How to address:* Compare the current ratio to the median for the company's specific industry rather than applying a blanket "above 1.5 is safe" rule. Retailers and grocery chains can operate safely below 1.0 due to fast inventory turns, while manufacturers may need 1.5+ to stay comfortable.
 - **Timing Sensitivity:** The ratio is a point-in-time snapshot. Large debt maturities, seasonal revenue patterns, or recent capital raises can temporarily inflate or deflate the figure.
+  - *How to address:* Track the current ratio over at least four quarters to identify the normal range and seasonal pattern. If the ratio swings significantly around quarter-end dates, check for seasonal debt drawdowns or large upcoming maturities.
 - **Does Not Capture Cash Flow:** A company can have a healthy current ratio while burning cash operationally if current assets are growing due to uncollected receivables rather than genuine liquidity.
+  - *How to address:* Cross-reference with operating cash flow and the accounts receivable aging schedule. If the current ratio is rising mainly because receivables are growing (not being collected), that's a warning sign of revenue recognition issues rather than genuine liquidity strength.
 
 ## Further Research
 

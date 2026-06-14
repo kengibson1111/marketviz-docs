@@ -66,9 +66,13 @@ A shrinking cash buffer over consecutive quarters — especially if paired with 
 ## Key Risks and Limitations
 
 - **Not a Profitability Measure:** A large cash buffer does not mean the company is profitable or well-managed — it only indicates short-term liquidity. A company can hold significant cash while its core operations steadily lose money.
+  - *How to address:* Pair the cash buffer with free cash flow and operating margin trends. If cash reserves are high but free cash flow is negative and declining, the buffer is being drained over time and will eventually be exhausted.
 - **Opportunity Cost:** Excessive cash sitting idle may signal that management lacks attractive reinvestment opportunities, potentially dragging long-term shareholder returns.
+  - *How to address:* Check the company's return on invested capital (ROIC) and capital allocation history. If ROIC is above the cost of capital and management has a track record of value-creating investments, a temporarily high cash balance may simply reflect deal timing rather than a strategic void.
 - **Context-Dependent Benchmarks:** Acceptable cash levels vary widely by industry, business stage, and capital structure. Comparing across sectors without adjustment produces misleading conclusions.
+  - *How to address:* Benchmark the cash-to-total-assets ratio or cash-to-revenue ratio against direct industry peers rather than the broader market. Capital-intensive businesses naturally hold more; asset-light companies can operate with less.
 - **Point-in-Time Snapshot:** Cash balances fluctuate significantly around debt maturities, dividend payments, and seasonal revenue cycles. A single quarter's figure may not represent the company's typical liquidity position.
+  - *How to address:* Review at least four consecutive quarters of cash balances to identify the normal range and seasonal pattern. Also check the debt maturity schedule — a high cash balance right before a large bond payment tells a different story than the same balance with no near-term maturities.
 
 ## Further Research
 

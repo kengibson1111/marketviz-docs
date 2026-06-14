@@ -58,8 +58,11 @@ Costs fluctuate directly with sales volume. If sales drop, expenses decrease pro
 ## Key Risks and Limitations
 
 - **Earnings Volatility:** High operating leverage amplifies both gains and losses, making quarterly earnings less predictable and increasing the chance of negative surprises.
+  - *How to address:* Check the company's earnings stability score and historical quarterly EPS variability. If earnings swing more than 20–30% quarter to quarter, factor that volatility into your position sizing. Also review the company's revenue diversification — companies with multiple product lines or geographies tend to dampen the amplification effect.
 - **Recession Exposure:** Companies with heavy fixed-cost structures may struggle to cut expenses quickly enough during sudden demand drops.
+  - *How to address:* Look at the company's cash buffer and interest coverage ratio to gauge how long it can sustain operations during a revenue downturn. Also review how the company performed during the last recession — if it burned cash rapidly or required emergency financing, the risk is confirmed.
 - **Snapshot Risk:** DOL changes over time as companies adjust their cost structures. A single-period calculation may not reflect the company's true ongoing leverage profile.
+  - *How to address:* Calculate DOL across multiple periods (at least 4–8 quarters) and look for the trend rather than a single number. A declining DOL may indicate the company is shifting toward more variable costs, reducing future volatility. Compare against peers in the same sector to establish a realistic baseline.
 
 ## Contextual Usage
 

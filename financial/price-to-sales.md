@@ -38,9 +38,13 @@ The P/S ratio completely ignores debt. A company with high sales may still be at
 ## Key Risks and Limitations
 
 - **Ignores Profitability:** A company can have enormous revenue but zero or negative profits. P/S alone cannot distinguish between a profitable business and one burning money to grow.
+  - *How to address:* Always pair P/S with margin data (gross margin, operating margin) and free cash flow. A high-P/S stock with expanding margins and positive FCF is fundamentally different from one burning cash. Check whether the company has a realistic path to profitability and when breakeven is projected.
 - **No Debt Consideration:** P/S uses market capitalization (equity value only) in the numerator but does not account for outstanding debt. Two companies with identical P/S ratios can carry vastly different enterprise-level risk.
+  - *How to address:* Use EV/Revenue (Enterprise Value ÷ Revenue) as a debt-adjusted alternative. A company with P/S of 5 and no debt looks very different from one with P/S of 5 and $3B in net debt — EV/Revenue reveals the true multiple that includes both equity and debt claims.
 - **Revenue Quality Varies:** Not all revenue is recurring or high-margin. One-time contracts, licensing deals, or low-margin hardware sales inflate the denominator without reflecting sustainable cash generation.
+  - *How to address:* Check whether the company discloses recurring vs. non-recurring revenue. SaaS companies often report Annual Recurring Revenue (ARR) — use that as the denominator for a quality-adjusted multiple. For other companies, look at revenue concentration (top-customer dependency) and contract durations.
 - **Limited Cross-Sector Utility:** Acceptable P/S ranges vary enormously by industry. Applying a universal threshold across sectors produces misleading conclusions.
+  - *How to address:* Compare P/S only against direct industry peers. A SaaS company at 10x P/S may be cheap relative to its peer group, while a retailer at 2x P/S may be expensive for its sector. Use sector median P/S as your baseline rather than an absolute number.
 
 ## Further Research
 

@@ -48,8 +48,11 @@ Low trade volume environments create conditions where small participants or coor
 ## Key Risks and Limitations
 
 - **Volume Without Context:** High volume alone does not confirm a directional bias. Volume spikes can occur during distribution (selling) just as easily as accumulation (buying), so direction must be interpreted alongside price action.
+  - *How to address:* Always interpret volume in combination with price direction. High volume on an up day signals accumulation; high volume on a down day signals distribution. Use Chaikin Money Flow (CMF) or On-Balance Volume (OBV) to directionally weight the volume signal.
 - **Time Sensitivity:** Average volume figures can be skewed by one-time events such as earnings announcements, index rebalancing, or options expiration. Relying on short-term volume snapshots without considering the broader historical pattern can mislead investors.
+  - *How to address:* Compare current volume against a longer baseline (50-day or 90-day average) rather than reacting to a single day. If a volume spike coincides with a known event (earnings, expiration), discount it and wait to see if elevated volume persists for 3–5 days after the event to confirm a genuine shift.
 - **Market-Wide Influence:** Overall market volume trends (such as low summer trading activity or holiday periods) can suppress individual stock volume regardless of company-specific factors, creating false signals about investor interest.
+  - *How to address:* Use relative volume (stock volume ÷ its own average, compared to market volume ÷ market average) to normalize for seasonal or market-wide volume patterns. A stock showing high relative volume during a low-volume market period is a stronger signal than high absolute volume during an already-active market.
 
 ## Contextual Usage
 

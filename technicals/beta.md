@@ -39,9 +39,13 @@ Investors use beta to engineer a portfolio's overall market sensitivity to match
 ## Key Risks and Limitations
 
 - **Backward-Looking:** Beta is calculated from historical price data and assumes past volatility patterns will persist. Market conditions, company strategy, or sector shifts can change a stock's true sensitivity.
+  - *How to address:* Check whether the company's business model has changed during the measurement period (acquisitions, divestitures, new product lines). Also compare 1-year beta to 3-year and 5-year beta — if they diverge significantly, the stock's risk profile is shifting and the shorter-term figure may better represent current behavior.
 - **Benchmark Dependency:** Beta is only meaningful relative to its chosen benchmark. A stock compared to the S&P 500 may behave very differently when measured against a sector-specific index.
+  - *How to address:* For sector-concentrated portfolios, calculate beta against the relevant sector ETF (e.g., XLK for tech, XLE for energy) rather than the S&P 500. This isolates sector-specific sensitivity from broad market moves and gives a more actionable risk measure.
 - **Ignores Company-Specific Risk:** Beta captures only systematic (market-wide) risk. It tells you nothing about risks unique to the company such as management quality, litigation, or product failures.
+  - *How to address:* Supplement beta with fundamental risk indicators: debt-to-equity for leverage risk, earnings stability for operational consistency, and insider activity for management confidence. Beta can't warn you about an accounting scandal or a product recall.
 - **Time Period Sensitivity:** Beta values vary depending on the measurement window (1 year vs. 5 years) and data frequency (daily vs. weekly returns), potentially giving conflicting signals.
+  - *How to address:* Use a consistent measurement methodology when comparing stocks. If your data source uses 5-year monthly beta, compare all candidates on that same basis. Be aware that shorter windows reflect recent behavior while longer windows smooth out anomalies — choose based on your investment horizon.
 
 ## Contextual Usage
 

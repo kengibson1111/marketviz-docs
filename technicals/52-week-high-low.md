@@ -43,9 +43,13 @@ Academic research supports the idea that stocks near their 52-week highs tend to
 ## Key Risks and Limitations
 
 - **Backward-Looking:** The 52-week range reflects past prices and does not predict future movements. A stock can break well beyond its historical range in either direction.
+  - *How to address:* Use the 52-week range as context, not a ceiling or floor. When a stock approaches either extreme, check whether fundamental catalysts (earnings growth, new products, sector shifts) support a breakout beyond the range, or whether mean reversion is more likely. Confirm with volume — a breakout on high volume is more credible.
 - **Anchoring Bias:** Investors tend to fixate on the 52-week high as a target or the low as a floor, which can lead to irrational buy/sell decisions not grounded in current fundamentals.
+  - *How to address:* Evaluate the stock's current price against its intrinsic value (P/E, DCF, or Graham Number) rather than against an arbitrary price it once traded at. A stock near its 52-week low isn't automatically cheap if earnings have declined proportionally.
 - **Context-Dependent:** A stock near its 52-week low is not automatically cheap — it may be cheap for a reason (declining earnings, sector headwinds). Similarly, a stock at its high is not automatically expensive if growth justifies the price.
+  - *How to address:* Cross-reference with fundamentals: check recent earnings estimate revisions, revenue growth, and free cash flow trends. A stock near its low with rising estimates may be genuinely undervalued; one near its low with falling estimates is declining for good reason.
 - **Not a Standalone Metric:** The 52-week range provides context but lacks information about volume, institutional activity, or fundamental health. Always combine with other indicators.
+  - *How to address:* Pair with money flow (CMF) to confirm whether institutional buying supports a bounce off the low, or with trade volume to confirm whether a breakout above the high has participation backing it.
 
 ## Contextual Usage
 

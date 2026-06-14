@@ -51,6 +51,10 @@ To deepen your understanding of dividend growth analysis, review resources like 
 ## Key Risks and Limitations
 
 - **Backward-Looking Bias:** A strong five-year growth rate does not guarantee future increases. Deteriorating earnings, rising debt, or management changes can reverse established growth trends.
+  - *How to address:* Cross-reference with the forward payout ratio and free cash flow growth. If free cash flow is declining while dividends are still growing, the company may be borrowing to fund payouts — a sign the growth trend is about to break.
 - **Base Effect Distortion:** A company that cut its dividend five years ago and then restored it can show an artificially high growth rate from a depressed base, overstating true financial improvement.
+  - *How to address:* Look at the absolute dividend per share over the full five-year window, not just the CAGR. If the starting point was a post-cut low, extend the lookback period or compare the current payout to its pre-cut level to gauge actual progress.
 - **Ignores Payout Sustainability:** Rapid dividend growth funded by increasing debt or unsustainable payout ratios may appear positive while actually elevating future cut risk.
+  - *How to address:* Check whether the payout ratio has been climbing alongside dividend growth. If the payout ratio has risen from 40% to 85% over five years, future raises become increasingly difficult. Also verify that free cash flow (not just net income) supports the current dividend level.
 - **Sector Limitations:** Some industries (utilities, REITs) have structural payout constraints that cap growth regardless of business performance, making cross-sector comparisons misleading.
+  - *How to address:* Compare dividend growth rates only within the same sector. A utility growing dividends at 4% annually may be a top performer in its group, while the same rate for a tech company could signal underperformance relative to its growth potential.

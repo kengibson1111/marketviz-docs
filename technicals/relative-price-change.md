@@ -47,10 +47,15 @@ Relative price change provides objective criteria for determining when active st
 ## Key Risks and Limitations
 
 - **Benchmark Mismatch:** The S&P 500 may not be the appropriate benchmark for all stocks. Small-caps, international companies, and sector-specific names may be better compared to the Russell 2000, MSCI indices, or sector ETFs respectively. Using SPY as a universal benchmark can produce misleading conclusions for non-large-cap stocks.
+  - *How to address:* Match your benchmark to the stock's characteristics. Compare small-caps to the Russell 2000, international stocks to the appropriate MSCI index, and sector-specific stocks to their sector ETF. Use SPY only for large-cap domestic stocks where it's a natural alternative.
 - **Survivorship Bias:** Comparing against the S&P 500 index inherently compares against a curated list of survivors. Stocks removed from the index due to failure are excluded from its historical return, making the benchmark appear stronger than the average investable universe.
+  - *How to address:* Acknowledge that the S&P 500 return is artificially elevated by survivorship. When a stock underperforms SPY slightly, it may still be outperforming the average stock in the broader universe. Use the comparison as a directional guide rather than a precise pass/fail test.
 - **Tax and Transaction Costs:** Raw return comparisons ignore the friction of switching from individual stocks to index funds. Capital gains taxes, trading commissions, and bid-ask spreads mean that the theoretical advantage of switching may be smaller in practice.
+  - *How to address:* Factor in your estimated capital gains tax rate and transaction costs before deciding to switch from an individual stock to an index fund. The hurdle for switching is higher for long-held positions with large unrealized gains.
 - **Time Period Dependency:** Short lookback windows can be dominated by single events (earnings beats, news catalysts) that do not reflect sustainable outperformance. Longer windows provide more reliable signals but react slowly to genuine deterioration.
+  - *How to address:* Evaluate relative price change across multiple windows simultaneously (1-month, 3-month, 6-month, 1-year). If the stock outperforms across all windows, the signal is consistent and reliable. If results vary by timeframe, investigate what event drove the divergence.
 - **Ignores Dividends and Total Return:** Price-only comparisons miss the dividend component. A stock slightly underperforming SPY on price may outperform on total return if it pays a materially higher dividend yield.
+  - *How to address:* Add the stock's dividend yield to its price return for a total return comparison. A stock trailing SPY by 2% on price but paying a 4% dividend yield is actually outperforming on total return by 2% (assuming SPY's ~1.3% yield).
 
 ## Contextual Usage
 

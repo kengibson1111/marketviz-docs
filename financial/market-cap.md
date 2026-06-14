@@ -37,4 +37,6 @@ Market cap is the standard tool for balancing a portfolio to match an investor's
 While useful, market cap does not provide a complete risk picture.
 
 - **Leverage:** It does not account for a company's debt or capital structure; two companies with the same market cap can have vastly different enterprise values and debt risks.
+  - *How to address:* Check the company's enterprise value (market cap + debt − cash) to get a fuller picture of total financial exposure. A $10B market cap company with $8B in debt carries far more risk than one with $2B in debt, even though their market caps are identical.
 - **Valuation:** A high market cap does not inherently mean a stock is "safe" if it is fundamentally overvalued.
+  - *How to address:* Pair market cap classification with valuation metrics like P/E ratio, price-to-sales, and free cash flow yield. A large-cap stock trading at 50x earnings carries more valuation risk than a mid-cap trading at 15x, regardless of size.

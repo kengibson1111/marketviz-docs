@@ -35,8 +35,11 @@ Analyzing past 5-year historical earnings (EPS) growth is a core tenet of growth
 ## Key Risks and Limitations
 
 - **Backward-Looking Bias:** Historical growth does not guarantee future performance; market conditions, competition, and management changes can disrupt trends.
+  - *How to address:* Cross-reference historical earnings growth with forward analyst EPS estimates and revenue growth trends. If forward projections diverge sharply from the historical rate, investigate why — a maturing market or leadership change may explain the gap.
 - **Earnings Manipulation:** Companies may use accounting techniques to inflate short-term EPS growth, masking underlying weakness.
+  - *How to address:* Check the company's earnings quality score and run it through manipulation detection tools like the Beneish M-Score or Sloan Accrual Ratio. Also compare reported EPS growth to free cash flow growth — if cash flow is flat while EPS is rising, the growth may be accounting-driven rather than operational.
 - **Cyclicality:** Some industries naturally experience boom-and-bust cycles, making a 5-year window potentially misleading if it captures only one phase.
+  - *How to address:* Extend the lookback period to 7–10 years if data is available, or compare against a full economic cycle. Also check revenue growth alongside earnings growth — revenue that grew steadily while earnings spiked suggests the profit surge is cyclical margin expansion rather than structural improvement.
 
 ## Contextual Usage
 

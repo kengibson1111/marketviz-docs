@@ -35,9 +35,13 @@ The ICR uses EBIT (Earnings Before Interest and Taxes). Always cross-reference t
 ## Key Risks and Limitations
 
 - **Single-Year Snapshot:** A low ICR in one period may reflect temporary conditions (a large capital investment, restructuring charges) rather than chronic inability to service debt.
+  - *How to address:* Review the ICR trend over at least four quarters. If a single quarter dips below 2.0 but the trailing average is above 3.0, the weakness is likely temporary. Check whether the dip coincides with a known one-time event (restructuring, acquisition financing) before raising alarm.
 - **Uses EBIT, Not Cash Flow:** EBIT includes non-cash items like depreciation. A company may have a weak ICR on paper while generating adequate cash to cover interest payments.
+  - *How to address:* Calculate a cash-flow-based coverage ratio (operating cash flow ÷ interest expense) alongside the traditional EBIT-based version. If the cash-flow version is significantly stronger, the company's debt service capacity is better than the standard ICR suggests.
 - **Ignores Principal Repayments:** The ratio only measures interest coverage, not the company's ability to repay debt principal when it matures.
+  - *How to address:* Check the company's debt maturity schedule for upcoming principal payments. A company may cover interest easily but face a large balloon payment next year that it cannot refinance. Pair ICR with the debt maturity profile and available credit facility to assess total debt service capacity.
 - **Sector Variability:** Capital-intensive industries structurally operate with lower coverage ratios. Applying a universal threshold without sector context produces false alarms.
+  - *How to address:* Compare the ICR to the industry median. A utility with an ICR of 2.5 may be perfectly healthy, while a software company at 2.5 would be concerning. Also check whether the company's ICR is above or below the minimum covenant levels in its credit agreements (disclosed in 10-K filings).
 
 ## Further Research
 

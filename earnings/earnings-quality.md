@@ -42,8 +42,11 @@ High-quality earnings demonstrate a robust, recurring business model. Investors 
 ## Key Risks and Limitations
 
 - **Accounting Complexity:** Assessing true earnings quality requires understanding a company's financial statements in depth, which can be challenging for retail investors.
+  - *How to address:* Use pre-built screening tools that calculate earnings quality scores automatically (Morningstar, Simply Wall St, or the NASDAQ Earnings Quality Ranking). Focus on the cash-flow-to-net-income ratio as a single, easy-to-check proxy — if operating cash flow consistently exceeds net income, quality is likely high.
 - **Lagging Indicator:** Earnings quality deterioration may only become apparent after the damage is done—restatements and write-downs often follow periods of declining quality.
+  - *How to address:* Monitor leading signals such as rising accrual ratios, declining free cash flow relative to net income, insider selling, and auditor opinion changes. Reviewing these quarterly helps catch deterioration before it results in a restatement.
 - **Industry Variation:** Capital-intensive businesses naturally carry higher accruals, so cross-sector comparisons require normalization.
+  - *How to address:* Compare earnings quality metrics only within the same industry or sector. Use sector-relative rankings rather than absolute thresholds — a manufacturing company will naturally show higher accruals than a software firm, but what matters is how it compares to its direct peers.
 
 ## Contextual Usage
 

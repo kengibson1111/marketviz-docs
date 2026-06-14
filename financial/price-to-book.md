@@ -28,9 +28,13 @@ A high P/B is justified if the company is generating massive returns on its equi
 ## Key Risks and Limitations
 
 - **Intangible-Heavy Companies:** P/B is unreliable for companies whose value derives from intellectual property, brand, or network effects, as these assets are not reflected in book value.
+  - *How to address:* For companies with minimal tangible assets (tech, services, pharma), use alternative valuation metrics like price-to-earnings, price-to-sales, or EV/EBITDA. If you do use P/B, check whether the company's ROE is high enough to justify the premium — a high P/B paired with consistently high ROE (20%+) is more defensible.
 - **Accounting Distortions:** Share buybacks, accumulated depreciation, and goodwill write-downs can dramatically alter the book value denominator without any change in the company's actual productive capacity.
+  - *How to address:* Look at tangible book value (book value minus goodwill and intangibles) for a cleaner picture. Also check whether book value has been artificially reduced by aggressive buybacks — if equity is near zero or negative due to buybacks, P/B becomes meaningless and other valuation tools should replace it.
 - **Sector Applicability:** The metric is most meaningful for asset-heavy industries (banking, manufacturing, real estate) and often misleading for asset-light sectors (technology, services).
+  - *How to address:* Restrict P/B comparisons to within asset-heavy sectors where book value represents a real liquidation floor. For banks, P/B below 1.0 historically signals distress, while above 2.0 may indicate overvaluation. Apply sector-specific context rather than universal thresholds.
 - **Does Not Capture Earnings Power:** A stock can trade below book value for years if the assets on the balance sheet fail to generate adequate returns.
+  - *How to address:* Pair P/B with ROE to distinguish genuine deep-value opportunities from permanent value traps. A stock trading below book with improving ROE may be undervalued, while one trading below book with declining ROE is likely destroying value — its assets aren't worth what the balance sheet claims.
 
 ## Further Research
 

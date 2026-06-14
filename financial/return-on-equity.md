@@ -44,9 +44,13 @@ Always compare the ROE trend against industry peers. A company with a flat ROE i
 ## Key Risks and Limitations
 
 - **Debt-Amplified ROE:** Companies can artificially boost ROE by taking on excessive debt (which reduces the equity base). A high ROE driven by leverage masks underlying weakness and increases bankruptcy risk.
+  - *How to address:* Decompose ROE using the DuPont formula (ROE = Net Margin × Asset Turnover × Equity Multiplier). If the equity multiplier (leverage component) is the primary driver of a high ROE while margins are flat or declining, the return is debt-fueled rather than operational. Also check debt-to-equity — if leverage is well above sector norms, discount the ROE signal.
 - **Backward-Looking:** Historical ROE reflects past performance and may not persist if the company's competitive position, margins, or capital structure are changing.
+  - *How to address:* Check the ROE trend over 3–5 years and compare to forward earnings estimates. If ROE has been declining over multiple periods and analysts project further earnings weakness, don't assume historical levels will return. A rising trend is more predictive than a single high number.
 - **Sector Variability:** Capital-intensive industries structurally produce lower ROE due to their large asset bases. Comparing across sectors without normalization is misleading.
+  - *How to address:* Compare ROE only to direct industry peers. A 10% ROE is excellent for a utility but mediocre for a software company. Use the industry median ROE as your benchmark for "good" or "bad" performance.
 - **One-Time Distortions:** Asset write-downs, share buybacks, or non-recurring gains can temporarily inflate or deflate ROE without reflecting true operational efficiency.
+  - *How to address:* Check whether the equity base has been reduced by recent buybacks or write-downs. If the equity denominator has shrunk dramatically in a single quarter, calculate ROE using average equity over the past 4 quarters rather than the latest snapshot. Also verify that net income doesn't include large non-recurring items.
 
 ## How to Evaluate
 

@@ -35,8 +35,11 @@ By measuring a stock's 5-year CAGR against the CAGR of a benchmark index (like t
 ## Key Risks and Limitations
 
 - **Hides Volatility:** Because CAGR calculates a "smoothed" constant rate, it hides volatility—meaning a stock with an erratic path will have the exact same CAGR as a stock with slow and steady growth.
+  - *How to address:* Always pair CAGR with a volatility measure like standard deviation or maximum drawdown over the same period. Two stocks with identical 5-year CAGRs can have vastly different risk profiles — the one with lower standard deviation delivered more reliable compounding.
 - **Backward-Looking:** Past CAGR does not predict future returns; market conditions, competitive dynamics, and macroeconomic shifts can dramatically alter growth trajectories.
+  - *How to address:* Cross-reference historical CAGR with forward analyst estimates and the company's revenue growth trend. If forward projections are materially lower than the historical CAGR, the past rate is likely unsustainable. Also check whether the growth was organic or acquisition-driven.
 - **Window Sensitivity:** The specific five-year window chosen can significantly impact the result, especially if it begins or ends during unusual market conditions.
+  - *How to address:* Calculate CAGR over multiple overlapping windows (e.g., 3-year, 5-year, 7-year) to see if results are consistent. If the 5-year CAGR looks dramatically different from the 3-year or 7-year figure, investigate whether the window start or end coincided with a market crash, pandemic, or one-time event.
 
 ## Contextual Usage
 

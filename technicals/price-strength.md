@@ -35,8 +35,11 @@ Absolute price strength provides objective, mathematically defined price levels 
 ## Key Risks and Limitations
 
 - **Lagging Nature:** Moving averages and historical support levels are backward-looking. They confirm trends after the fact rather than predicting them, which can delay reaction to sudden reversals.
+  - *How to address:* Use shorter-period indicators (10-day or 20-day moving averages) for earlier signals, and confirm with volume. A break below the 50-day moving average on high volume is a much stronger warning than one on thin volume. Also watch for price-volume divergence as a leading indicator before the trend line breaks.
 - **False Signals:** In choppy or sideways markets, price strength indicators frequently generate misleading buy or sell signals that can whipsaw investors.
+  - *How to address:* During range-bound periods, widen your threshold for acting on moving average crossovers. Require the price to close decisively beyond a level for 2–3 consecutive days before treating it as a confirmed signal. Alternatively, use longer moving averages (200-day) that generate fewer but more reliable signals.
 - **Ignores Fundamentals:** Price strength tells you nothing about a company's financial health. A stock can show strong momentum while the underlying business deteriorates.
+  - *How to address:* Always validate price strength signals against fundamental data. If a stock shows strong momentum but earnings estimates are declining and free cash flow is negative, the technical signal may be reflecting speculative activity rather than sustainable demand. Use fundamentals as a veto on purely technical entry signals.
 
 ## Contextual Usage
 

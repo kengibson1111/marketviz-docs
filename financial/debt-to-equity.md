@@ -36,9 +36,13 @@ Sometimes, a company takes on significant debt to aggressively fund expansion or
 ## Key Risks and Limitations
 
 - **Industry Norms Vary Widely:** Capital-intensive sectors (utilities, airlines) naturally carry high D/E ratios that would be alarming in asset-light industries. Cross-sector comparisons without normalization are misleading.
+  - *How to address:* Always compare D/E to the company's direct industry peers. A utility with a 1.5 D/E may be perfectly healthy, while a software company at the same level would be highly concerning. Use sector median D/E as your baseline.
 - **Off-Balance-Sheet Obligations:** Operating leases, pension liabilities, and contingent guarantees may not appear in the standard D/E calculation, understating true leverage.
+  - *How to address:* Review the footnotes in the 10-K for operating lease obligations, unfunded pension liabilities, and guarantees. Add these to the debt figure for a more complete picture. Post-IFRS 16 / ASC 842 reporting now capitalizes most leases, but older filings may not reflect this.
 - **Equity Distortions:** Share buybacks, accumulated losses, or large intangible asset write-downs can shrink the equity base and artificially inflate the ratio without any change in actual borrowing.
+  - *How to address:* Check whether equity has been reduced by aggressive buybacks or goodwill write-downs. If the D/E ratio spiked without new borrowing, look at total debt relative to EBITDA (Net Debt/EBITDA) as an alternative leverage measure that is less affected by equity-side distortions.
 - **Point-in-Time Measure:** The D/E ratio captures a single balance sheet date. Seasonal borrowing patterns or recent debt issuance for strategic acquisitions can temporarily distort the picture.
+  - *How to address:* Review the D/E trend over four or more quarters. If a spike coincides with a recent acquisition, check whether the acquired assets are generating enough cash flow to service the new debt by reviewing the interest coverage ratio post-transaction.
 
 ## Further Research
 

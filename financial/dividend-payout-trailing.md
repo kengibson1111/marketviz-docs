@@ -41,6 +41,10 @@ These are complementary metrics. A stock can have a modest yield but a dangerous
 ## Key Risks and Limitations
 
 - **Backward-Looking:** The trailing payout ratio reflects the past 12 months. A recent earnings decline or dividend hike may not yet be fully captured, understating current risk.
+  - *How to address:* Check the most recent quarter's payout ratio separately. If the latest quarter shows a significantly higher ratio than the full trailing period, the trend is deteriorating. Also compare against the forward payout ratio to see whether the gap between past and projected is widening.
 - **Earnings Volatility Distortion:** For cyclical companies, trailing net income can fluctuate sharply, causing the payout ratio to swing between appearing safe and appearing dangerous without any change in actual dividend policy.
+  - *How to address:* Use a normalized payout ratio by averaging earnings over 3–5 years as the denominator rather than a single trailing period. This smooths cyclical swings and gives a more accurate picture of whether the dividend is structurally supported.
 - **Does Not Distinguish Funding Sources:** A trailing payout ratio below 100% does not prove the dividend was funded by operations — companies can use asset sales or debt proceeds to supplement earnings.
+  - *How to address:* Compare the trailing payout ratio to a cash-flow-based version (dividends ÷ free cash flow). If the earnings-based ratio says 60% but the cash-flow-based ratio says 110%, the dividend is effectively being funded from sources other than operations.
 - **Ignores Free Cash Flow:** Net income includes non-cash items (depreciation, amortization). A ratio based on net income can understate or overstate sustainability compared to one based on free cash flow.
+  - *How to address:* Always calculate dividends ÷ free cash flow as a complementary check. Free cash flow strips out non-cash accounting items and includes capital expenditures, giving a truer picture of the cash actually available to pay dividends.

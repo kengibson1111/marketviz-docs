@@ -49,9 +49,13 @@ Comparing expected EPS growth rates across different companies in the same indus
 ## Key Risks and Limitations
 
 - **Analyst Bias:** Consensus projections can skew optimistic due to conflicts of interest or herding behavior among analysts.
+  - *How to address:* Compare the consensus estimate to the company's own guidance and to independent research sources. Also check the historical accuracy of analysts covering this stock — if they consistently overshoot, apply a haircut to the current consensus.
 - **Projection Accuracy Degrades Over Time:** Near-term (current quarter) EPS projections are more reliable than multi-year forecasts, which carry substantial uncertainty.
+  - *How to address:* Weight near-term estimates more heavily in your analysis. For longer-term projections, focus on the direction and consistency of the trend rather than the exact numbers. Use scenario analysis (bull/bear/base case) instead of relying on a single point estimate.
 - **Revision Risk:** EPS projections are frequently revised. A downward revision trend signals deteriorating fundamentals, even if the absolute number still looks reasonable.
+  - *How to address:* Track the 30-day and 90-day revision trend for both current-year and next-year estimates. A pattern of declining revisions — even small ones — is an early warning. Cross-reference with earnings estimate revisions data and insider activity to confirm whether the deterioration is fundamental.
 - **One-Time Items:** Projections may not fully account for non-recurring charges or windfalls, distorting the earnings picture.
+  - *How to address:* Compare projected EPS to normalized EPS and check whether the company has a history of recurring "one-time" charges. If non-recurring items have appeared in three or more of the last eight quarters, treat them as structurally recurring and adjust your expectations accordingly.
 
 ## Contextual Usage
 

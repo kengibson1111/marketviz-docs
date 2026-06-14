@@ -25,5 +25,8 @@ The price-to-earnings (P/E) ratio is primarily used in risk analysis to identify
 Relying solely on P/E can mask other major risks:
 
 - **Debt Oversight:** P/E ignores a company's balance sheet; a company could have a "safe" P/E while being dangerously burdened by debt.
+  - *How to address:* Always check debt-to-equity and interest coverage ratio alongside P/E. A stock with a reasonable P/E of 15 but an interest coverage ratio below 2.0 carries significant hidden risk. Consider using EV/EBIT (which incorporates debt) as a complementary valuation measure.
 - **Earnings Manipulation:** Because the ratio uses accounting-based earnings, it is vulnerable to manipulation through asset sales or buybacks, which can make a stock look less risky than its cash flow suggests.
+  - *How to address:* Compare P/E to the price-to-free-cash-flow ratio. If P/E looks attractive but the price-to-FCF ratio tells a different story, earnings quality may be suspect. Also check earnings manipulation detection scores (Beneish M-Score) to flag potential accounting aggression.
 - **Growth Blindness:** It does not factor in the rate of growth. Analysts often use the PEG ratio (P/E divided by growth) to determine if a high P/E is justified by high growth.
+  - *How to address:* Calculate the PEG ratio by dividing the P/E by the expected 5-year earnings growth rate. A PEG below 1.0 suggests the growth rate justifies the multiple; a PEG above 2.0 suggests you're paying a premium that growth alone doesn't support.

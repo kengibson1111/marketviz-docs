@@ -46,9 +46,13 @@ Standard deviation is the mathematical foundation for Bollinger Bands, a widely 
 ## Key Risks and Limitations
 
 - **Backward-Looking:** Standard deviation is calculated from historical data and assumes past return patterns will persist. Market regime changes, new competitors, or macroeconomic shifts can alter a stock's true volatility going forward.
+  - *How to address:* Compare recent short-term standard deviation (30-day) to longer-term (1-year) to detect regime changes early. If short-term volatility is rising significantly above the long-term baseline, the stock's risk profile may be shifting. Also check whether fundamental changes (new competition, regulatory shifts, or earnings deterioration) explain the increased volatility.
 - **Assumes Normal Distribution:** The metric works best when returns follow a bell curve. In reality, stock returns often exhibit fat tails (extreme events occurring more frequently than predicted), which standard deviation alone may understate.
+  - *How to address:* Supplement with maximum drawdown analysis, which captures the worst-case actual decline regardless of distribution assumptions. If maximum historical drawdown is far worse than what a normal distribution would predict, the stock carries tail risk that standard deviation understates.
 - **Does Not Indicate Direction:** Standard deviation measures the magnitude of price swings, not whether those swings will be positive or negative. A high-standard-deviation stock could surge or collapse with equal statistical likelihood.
+  - *How to address:* Pair standard deviation with directional indicators: price trend (above/below 200-day moving average), earnings estimate revisions, and money flow. A high-standard-deviation stock with positive momentum and rising estimates is different from one with the same volatility but deteriorating fundamentals.
 - **Time Period Sensitivity:** Values change depending on the measurement window (30 days vs. 1 year) and data frequency (daily vs. weekly returns), potentially giving conflicting signals about a stock's risk profile.
+  - *How to address:* Use a consistent measurement methodology across all stocks you compare. If your screener uses 36-month monthly returns for one stock, apply the same window to peers. Be explicit about which period you're using and understand that shorter windows reflect recent behavior while longer ones include more market regimes.
 
 ## Contextual Usage
 

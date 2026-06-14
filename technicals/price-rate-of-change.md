@@ -46,9 +46,13 @@ A positive result means the price is higher now than it was n periods ago (upwar
 ## Key Risks and Limitations
 
 - **Sensitivity to Period Selection:** Short lookback periods (e.g., 5 days) produce noisy, volatile ROC readings prone to whipsaws. Longer periods (e.g., 50 days) smooth the signal but introduce lag. Choosing the wrong period for the market environment generates unreliable signals.
+  - *How to address:* Use multiple ROC periods simultaneously (e.g., 10-day and 30-day) and look for agreement between them. If both short and long ROC confirm the same direction, the signal is more reliable. Adjust your primary period based on your holding timeframe — shorter for swing trades, longer for position trades.
 - **No Absolute Price Context:** ROC tells you how fast a price is changing but not where the price sits relative to support, resistance, or valuation levels. A high ROC can occur at any price level, making it insufficient as a standalone tool.
+  - *How to address:* Combine ROC with support/resistance analysis and valuation metrics. A stock with high positive ROC trading near fair value based on earnings has different risk than one with high ROC that's already 50% above its intrinsic value estimate.
 - **False Signals in Sideways Markets:** In range-bound or choppy conditions, ROC oscillates around zero without providing meaningful directional guidance, generating frequent misleading crossover signals.
+  - *How to address:* During sideways markets, ignore small zero-line crossovers. Only act on ROC signals that reach historically significant extreme values for the specific stock. If ROC hasn't moved beyond ±5% in a range-bound market, the signal is likely noise.
 - **Lagging at Extremes:** By the time ROC reaches extreme values, much of the price move has already occurred. Investors reacting to extreme readings may be late to act on the underlying opportunity or risk.
+  - *How to address:* Use ROC divergence (price makes new high/low but ROC does not) as an earlier warning rather than waiting for extreme ROC levels. Divergence signals appear before ROC reaches extremes, giving you more time to act.
 
 ## Contextual Usage
 

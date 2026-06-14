@@ -46,10 +46,15 @@ High executive turnover alongside heavy insider selling can be a red flag pointi
 ## Key Risks and Limitations
 
 - **Selling Is Noisy:** The majority of insider sales are driven by personal financial planning rather than bearish conviction. Treating all selling as a negative signal produces frequent false alarms.
+  - *How to address:* Differentiate between Rule 10b5-1 pre-scheduled sales and off-schedule, discretionary sales. Focus only on unplanned sales by senior executives, especially when multiple insiders sell within the same 30-day window. Ignore routine, small-lot sales that follow a consistent historical pattern.
 - **Delayed Disclosure:** Insiders must file with the SEC within two business days of a transaction, but processing and publication lags mean retail investors may not see filings in real time.
+  - *How to address:* Use automated alert services (SEC EDGAR RSS feeds, Quiver Quantitative, or broker-provided insider alerts) that notify you as soon as Form 4 filings are published. Accept that a 2–4 day lag exists and focus on the pattern over time rather than trying to trade on individual filings.
 - **Does Not Explain Magnitude of Risk:** Insider activity tells you *that* executives are buying or selling, but not *how much* risk the company actually faces. A single purchase does not guarantee the stock will rise.
+  - *How to address:* Look at the size of the transaction relative to the insider's total holdings and annual compensation. A CEO buying $2 million of stock when their net worth is $5 million sends a much stronger signal than one buying $50,000. Pair with fundamental data (free cash flow, earnings quality) to confirm whether the insider's bet is supported by the numbers.
 - **Regulatory Constraints Limit Timing:** Insiders are restricted from trading during blackout periods around earnings releases, meaning their activity may not reflect their most current views on company performance.
+  - *How to address:* Pay particular attention to trades made immediately after blackout periods end — these often reflect views formed during the restricted window. Also note that the absence of buying after a blackout period (when an insider could have bought) can itself be informative.
 - **Sector Context Matters:** Companies in sectors with heavy stock-based compensation (such as technology) naturally show higher selling volume. Always compare insider activity patterns to sector peers rather than applying universal thresholds.
+  - *How to address:* Benchmark insider net buying/selling ratios against direct industry peers. A tech executive selling 10% of holdings annually may be normal for the sector; the same pattern at a utility company would be more unusual and worth investigating.
 
 ## Contextual Usage
 

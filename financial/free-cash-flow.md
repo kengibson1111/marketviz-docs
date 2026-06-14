@@ -31,9 +31,13 @@ The acceptable level of FCF varies by sector. Capital-intensive industries (like
 ## Key Risks and Limitations
 
 - **Ignores Growth Phase:** Negative FCF is normal for high-growth companies reinvesting aggressively. Using FCF alone to judge these companies may cause you to miss legitimate opportunities.
+  - *How to address:* Check revenue growth rate alongside FCF. If revenue is growing 30%+ year-over-year and the company is investing in capacity, negative FCF may be a sign of scaling rather than weakness. Compare the company to peers at the same stage of growth to see if the burn rate is reasonable.
 - **Capital Expenditure Timing:** Large one-time investments (factory builds, acquisitions) can depress FCF temporarily without reflecting ongoing operational weakness.
+  - *How to address:* Review capital expenditure over multiple years and separate maintenance capex (required to sustain operations) from growth capex (expansion investments). If FCF is low due to a single large investment, project what FCF will look like once that investment normalizes.
 - **Accounting Variability:** Companies classify certain expenditures differently between operating and investing activities, making cross-company FCF comparisons imperfect.
+  - *How to address:* When comparing peers, read the cash flow statement footnotes to understand how each company classifies key items (especially software development costs and lease payments). Use the same definition of FCF for all companies in the comparison.
 - **Does Not Measure Quality of Spending:** FCF tells you how much cash remains but not whether the reinvestments being made are generating adequate returns.
+  - *How to address:* Pair FCF with return on invested capital (ROIC). A company with low FCF but high ROIC is likely reinvesting productively. A company with low FCF and declining ROIC is burning cash without generating value — a much more concerning signal.
 
 ## How to Evaluate the Stock
 

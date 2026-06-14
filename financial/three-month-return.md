@@ -33,6 +33,10 @@ While the return of a 3-month T-Bill is used to measure baseline risk, looking a
 ## Key Risks and Limitations
 
 - **Not a Direct Stock Risk Metric:** The 3-month T-Bill yield measures macro interest rate conditions, not the risk of any individual stock. Changes in this rate affect all equities simultaneously.
+  - *How to address:* Use the 3-month return strictly as a benchmark input for risk-adjusted models (Sharpe, CAPM), not as a standalone indicator of stock quality. The value of this metric is in what it tells you about relative attractiveness of equities vs. cash — not about any specific company.
 - **Assumption of "Risk-Free":** While U.S. Treasuries are considered virtually risk-free, inflation can erode real returns, and extreme scenarios (debt ceiling crises) introduce brief uncertainty.
+  - *How to address:* During periods of elevated inflation, compare the nominal T-Bill yield to the current inflation rate. If inflation exceeds the T-Bill yield, the "risk-free" return is actually negative in real terms — meaning the true hurdle for equities to clear is higher than the nominal yield suggests.
 - **Model Sensitivity:** Small changes in the risk-free rate propagate through CAPM, Sharpe, and DCF models, potentially shifting valuations and risk assessments for entire portfolios.
+  - *How to address:* Run sensitivity analysis on your models by varying the risk-free rate ±0.5%. If your investment thesis changes materially with a small rate shift, the conclusion is fragile and should be supported by additional valuation methods (comparables, fundamental screens) rather than relying solely on rate-sensitive models.
 - **Lag in Reflecting Conditions:** The 3-month yield responds to Fed policy and market expectations with a lag, meaning models using it may temporarily misrepresent the current opportunity cost of equity investing.
+  - *How to address:* During periods of active Fed rate changes, check market-implied forward rates (Fed funds futures) alongside the current 3-month yield to anticipate where the risk-free rate is heading. Adjust your required equity risk premium if rates are expected to change significantly in the near term.

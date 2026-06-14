@@ -55,11 +55,17 @@ Some industries exhibit power-law economics where the leading company captures d
 ## Key Risks and Limitations
 
 - **Small Peer Groups Distort Signals:** Many industries have fewer than 10 publicly traded companies, meaning one outlier (a single blowout quarter or a company-specific scandal) can dramatically skew the group average and produce misleading relative strength readings.
+  - *How to address:* When the peer group has fewer than 5–6 members, use median performance rather than mean, and manually exclude obvious outliers (e.g., a peer experiencing an M&A event or bankruptcy). Consider expanding to adjacent sub-industries for a more robust comparison set.
 - **Industry Classification Is Subjective:** GICS, ICB, and other classification systems assign companies to industries differently. A company's "true" competitive peer set may not match its official industry classification, leading to inappropriate comparisons.
+  - *How to address:* Build a custom peer list based on actual competitive overlap (who competes for the same customers and revenue) rather than relying solely on GICS codes. Review the company's 10-K "Competition" section to identify its true rivals.
 - **Survivorship Bias in Consolidating Industries:** As weaker peers get acquired or go bankrupt, the remaining peer group becomes artificially strong, making average relative performance harder to interpret over time.
+  - *How to address:* Track how the peer group composition has changed over your measurement window. If several weaker companies were removed via acquisition or delisting, acknowledge that the remaining average is upwardly biased and adjust your expectations for what "average" means in the current group.
 - **Private Competitors Are Invisible:** In many industries, the strongest competitors are private companies not reflected in public market relative strength data. A stock may appear to lead its public peers while actually losing ground to private rivals.
+  - *How to address:* Supplement with industry reports, trade publications, and market share data that include private competitors. If the public leader's revenue growth is decelerating while industry research shows overall market growth accelerating, private competitors are likely capturing share.
 - **Relative Strength Does Not Capture Absolute Risk:** A stock can lead its industry while the entire industry declines 40%. Outperforming a sinking peer group does not protect against absolute capital loss.
+  - *How to address:* Always check absolute returns alongside relative returns. Pair industry relative strength with sector-level analysis — if the entire industry and sector are declining, consider reducing overall exposure regardless of relative leadership. Use sector relative strength as an additional layer of confirmation.
 - **Correlation Spikes During Crises:** Industry peers tend to become highly correlated during market stress, temporarily eliminating the differentiation that relative strength analysis depends on. The metric is most useful during normal market conditions and least useful precisely when risk management matters most.
+  - *How to address:* During high-correlation episodes (market-wide VIX spikes, systemic crises), shift focus from relative strength to absolute risk measures: cash buffer, debt levels, and interest coverage ratio. These balance-sheet metrics differentiate companies when price-based signals cannot.
 
 ## Contextual Usage
 

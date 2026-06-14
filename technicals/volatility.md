@@ -54,9 +54,13 @@ Traders and investors use volatility to identify opportunities and protect again
 ## Key Risks and Limitations
 
 - **Backward-Looking:** Standard deviation and historical volatility are calculated from past data. They assume prior patterns will persist, which may not hold during regime changes or black swan events.
+  - *How to address:* Compare historical volatility to implied volatility (from options pricing). If implied volatility is significantly higher than historical, the market expects upcoming turbulence that history doesn't capture. Also check whether fundamental changes (acquisitions, leadership shifts, regulatory actions) suggest the future may not resemble the past.
 - **Does Not Indicate Direction:** Volatility measures the size of price moves, not whether those moves will be up or down. A high-volatility stock could surge or collapse with equal statistical likelihood.
+  - *How to address:* Combine volatility with directional signals: price trend (above/below 200-day moving average), earnings estimate revisions, and insider activity. High volatility paired with positive fundamental momentum is different from high volatility paired with deteriorating fundamentals — the former may represent opportunity while the latter represents danger.
 - **Time Period Sensitivity:** Volatility values change significantly depending on the measurement window (30 days vs. 1 year) and data frequency (daily vs. weekly), potentially giving conflicting signals.
+  - *How to address:* Use a consistent measurement methodology across all stocks you're evaluating. For portfolio decisions, annualized volatility from monthly returns over 3 years provides a stable baseline. For short-term tactical decisions, 30-day realized volatility is more responsive but noisier.
 - **Volatility Clustering:** Periods of high volatility tend to cluster together. A stock that becomes volatile often stays volatile for extended stretches, making it difficult to time entries during calm windows.
+  - *How to address:* If a stock has recently entered a high-volatility regime, reduce position size accordingly rather than waiting for volatility to subside before acting. History shows that elevated volatility persists, so your risk management should account for the current regime rather than hoping for a quick return to calm conditions.
 
 ## Contextual Usage
 

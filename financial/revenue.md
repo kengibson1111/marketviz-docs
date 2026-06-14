@@ -35,9 +35,13 @@ Risk is often defined as the price paid for a specific level of performance.
 ## Key Risks and Limitations
 
 - **Susceptible to Manipulation:** While revenue is "cleaner" than earnings, companies can still inflate top-line figures through channel stuffing, bill-and-hold arrangements, or aggressive recognition of long-term contracts.
+  - *How to address:* Compare revenue growth to operating cash flow growth. If revenue is growing significantly faster than cash flow, the company may be recognizing revenue before cash is collected. Also check accounts receivable growth — if receivables are rising faster than revenue, collection quality is declining.
 - **Does Not Reflect Profitability:** Growing revenue means nothing if margins are deteriorating. A company can expand sales while becoming less financially viable.
+  - *How to address:* Track gross margin and operating margin trends alongside revenue growth. If margins are compressing while revenue rises, the company may be buying growth through unsustainable discounts or bloated spending. Revenue growth paired with stable or expanding margins is a much stronger signal.
 - **Acquisition-Driven Growth:** Revenue jumps from acquisitions may mask stagnation or decline in organic operations. Always distinguish between organic and inorganic growth.
+  - *How to address:* Look for the company's disclosure of organic revenue growth in earnings releases or investor presentations. If not disclosed, check whether a major acquisition closed during the period and estimate its revenue contribution. Compare pre-acquisition growth rates to current total growth to isolate how much came from M&A.
 - **Macro Sensitivity:** Revenue for cyclical industries can swing dramatically with economic conditions, making single-year figures misleading without multi-year trend context.
+  - *How to address:* Evaluate revenue over a full business cycle (5–7 years) rather than a single year. Compare the company's revenue growth rate to its direct industry peers during the same period — if the entire sector grew similarly, the company is riding a macro wave rather than demonstrating superior execution.
 
 ## Concentration and Diversification Risks
 

@@ -47,8 +47,11 @@ Investors calculate a company's payout ratio (dividends divided by earnings). If
 ## Key Risks and Limitations
 
 - **Backward-Looking Bias:** Past earnings stability does not guarantee future consistency; industry disruption, regulatory changes, or loss of key customers can destabilize previously steady profits.
+  - *How to address:* Check customer concentration risk (top-customer revenue share) in the 10-K, and monitor industry news for disruptive technologies or regulatory shifts. Also review forward analyst consensus — if projections show widening uncertainty ranges, the historical stability may not persist.
 - **Cyclical Masking:** A company may appear stable simply because the measurement window coincided with a favorable economic cycle.
+  - *How to address:* Extend the analysis window to include at least one full economic downturn (e.g., 2008–2009 or 2020). If the company's history doesn't cover a recession, compare its sector's typical cyclical behavior and apply a discount to the stability score.
 - **Accounting Smoothing:** Some companies use reserve accounts or one-time adjustments to artificially smooth reported earnings, masking true volatility.
+  - *How to address:* Compare the variability of reported earnings to the variability of operating cash flow over the same period. If cash flow swings wildly while earnings are suspiciously flat, smoothing is likely in play. Also check earnings manipulation detection scores (Beneish M-Score, Sloan Accrual Ratio) for confirmation.
 
 ## Contextual Usage
 

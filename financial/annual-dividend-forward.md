@@ -28,6 +28,10 @@ While the trailing dividend shows what a company has paid, the forward dividend 
 ## Key Risks and Limitations
 
 - **Projection Uncertainty:** Forward dividends are based on the most recently declared rate annualized. Companies can cut or suspend dividends at any time, making the forward figure unreliable for companies with inconsistent payout histories.
+  - *How to address:* Check the company's dividend track record — how many consecutive years has it maintained or raised the payout? Also review the forward payout ratio (forward dividend ÷ projected earnings). If the payout ratio exceeds 80%, the dividend is at elevated risk regardless of what was recently declared.
 - **Ignores Special Dividends:** The forward metric captures regular dividends only. Special one-time payouts or irregular distributions are excluded, potentially understating total shareholder returns.
+  - *How to address:* Review the company's dividend history for special dividends over the past 3–5 years. If specials are frequent and material, add their average annual contribution to the forward figure for a more complete income estimate.
 - **Price-Driven Yield Distortion:** Because yield is calculated against the current share price, a falling stock price automatically inflates the forward yield, creating the appearance of income strength when the underlying situation may be deteriorating.
+  - *How to address:* Check whether the yield increase resulted from a dividend raise or a share price decline. Compare the forward yield to the company's own 5-year yield range — if the current yield is far above its historical average, investigate whether the price decline reflects fundamental deterioration rather than a buying opportunity.
 - **Does Not Capture Total Return:** Focusing solely on dividend income ignores capital appreciation (or depreciation), which often dominates total shareholder returns over time.
+  - *How to address:* Evaluate total return potential by combining the forward yield with expected capital appreciation from earnings growth. A 4% yield with flat or declining earnings may deliver worse total returns than a 2% yield with 10% annual earnings growth.

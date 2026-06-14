@@ -37,9 +37,13 @@ Earnings revisions directly impact the accuracy of forward-looking valuation mod
 ## Key Risks and Limitations
 
 - **Herding Behavior:** Analysts sometimes follow each other rather than conducting independent research, which can amplify revision trends beyond what fundamentals justify.
+  - *How to address:* Check how many unique firms are revising versus how many are simply following a lead firm's call. If revisions are concentrated among 1–2 analysts while others hold steady, the signal is weaker. Cross-reference with the company's own guidance to see whether the revision direction aligns with management's outlook.
 - **Lagging Indicators in Fast-Moving Situations:** Analyst models update on a periodic basis. In rapidly evolving situations (such as sudden demand shifts or regulatory changes), revisions may trail the reality of what is happening inside the company.
+  - *How to address:* Watch for faster-moving signals like insider buying or selling, sudden volume spikes, and options market activity (unusual put buying). These often precede formal estimate revisions and can confirm or contradict what analysts are publishing.
 - **Does Not Capture All Risk:** Revisions focus on earnings and do not account for balance sheet deterioration, management turnover, or macro-level risks that may not yet be reflected in EPS models.
+  - *How to address:* Pair estimate revisions with balance sheet health checks (debt-to-equity, interest coverage ratio, cash buffer) and corporate governance indicators (insider activity, executive turnover). A strong revision trend means less if the company's leverage is simultaneously climbing to dangerous levels.
 - **Sector Context Matters:** Some sectors experience more frequent and larger revisions due to their inherent cyclicality or sensitivity to commodity prices. Always compare revision trends to sector peers rather than a universal threshold.
+  - *How to address:* Rank revision momentum within the company's own sector or industry peer group. A 5% estimate cut in a commodity-sensitive sector where all peers are being cut by 10% is actually a sign of relative strength, not weakness.
 
 ## Contextual Usage
 

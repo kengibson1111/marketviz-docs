@@ -19,6 +19,10 @@ When analyzing investing risk, a stock's one-month return is primarily used to c
 ## Key Risks and Limitations
 
 - **Extremely Short Timeframe:** A single month can be dominated by noise, one-time events, or anomalous market conditions that do not reflect the stock's true risk profile.
+  - *How to address:* Never make investment decisions based on one-month return alone. Use it as one data point within a broader context that includes 3-month, 6-month, and 12-month returns. If the one-month figure diverges sharply from the longer-term trend, investigate the specific cause (earnings surprise, sector rotation, or market-wide event).
 - **Mean Reversion Tendency:** Stocks with extreme one-month returns (positive or negative) frequently revert toward their mean, making the metric unreliable as a forward-looking signal in isolation.
+  - *How to address:* If a stock shows an extreme monthly return (±15% or more), check whether it was driven by a fundamental catalyst (earnings beat/miss, M&A) or purely technical/sentiment factors. Fundamental catalysts may establish a new price level, while sentiment-driven spikes are more likely to revert.
 - **No Fundamental Context:** One-month returns capture price movement but reveal nothing about the underlying business health, valuation, or earnings trajectory driving that movement.
+  - *How to address:* Pair one-month returns with fundamental data points: earnings estimate revisions, insider activity, and valuation metrics. A strong one-month return supported by rising analyst estimates is far more meaningful than one driven by a short squeeze or speculative momentum.
 - **Survivorship Bias in Screens:** Screening for top one-month performers often surfaces stocks experiencing unsustainable catalysts (short squeezes, speculative spikes) rather than genuine quality improvements.
+  - *How to address:* When using one-month return as a screening filter, add quality filters (positive free cash flow, rising earnings estimates, institutional ownership above 30%) to separate fundamental momentum from speculative noise.
