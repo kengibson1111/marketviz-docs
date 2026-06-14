@@ -29,7 +29,7 @@ FCFE strictly accounts for principal debt repayments and new debt issued. Analyz
 
 ### 4. Shareholder Yield
 
-Investors evaluate FCFE relative to the company's share price (FCFE per share ÷ stock price) to calculate a cash-return yield. A higher yield indicates a faster payback period for the equity investor and is often viewed as a defensive cushion during market volatility.
+Investors evaluate FCFE relative to the company's share price ($\text{FCFE per share} \div \text{stock price}$) to calculate a cash-return yield. A higher yield indicates a faster payback period for the equity investor and is often viewed as a defensive cushion during market volatility.
 
 ## Key Risks and Limitations
 

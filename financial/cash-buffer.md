@@ -17,7 +17,7 @@ When assessing a company's ability to survive unexpected downturns, bear markets
 
 The most conservative liquidity test. It strictly divides cash and cash equivalents by current liabilities.
 
-**Cash Ratio = Cash and Cash Equivalents ÷ Current Liabilities**
+$$\text{Cash Ratio} = \frac{\text{Cash and Cash Equivalents}}{\text{Current Liabilities}}$$
 
 This tells you whether a company can immediately pay off all its short-term debts without needing to sell inventory or collect pending payments.
 
@@ -25,13 +25,13 @@ This tells you whether a company can immediately pay off all its short-term debt
 
 Measures how well a company can cover its short-term debts using its most liquid assets, adding accounts receivable and short-term investments alongside cash.
 
-**Quick Ratio = (Cash + Short-Term Investments + Accounts Receivable) ÷ Current Liabilities**
+$$\text{Quick Ratio} = \frac{\text{Cash} + \text{Short-Term Investments} + \text{Accounts Receivable}}{\text{Current Liabilities}}$$
 
 ### Burn Rate
 
 For early-stage, growth, or pre-profitability stocks, analysts look at the cash buffer to measure the "runway" — the number of months a company can survive if revenues stop entirely.
 
-**Runway (Months) = Cash and Cash Equivalents ÷ Monthly Cash Burn**
+$$\text{Runway (Months)} = \frac{\text{Cash and Cash Equivalents}}{\text{Monthly Cash Burn}}$$
 
 ## Risk Mitigation Indicators
 

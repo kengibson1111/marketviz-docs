@@ -29,7 +29,7 @@ Since FCFF calculates cash before interest expenses are paid, it indicates wheth
 
 ### 4. FCFF Yield
 
-Calculated as FCFF ÷ Enterprise Value (or Market Capitalization), FCFF Yield helps investors evaluate the return on their investment and screen for undervalued stocks. A high yield may indicate an undervalued opportunity, while a very low yield suggests the market is pricing in strong future growth that may not materialize.
+Calculated as $\text{FCFF} \div \text{Enterprise Value}$ (or Market Capitalization), FCFF Yield helps investors evaluate the return on their investment and screen for undervalued stocks. A high yield may indicate an undervalued opportunity, while a very low yield suggests the market is pricing in strong future growth that may not materialize.
 
 ### 5. Quality of Earnings
 
@@ -52,4 +52,4 @@ To confirm if a stock's FCFF profile fits your risk tolerance, you can:
 
 - Review the company's cash flow statement directly using a platform like [Morningstar](https://www.morningstar.com) or [Yahoo Finance](https://finance.yahoo.com) to verify operating cash flow and capital expenditure trends.
 - Compare FCFF to total debt service (interest + principal payments) to assess solvency risk over time.
-- Track FCFF margin (FCFF ÷ Revenue) across multiple quarters to identify whether cash generation is improving or deteriorating relative to top-line growth.
+- Track FCFF margin ($\text{FCFF} \div \text{Revenue}$) across multiple quarters to identify whether cash generation is improving or deteriorating relative to top-line growth.

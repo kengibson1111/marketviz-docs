@@ -29,8 +29,8 @@ For in-depth strategies on how to analyze these metrics and screen for safe inco
 
 ## Trailing Payout Ratio vs. Trailing Dividend Yield
 
-- **Trailing Payout Ratio:** Dividends paid ÷ net income (TTM). Tells you how much of the company's earnings are being consumed by dividend obligations. A high ratio means less retained earnings for growth or debt reduction.
-- **Trailing Dividend Yield:** Dividends paid ÷ current share price. Tells you the income return relative to what you pay for the stock. A high yield can be misleading if it results from a falling stock price rather than generous payouts.
+- **Trailing Payout Ratio:** $\text{Dividends Paid} \div \text{Net Income (TTM)}$. Tells you how much of the company's earnings are being consumed by dividend obligations. A high ratio means less retained earnings for growth or debt reduction.
+- **Trailing Dividend Yield:** $\text{Dividends Paid} \div \text{Current Share Price}$. Tells you the income return relative to what you pay for the stock. A high yield can be misleading if it results from a falling stock price rather than generous payouts.
 
 These are complementary metrics. A stock can have a modest yield but a dangerously high payout ratio (low earnings), or a high yield with a comfortable payout ratio (strong earnings, depressed price).
 

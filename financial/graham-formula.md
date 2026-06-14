@@ -15,7 +15,7 @@ The Graham Formula is used in investing primarily to screen for undervalued stoc
 
 This formula calculates a company's fair value using earnings, growth, and prevailing interest rates:
 
-**Intrinsic Value = (EPS × (8.5 + 2g) × 4.4) / Y**
+$$\text{Intrinsic Value} = \frac{EPS \times (8.5 + 2g) \times 4.4}{Y}$$
 
 - **EPS:** Trailing twelve months Earnings Per Share.
 - **8.5:** The base P/E ratio Graham assigned to a zero-growth company.
@@ -30,7 +30,7 @@ This formula calculates a company's fair value using earnings, growth, and preva
 
 This is a simplified, shortcut version of Graham's principles used as a general test for attractive pricing:
 
-**Graham Number = √(22.5 × EPS × BVPS)**
+$$\text{Graham Number} = \sqrt{22.5 \times EPS \times BVPS}$$
 
 - **EPS:** Earnings per share.
 - **BVPS:** Book value per share.

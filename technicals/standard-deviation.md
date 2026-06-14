@@ -23,7 +23,11 @@ Assuming a stock's returns follow a roughly normal (bell curve) distribution, st
 
 Standard deviation is the denominator in the Sharpe ratio, which evaluates whether an investment's returns justify the amount of volatility endured to achieve them.
 
-- **Sharpe Ratio Formula:** (Portfolio Return − Risk-Free Rate) ÷ Standard Deviation. A higher ratio means better return per unit of risk taken.
+- **Sharpe Ratio Formula:**
+
+  $$\text{Sharpe Ratio} = \frac{R_p - R_f}{\sigma}$$
+
+  A higher ratio means better return per unit of risk taken.
 - **Comparing Investments:** Two stocks may deliver similar returns, but the one with a lower standard deviation (and therefore higher Sharpe ratio) achieved those returns with less uncertainty, making it the more efficient choice.
 - **Threshold Guidance:** A Sharpe ratio above 1.0 is generally considered acceptable; above 2.0 is strong. A ratio below 1.0 suggests the investor is taking on disproportionate risk for the returns received.
 

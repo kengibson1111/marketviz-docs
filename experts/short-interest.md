@@ -22,7 +22,9 @@ A high short interest signals that a significant portion of the market expects t
 
 High short interest combined with low average daily trading volume elevates volatility risk through the Days to Cover metric.
 
-- **Days to Cover Formula:** Days to Cover = Shorted Shares ÷ Average Daily Volume.
+- **Days to Cover Formula:**
+
+  $$\text{Days to Cover} = \frac{\text{Shorted Shares}}{\text{Average Daily Volume}}$$
 - **Risk context:** A high Days to Cover ratio means that if positive news breaks, short sellers racing to buy back shares can artificially push the price up rapidly. This creates unexpected losses for bearish investors forced to cover and bullish investors who bought at artificially inflated prices during the squeeze.
 - **Threshold:** A Days to Cover ratio above 5–7 days, or short interest above 10% of outstanding shares, significantly increases the probability of a squeeze event.
 

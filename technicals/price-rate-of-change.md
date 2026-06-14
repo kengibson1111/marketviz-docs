@@ -39,7 +39,7 @@ Divergence between price action and ROC is one of the earliest warnings that a t
 
 ROC measures the percentage difference between the current price and the price a set number of periods ago (commonly 10 or 14 days):
 
-**ROC = ((Current Price - Price n periods ago) / Price n periods ago) × 100**
+$$ROC = \frac{\text{Current Price} - \text{Price}_{n \text{ periods ago}}}{\text{Price}_{n \text{ periods ago}}} \times 100$$
 
 A positive result means the price is higher now than it was n periods ago (upward momentum). A negative result means it is lower (downward momentum). The magnitude of the result indicates the speed of the change.
 

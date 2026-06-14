@@ -13,7 +13,7 @@ The current ratio is a key liquidity metric that measures a company's ability to
 
 To find the current ratio, divide total current assets by total current liabilities:
 
-**Current Ratio = Current Assets ÷ Current Liabilities**
+$$\text{Current Ratio} = \frac{\text{Current Assets}}{\text{Current Liabilities}}$$
 
 ## What It Measures
 
@@ -46,7 +46,7 @@ Not all current assets are equally liquid. A company whose current assets are mo
 
 The quick ratio (also called the acid-test ratio) is a stricter version of the current ratio. It strips out inventory and prepaid expenses from current assets, leaving only the most liquid items: cash, cash equivalents, short-term investments, and accounts receivable.
 
-**Quick Ratio = (Cash + Short-Term Investments + Accounts Receivable) ÷ Current Liabilities**
+$$\text{Quick Ratio} = \frac{\text{Cash} + \text{Short-Term Investments} + \text{Accounts Receivable}}{\text{Current Liabilities}}$$
 
 ### Key Differences
 

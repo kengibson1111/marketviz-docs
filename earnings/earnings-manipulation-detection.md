@@ -25,7 +25,9 @@ The Sloan Accrual Ratio measures the gap between reported earnings and operating
 
 - **Where it's used:** Evaluating whether reported profits are backed by real cash generation or inflated by non-cash accounting entries.
 - **Risk context:** A large positive accrual ratio means earnings are running ahead of actual cash, which often signals aggressive revenue recognition or deferred expense tactics. Firms with the highest accrual ratios have historically underperformed. A negative value indicates earnings are well-supported by cash — the hallmark of high earnings quality.
-- **Formula:** (Net Income − Operating Cash Flow − Investing Cash Flow) / Average Net Operating Assets.
+- **Formula:**
+
+  $$\text{Sloan Accrual Ratio} = \frac{\text{Net Income} - \text{Operating Cash Flow} - \text{Investing Cash Flow}}{\text{Average Net Operating Assets}}$$
 
 ### Cash-Flow-to-Earnings Comparison
 

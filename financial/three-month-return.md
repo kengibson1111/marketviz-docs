@@ -19,8 +19,14 @@ In financial modeling, analysts need a baseline measure of return that an invest
 
 The 3-month return serves as the foundational risk-free rate variable in these critical risk analysis formulas:
 
-- **Sharpe Ratio:** This metric measures how much excess return you are receiving for the extra volatility you endure for holding a riskier asset like a stock. The formula is: ((stock return) - (3-month Treasury return)) divided by standard deviation.
-- **Capital Asset Pricing Model (CAPM):** This model calculates the expected rate of return for a stock based on its risk relative to the broader market. The 3-month return acts as the starting point to which a risk premium is added.
+- **Sharpe Ratio:** This metric measures how much excess return you are receiving for the extra volatility you endure for holding a riskier asset like a stock. The formula is:
+
+  $$\text{Sharpe Ratio} = \frac{R_{\text{stock}} - R_{\text{3-month Treasury}}}{\sigma}$$
+
+- **Capital Asset Pricing Model (CAPM):** This model calculates the expected rate of return for a stock based on its risk relative to the broader market. The 3-month return acts as the starting point to which a risk premium is added:
+
+  $$\text{Expected Return} = R_f + \beta \times (R_m - R_f)$$
+
 - **Jensen's Alpha:** Alpha measures the risk-adjusted performance of a stock relative to a benchmark index. The calculation strips out the 3-month risk-free return to identify the actual value added by the portfolio manager or the stock's specific performance.
 
 ## Alternative Uses of "Three Months"

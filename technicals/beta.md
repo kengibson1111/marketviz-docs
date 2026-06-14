@@ -24,7 +24,11 @@ Beta is benchmarked to the broader market, which has a beta of exactly 1.0. Inve
 
 Beta is a core input to the Capital Asset Pricing Model, which calculates the minimum return an investor should demand to justify taking on a stock's systematic risk.
 
-- **CAPM Formula:** Expected Return = Risk-Free Rate + Beta × (Market Return − Risk-Free Rate). This quantifies whether a stock's potential reward justifies its measured risk level.
+- **CAPM Formula:**
+
+  $$\text{Expected Return} = R_f + \beta \times (R_m - R_f)$$
+
+  This quantifies whether a stock's potential reward justifies its measured risk level.
 - **Risk-Free Rate:** Typically the yield on a U.S. Treasury bond, representing the baseline return for zero risk.
 - **Market Risk Premium:** The difference between expected market returns and the risk-free rate. A higher beta multiplies this premium, raising the return threshold a stock must clear to be worth holding.
 
