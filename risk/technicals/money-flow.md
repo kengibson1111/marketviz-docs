@@ -1,3 +1,11 @@
+---
+type: Technical Indicator
+title: Money Flow (Chaikin Money Flow)
+description: "How volume-weighted accumulation and distribution reveal trend strength, breakout validity, and institutional selling pressure"
+tags: [technicals, accumulation-distribution, volume, institutional-activity]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Money Flow (Chaikin Money Flow): Investment Risk
 
 Chaikin Money Flow (CMF) is a technical indicator that measures buying (accumulation) and selling (distribution) pressure over a specific period, usually 21 days, by weighting closing prices against trading volume. Investors use it to spot underlying trend weakness, confirm breakouts, and avoid "bull traps" by revealing whether institutional money is flowing into or out of a stock. Because CMF incorporates volume, it unmasks the "why" behind price movements — a price drop on low volume might just be a blip, whereas a price drop on high negative CMF indicates aggressive, sustained selling.
@@ -48,7 +56,7 @@ A drop below a critical CMF threshold (often around -0.05) warns of intense, vol
 - **Sideways Markets:** In range-bound conditions, CMF oscillates around zero without providing clear directional signals, leading to potential whipsaw decisions.
   - *How to address:* During sideways markets, don't act on CMF crossovers alone. Wait for price to break above resistance or below support before using CMF as confirmation. If price is range-bound, CMF is best used to detect which direction pressure is building rather than as a direct buy/sell trigger.
 - **Not a Standalone Indicator:** CMF measures volume-weighted pressure but does not account for a company's fundamentals, valuation, or external catalysts.
-  - *How to address:* Always pair CMF with fundamental analysis. Positive CMF on a stock with deteriorating [earnings](../earnings/earnings-growth.md) may simply reflect short-covering or speculative buying rather than institutional conviction. Confirm that the volume-weighted signal aligns with the fundamental trajectory.
+  - *How to address:* Always pair CMF with fundamental analysis. Positive CMF on a stock with deteriorating [earnings](/risk/earnings/earnings-growth.md) may simply reflect short-covering or speculative buying rather than institutional conviction. Confirm that the volume-weighted signal aligns with the fundamental trajectory.
 
 ## Contextual Usage
 

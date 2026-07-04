@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: Three-Month Return
+description: How the 3-month Treasury yield serves as the risk-free rate in risk-adjusted models
+tags: [financial, returns, risk-free-rate, benchmark]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Three-Month Return: Investment Risk
 
 When analyzing investing risk, the "three-month return" is almost exclusively used as a benchmark proxy rather than as a standalone metric for a stock's risk.

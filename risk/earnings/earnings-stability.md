@@ -1,3 +1,11 @@
+---
+type: Earnings Metric
+title: Earnings Stability
+description: How profit consistency signals resilience, dividend safety, and lower fundamental risk
+tags: [earnings, stability, quality, dividends]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Earnings Stability: Investment Risk
 
 Earnings stability measures the consistency of a company's profits over time. In risk analysis, it is used in fundamental analysis, value investing, and factor investing to identify businesses that can weather economic downturns, support reliable dividend payouts, and project future cash flows with higher accuracy.
@@ -13,7 +21,7 @@ Earnings stability measures the consistency of a company's profits over time. In
 
 ### Bankruptcy & Liquidity Risk
 
-Companies with wildly fluctuating earnings face severe distress during economic contractions. Stable earnings indicate the company has a [cash buffer](../financial/cash-buffer.md) to service debt and fund operations without needing emergency capital.
+Companies with wildly fluctuating earnings face severe distress during economic contractions. Stable earnings indicate the company has a [cash buffer](/risk/financial/cash-buffer.md) to service debt and fund operations without needing emergency capital.
 
 - **Where it's used:** Assessing whether a company can reliably meet debt obligations and fund ongoing operations through economic cycles.
 - **Risk context:** Highly volatile earnings increase the probability of liquidity shortfalls, forcing companies into costly emergency financing or, in extreme cases, bankruptcy.
@@ -51,13 +59,13 @@ Investors calculate a company's payout ratio (dividends divided by earnings). If
 - **Cyclical Masking:** A company may appear stable simply because the measurement window coincided with a favorable economic cycle.
   - *How to address:* Extend the analysis window to include at least one full economic downturn (e.g., 2008–2009 or 2020). If the company's history doesn't cover a recession, compare its sector's typical cyclical behavior and apply a discount to the stability score.
 - **Accounting Smoothing:** Some companies use reserve accounts or one-time adjustments to artificially smooth reported earnings, masking true volatility.
-  - *How to address:* Compare the variability of reported earnings to the variability of operating cash flow over the same period. If cash flow swings wildly while earnings are suspiciously flat, smoothing is likely in play. Also check [earnings manipulation detection](earnings-manipulation-detection.md) scores (Beneish M-Score, Sloan Accrual Ratio) for confirmation.
+  - *How to address:* Compare the variability of reported earnings to the variability of operating cash flow over the same period. If cash flow swings wildly while earnings are suspiciously flat, smoothing is likely in play. Also check [earnings manipulation detection](/risk/earnings/earnings-manipulation-detection.md) scores (Beneish M-Score, Sloan Accrual Ratio) for confirmation.
 
 ## Contextual Usage
 
 - **Income/Dividend Stocks:** Critical for confirming that payouts are backed by dependable earnings.
 - **Defensive Stocks:** Helps identify companies that hold up during recessions, reducing portfolio drawdown risk.
-- **Complementary Metrics:** Best used alongside free cash flow stability, [debt-to-equity ratio](../financial/debt-to-equity.md), and [interest coverage ratio](../financial/interest-coverage-ratio.md) to build a complete picture of fundamental risk.
+- **Complementary Metrics:** Best used alongside free cash flow stability, [debt-to-equity ratio](/risk/financial/debt-to-equity.md), and [interest coverage ratio](/risk/financial/interest-coverage-ratio.md) to build a complete picture of fundamental risk.
 
 ## Further Research
 

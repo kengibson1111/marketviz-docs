@@ -1,3 +1,11 @@
+---
+type: Earnings Metric
+title: Diluted EPS
+description: How diluted earnings per share reveals worst-case profitability and dilution risk
+tags: [earnings, eps, dilution, valuation]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Diluted EPS: Investment Risk
 
 Diluted EPS is used to analyze the worst-case scenario for a stock's profitability by showing how much earnings per share would drop if all convertible securities (stock options, warrants, convertible bonds, and preferred shares) were turned into actual common stock.
@@ -14,7 +22,7 @@ Diluted EPS is used to analyze the worst-case scenario for a stock's profitabili
 
 ### Valuation & Multiples
 
-Savvy investors use Diluted EPS instead of Basic EPS when calculating the [Price-to-Earnings](../financial/price-to-earnings.md) (P/E) ratio.
+Savvy investors use Diluted EPS instead of Basic EPS when calculating the [Price-to-Earnings](/risk/financial/price-to-earnings.md) (P/E) ratio.
 
 - **Where it's used:** Substituted for Basic EPS in P/E ratio calculations and other valuation multiples.
 - **Risk context:** Using diluted shares provides a more conservative, realistic measure of what the company's shares are actually worth. Relying on Basic EPS alone can overstate per-share value and mask the true cost of outstanding convertible securities.
@@ -30,7 +38,7 @@ By comparing Basic EPS to Diluted EPS, you can identify how much of your "slice"
 
 When calculating the total value of a company's equity, professionals use diluted shares outstanding rather than just the basic count.
 
-- **Where it's used:** Enterprise value calculations, fully diluted [market cap](../financial/market-cap.md) analysis, and institutional fund modeling.
+- **Where it's used:** Enterprise value calculations, fully diluted [market cap](/risk/financial/market-cap.md) analysis, and institutional fund modeling.
 - **Risk context:** This prevents the mistake of ignoring shares that will likely be issued in the near future, which would otherwise understate the company's true equity base and overstate per-share metrics.
 
 ### Comparing to Peers
@@ -53,7 +61,7 @@ In fundamental analysis, Diluted EPS ensures an even playing field when evaluati
 
 - **Growth Stocks:** Particularly important since high-growth companies often rely heavily on stock-based compensation, which inflates potential dilution.
 - **Value Stocks:** Useful for confirming that a seemingly cheap valuation isn't artificially deflated by a large overhang of unexercised options or convertible debt.
-- **Complementary Metrics:** Best used alongside Basic EPS, [normalized EPS](normalized-eps.md), and [free cash flow](../financial/free-cash-flow.md) to build a complete picture of fundamental risk.
+- **Complementary Metrics:** Best used alongside Basic EPS, [normalized EPS](/risk/earnings/normalized-eps.md), and [free cash flow](/risk/financial/free-cash-flow.md) to build a complete picture of fundamental risk.
 
 ## Further Research
 

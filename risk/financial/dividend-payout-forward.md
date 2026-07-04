@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: Forward Dividend Payout Ratio
+description: How the ratio of projected dividends to earnings reveals dividend sustainability and traps
+tags: [financial, dividends, payout, sustainability]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Forward Dividend Payout Ratio: Investment Risk
 
 When analyzing investment risk, investors use the forward dividend payout ratio (calculated as projected annual dividends divided by forecasted earnings) to assess the sustainability of a company's dividend and spot potential "dividend traps."

@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: Trailing Dividend Payout Ratio
+description: How historical dividend payouts reveal payout consistency and yield traps
+tags: [financial, dividends, payout, sustainability]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Trailing Dividend Payout Ratio: Investment Risk
 
 The trailing dividend payout ratio is the percentage of a company's trailing 12-month (TTM) earnings that was paid out as dividends over the same period. It is calculated as total dividends paid divided by net income (or free cash flow). This ratio is used in risk analysis to verify a company's historical payout consistency and evaluate dividend sustainability.

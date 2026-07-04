@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: Interest Coverage Ratio
+description: When a company cannot cover its debt payments
+tags: [financial, debt, solvency, leverage]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Interest Coverage Ratio: Investment Risk
 
 Investing in a stock with a low Interest Coverage Ratio (ICR) is generally highly risky. It indicates that operating earnings barely cover — or cannot cover — the interest payments on outstanding debt, signaling severe financial distress and a heightened risk of bankruptcy.
@@ -30,7 +38,7 @@ Determine if the ICR is improving or deteriorating over time. A temporarily low 
 
 ### Cash Flow vs. Accounting Profits
 
-The ICR uses EBIT (Earnings Before Interest and Taxes). Always cross-reference this with the company's actual [Free Cash Flow](free-cash-flow.md) (FCF) to ensure they have the hard cash on hand to make payments.
+The ICR uses EBIT (Earnings Before Interest and Taxes). Always cross-reference this with the company's actual [Free Cash Flow](/risk/financial/free-cash-flow.md) (FCF) to ensure they have the hard cash on hand to make payments.
 
 ## Key Risks and Limitations
 

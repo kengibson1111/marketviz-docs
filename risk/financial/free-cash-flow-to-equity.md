@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: Free Cash Flow to Equity
+description: How FCFE reveals dividend sustainability, shareholder yield, and equity-level risk
+tags: [financial, cash-flow, equity, dividends]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Free Cash Flow to Equity: Investment Risk
 
 Free Cash Flow to Equity (FCFE) measures the exact cash remaining that can be paid out to common shareholders after covering operating expenses, reinvestments, and debt obligations. It is a vital tool for assessing equity-level investing risk and finding hidden value in stocks.
@@ -38,9 +46,9 @@ Investors evaluate FCFE relative to the company's share price ($\text{FCFE per s
 - **Volatility Across Periods:** FCFE can swing dramatically quarter to quarter due to lumpy debt repayment schedules or capital expenditure timing, making single-period analysis unreliable.
   - *How to address:* Use a trailing 12-month (TTM) or 3-year average FCFE rather than a single quarter. This smooths the impact of lumpy payments and gives a more representative picture of the company's normal cash generation available to equity holders.
 - **Ignores Reinvestment Quality:** FCFE measures cash available to shareholders but does not assess whether the company's reinvestment decisions are generating adequate returns.
-  - *How to address:* Pair FCFE with [return on equity](return-on-equity.md) (ROE) and return on invested capital (ROIC) trends. If FCFE is high because the company is underinvesting (low capex), check whether that's hurting long-term growth. Declining revenue or market share alongside high FCFE can signal a company harvesting rather than growing.
+  - *How to address:* Pair FCFE with [return on equity](/risk/financial/return-on-equity.md) (ROE) and return on invested capital (ROIC) trends. If FCFE is high because the company is underinvesting (low capex), check whether that's hurting long-term growth. Declining revenue or market share alongside high FCFE can signal a company harvesting rather than growing.
 - **Capital Structure Sensitivity:** Because FCFE accounts for debt payments, comparing FCFE across companies with different leverage profiles can be misleading without normalization.
-  - *How to address:* When comparing peers with different capital structures, use [FCFF](free-cash-flow-to-firm.md) (Free Cash Flow to Firm) for an apples-to-apples comparison of operational cash generation. Reserve FCFE for evaluating individual companies' dividend sustainability and shareholder yield.
+  - *How to address:* When comparing peers with different capital structures, use [FCFF](/risk/financial/free-cash-flow-to-firm.md) (Free Cash Flow to Firm) for an apples-to-apples comparison of operational cash generation. Reserve FCFE for evaluating individual companies' dividend sustainability and shareholder yield.
 
 ## Further Research
 

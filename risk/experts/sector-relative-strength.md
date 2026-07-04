@@ -1,3 +1,11 @@
+---
+type: Expert Signal
+title: Sector Relative Strength
+description: "How sector-relative performance reveals true leadership, isolates systemic vs. company-specific risk, and identifies momentum-based entry points"
+tags: [experts, sector, relative-strength, rotation]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Sector Relative Strength: Investment Risk
 
 Sector relative strength measures how a stock performs compared to its broader sector benchmark, revealing whether gains are driven by genuine individual outperformance or simply riding a rising sector tide. Investors use this metric to identify market leaders, evaluate whether risk is systemic or company-specific, and optimize entry points. Because sector dynamics heavily influence individual stock performance, understanding relative strength helps retail investors assess whether they are buying true outperformers or laggards disguised by sector momentum.
@@ -50,7 +58,7 @@ Technical indicators like the Relative Strength Index (RSI) help pinpoint overbo
 - **Relative Strength Does Not Guarantee Absolute Gains:** A stock can outperform its sector while both still decline in absolute terms. Relative outperformance during a bear market does not prevent losses.
   - *How to address:* Always check absolute return alongside relative performance. If the sector itself is in a downtrend, relative leadership alone is not a buy signal — it simply means the stock may fall less. Use absolute price trend (above or below its 200-day moving average) as a complementary filter.
 - **Lagging Indicator in Rotation:** By the time sector rotation is clearly visible in relative strength data, much of the move may have already occurred. Early signals often require confirmation from fundamental or flow-based data.
-  - *How to address:* Monitor [money flow](../technicals/money-flow.md) (CMF) and [relative volume](../technicals/relative-trade-volume.md) data for early rotation signals before they show up in price-based relative strength. Also watch earnings estimate revision trends, which often lead price momentum by several weeks.
+  - *How to address:* Monitor [money flow](/risk/technicals/money-flow.md) (CMF) and [relative volume](/risk/technicals/relative-trade-volume.md) data for early rotation signals before they show up in price-based relative strength. Also watch earnings estimate revision trends, which often lead price momentum by several weeks.
 - **Benchmark Selection Matters:** Results vary significantly depending on whether you compare a stock to a broad sector ETF, a sub-industry index, or a custom peer group. Always ensure the benchmark is representative.
   - *How to address:* Use the most commonly referenced sector ETF for your stock's GICS sector (e.g., XLK for tech, XLF for financials) as the default benchmark. If results seem off, narrow to the sub-industry ETF. Be consistent in your benchmark choice over time so trends are comparable.
 - **Short-Term Noise:** Daily or weekly relative strength readings can be volatile and misleading. Longer measurement periods (30–90 days) provide more reliable signals about true leadership.
@@ -60,7 +68,7 @@ Technical indicators like the Relative Strength Index (RSI) help pinpoint overbo
 
 - **Fundamental Confirmation:** Best used to validate whether a stock's price performance aligns with its fundamental trajectory — strong relative strength paired with improving earnings estimates is a high-conviction combination.
 - **Portfolio Risk Management:** Monitor sector-level relative strength to ensure your portfolio is not overexposed to weakening sectors, reducing the probability of correlated drawdowns across multiple positions.
-- **Complementary Metrics:** Most effective when paired with [earnings estimate revisions](../experts/earnings-estimates-revisions.md), [insider activity](../experts/insider-activity.md), [short interest](../experts/short-interest.md), and [volume analysis](trade-volume.md) to build a complete picture of institutional conviction and forward-looking risk.
+- **Complementary Metrics:** Most effective when paired with [earnings estimate revisions](/risk/experts/earnings-estimates-revisions.md), [insider activity](/risk/experts/insider-activity.md), [short interest](/risk/experts/short-interest.md), and [volume analysis](/risk/technicals/trade-volume.md) to build a complete picture of institutional conviction and forward-looking risk.
 - **Reference Data:** Traders discuss practical applications of relative strength analysis in communities such as Reddit RealDayTrading, and sector ETF performance comparisons are available on platforms like Finviz or StockCharts.
 
 ## Further Research

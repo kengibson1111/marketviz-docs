@@ -1,3 +1,11 @@
+---
+type: Expert Signal
+title: Analyst Rating Revisions
+description: "How changes in analyst buy/hold/sell recommendations reveal sentiment shifts, fundamental risk, and valuation overshoot"
+tags: [experts, analysts, sentiment, ratings]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Analyst Rating Revisions: Investment Risk
 
 Analyst rating revisions track changes in buy, hold, or sell recommendations issued by professional equity analysts covering a stock. They function as sentiment indicators and fundamental catalysts, helping investors identify shifts in market expectations, validate a company's financial trajectory, and manage specific risks within their portfolios. Because these ratings reflect the professional judgment of analysts who closely follow a company's operations, competitive position, and industry dynamics, revisions serve as an early signal of evolving risk that helps retail investors anticipate price movements before they fully materialize.
@@ -62,7 +70,7 @@ Downgrades to "Sell" or "Underperform" are frequently red flags that a stock's v
 - **Pre-Earnings Positioning:** Best used in the weeks leading up to earnings reports to identify stocks where analyst sentiment has recently shifted, helping avoid positions with elevated surprise risk.
 - **Momentum Confirmation:** Useful for validating whether a stock's recent price move is supported by professional analyst conviction or is purely driven by retail sentiment.
 - **Contrarian Screening:** Extreme consensus (nearly all analysts at "Strong Buy" or all at "Sell") can signal crowded positioning, making contrarian opportunities worth investigating when paired with improving fundamentals.
-- **Complementary Metrics:** Most effective when paired with [earnings estimate revisions](earnings-estimates-revisions.md), [insider activity](insider-activity.md), [short interest](short-interest.md), and valuation metrics like [PEG ratio](../financial/peg.md) to build a complete picture of forward-looking risk.
+- **Complementary Metrics:** Most effective when paired with [earnings estimate revisions](/risk/experts/earnings-estimates-revisions.md), [insider activity](/risk/experts/insider-activity.md), [short interest](/risk/experts/short-interest.md), and valuation metrics like [PEG ratio](/risk/financial/peg.md) to build a complete picture of forward-looking risk.
 - **Reference Data:** You can track analyst rating revisions on platforms like LSEG StarMine, TIKR, or Koyfin.
 
 ## Further Research

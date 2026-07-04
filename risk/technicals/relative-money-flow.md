@@ -1,6 +1,14 @@
+---
+type: Technical Indicator
+title: Relative Money Flow
+description: "How peer money flow comparison reveals selective accumulation, sector rotation, and institutional capital allocation"
+tags: [technicals, peer-comparison, accumulation-distribution, sector-rotation]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Relative Money Flow: Investment Risk
 
-Relative money flow compares Chaikin Money Flow (CMF) readings across a stock and its direct competitors or sector peers over the same time period. While [money flow](money-flow.md) analysis focuses on whether a single stock is under accumulation or distribution, relative money flow reveals how institutional capital is being allocated among competing companies. Investors use it to detect selective accumulation, confirm breakout quality, and identify which peers institutions are favoring or abandoning.
+Relative money flow compares Chaikin Money Flow (CMF) readings across a stock and its direct competitors or sector peers over the same time period. While [money flow](/risk/technicals/money-flow.md) analysis focuses on whether a single stock is under accumulation or distribution, relative money flow reveals how institutional capital is being allocated among competing companies. Investors use it to detect selective accumulation, confirm breakout quality, and identify which peers institutions are favoring or abandoning.
 
 ## Questions This Answers
 
@@ -62,7 +70,7 @@ Relative money flow provides context for how aggressively institutions are selli
 - **Sector Rotation Analysis:** Best used when evaluating whether institutional capital is flowing into your specific holding or being redirected toward competitors within the same sector.
 - **Breakout Filtering:** Essential for distinguishing company-specific breakouts from broad sector moves by comparing the money flow conviction behind each peer's price action.
 - **Value Recovery Timing:** Helps identify which discounted stock in a peer group is first to attract institutional re-entry, reducing value trap risk.
-- **Complementary Metrics:** Most effective when combined with [money flow](money-flow.md) baseline analysis, [relative trade volume](relative-trade-volume.md), [relative price strength](relative-price-strength.md), and fundamental comparisons like earnings quality and revenue growth.
+- **Complementary Metrics:** Most effective when combined with [money flow](/risk/technicals/money-flow.md) baseline analysis, [relative trade volume](/risk/technicals/relative-trade-volume.md), [relative price strength](/risk/technicals/relative-price-strength.md), and fundamental comparisons like earnings quality and revenue growth.
 - **Reference Data:** You can compare CMF across peer groups using screening tools on platforms like Finviz or StockCharts to identify relative accumulation and distribution patterns.
 
 ## Further Research

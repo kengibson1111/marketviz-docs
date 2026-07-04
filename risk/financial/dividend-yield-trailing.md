@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: Trailing Dividend Yield
+description: How historical yield reveals dividend traps, sustainability, and relative valuation
+tags: [financial, dividends, yield, income]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Trailing Dividend Yield: Investment Risk
 
 Trailing dividend yield is primarily used to measure the historical cash-on-cash return a stock has delivered. When analyzing investing risk, investors use this data to spot potential "yield traps" (unsustainably high yields caused by crashing stock prices), evaluate dividend reliability, and compare valuation levels against historical averages.

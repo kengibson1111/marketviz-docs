@@ -1,3 +1,11 @@
+---
+type: Technical Indicator
+title: Beta
+description: "How market sensitivity reveals systematic risk, portfolio volatility, and expected return requirements"
+tags: [technicals, systematic-risk, portfolio-volatility, CAPM]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Beta: Investment Risk
 
 Beta measures a stock's sensitivity to overall market movements (systematic risk), showing how much a stock's price fluctuates relative to a benchmark like the S&P 500. Investors use it to evaluate portfolio volatility, gauge individual stock risk, and calculate expected returns through the Capital Asset Pricing Model (CAPM). Because beta isolates market-driven risk from company-specific risk, it helps investors understand how much of a stock's movement is simply riding the broader market tide versus reflecting its own fundamentals.
@@ -47,7 +55,7 @@ Investors use beta to engineer a portfolio's overall market sensitivity to match
 - **Benchmark Dependency:** Beta is only meaningful relative to its chosen benchmark. A stock compared to the S&P 500 may behave very differently when measured against a sector-specific index.
   - *How to address:* For sector-concentrated portfolios, calculate beta against the relevant sector ETF (e.g., XLK for tech, XLE for energy) rather than the S&P 500. This isolates sector-specific sensitivity from broad market moves and gives a more actionable risk measure.
 - **Ignores Company-Specific Risk:** Beta captures only systematic (market-wide) risk. It tells you nothing about risks unique to the company such as management quality, litigation, or product failures.
-  - *How to address:* Supplement beta with fundamental risk indicators: [debt-to-equity](../financial/debt-to-equity.md) for leverage risk, [earnings stability](../earnings/earnings-stability.md) for operational consistency, and [insider activity](../experts/insider-activity.md) for management confidence. Beta can't warn you about an accounting scandal or a product recall.
+  - *How to address:* Supplement beta with fundamental risk indicators: [debt-to-equity](/risk/financial/debt-to-equity.md) for leverage risk, [earnings stability](/risk/earnings/earnings-stability.md) for operational consistency, and [insider activity](/risk/experts/insider-activity.md) for management confidence. Beta can't warn you about an accounting scandal or a product recall.
 - **Time Period Sensitivity:** Beta values vary depending on the measurement window (1 year vs. 5 years) and data frequency (daily vs. weekly returns), potentially giving conflicting signals.
   - *How to address:* Use a consistent measurement methodology when comparing stocks. If your data source uses 5-year monthly beta, compare all candidates on that same basis. Be aware that shorter windows reflect recent behavior while longer windows smooth out anomalies — choose based on your investment horizon.
 

@@ -1,3 +1,11 @@
+---
+type: Expert Signal
+title: Industry Relative Strength
+description: "How industry-peer comparison reveals hidden laggards, validates breakouts, filters market noise, and identifies overbought traps"
+tags: [experts, industry, relative-strength, comparison]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Industry Relative Strength: Investment Risk
 
 Industry relative strength measures how a stock performs against its direct industry competitors — the companies fighting for the same customers, navigating the same regulations, and reporting on the same demand cycles. Unlike broader sector comparisons, industry-level analysis isolates competitive positioning within a narrow peer set where business models, cost structures, and growth drivers are closely aligned. For retail investors, this granularity reveals whether a stock is winning or losing against its most relevant rivals, exposing risks that sector-wide views obscure.
@@ -72,7 +80,7 @@ Some industries exhibit power-law economics where the leading company captures d
 - **Layering with Sector Relative Strength:** Industry relative strength is most powerful when combined with sector-level analysis. A stock showing strength against both its industry peers and its broader sector is displaying multi-level leadership — a higher-conviction signal than either metric alone.
 - **Earnings Season Diagnostics:** Use industry relative strength immediately after earnings reports to quickly diagnose whether results are company-specific or industry-driven, informing whether to hold, add, or exit.
 - **Concentration Risk in Portfolios:** If you hold multiple stocks within the same industry, monitor their relative strength against each other to ensure you are not doubling down on the weakest names while underweighting the winners.
-- **Complementary Metrics:** Combine with [earnings estimate revisions](earnings-estimates-revisions.md) (to confirm fundamental trajectory), [insider activity](insider-activity.md) (to verify management conviction), and [short interest](short-interest.md) (to gauge bearish sentiment) for a complete competitive-positioning picture.
+- **Complementary Metrics:** Combine with [earnings estimate revisions](/risk/experts/earnings-estimates-revisions.md) (to confirm fundamental trajectory), [insider activity](/risk/experts/insider-activity.md) (to verify management conviction), and [short interest](/risk/experts/short-interest.md) (to gauge bearish sentiment) for a complete competitive-positioning picture.
 - **Reference Data:** Investors track industry relative strength using ratio charts — dividing a stock's price by its industry ETF or sub-industry index — on platforms like StockCharts or TrendSpider.
 
 ## Further Research

@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: One-Month Return
+description: How short-term returns reveal volatility, momentum, and risk-adjusted performance
+tags: [financial, returns, volatility, momentum]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # One-Month Return: Investment Risk
 
 When analyzing investing risk, a stock's one-month return is primarily used to calculate short-term volatility, measure momentum, and screen for risk-adjusted performance.

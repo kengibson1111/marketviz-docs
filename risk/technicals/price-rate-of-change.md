@@ -1,3 +1,11 @@
+---
+type: Technical Indicator
+title: Price Rate of Change
+description: "How momentum velocity reveals overbought/oversold conditions, trend strength, and reversal risk"
+tags: [technicals, momentum, overbought-oversold, trend-reversal]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Price Rate of Change: Investment Risk
 
 The Price Rate of Change (ROC) is a momentum indicator that measures the speed at which a stock's price increases or decreases over a specific period, expressed as a percentage. Investors use ROC to assess risk by quantifying how fast a trend is accelerating or decelerating. Unlike indicators that only show direction, ROC reveals the velocity behind a move, helping investors determine whether momentum supports a position or warns of an impending reversal.
@@ -58,7 +66,7 @@ A positive result means the price is higher now than it was n periods ago (upwar
 
 - **Trend Confirmation:** Best used to validate whether momentum supports an entry or exit decision already suggested by fundamental analysis or other technical signals.
 - **Risk Timing:** Essential for identifying when a stock's price velocity has reached unsustainable levels, warning investors to tighten stops or reduce position size.
-- **Complementary Metrics:** Most effective when paired with [price strength](price-strength.md) analysis (for absolute trend context), volume confirmation, and valuation metrics to build a complete risk picture.
+- **Complementary Metrics:** Most effective when paired with [price strength](/risk/technicals/price-strength.md) analysis (for absolute trend context), volume confirmation, and valuation metrics to build a complete risk picture.
 - **Reference Data:** You can review ROC calculations and charting applications using Investopedia or Fidelity's indicator guides to see how thresholds are mapped in practice.
 
 ## Further Research

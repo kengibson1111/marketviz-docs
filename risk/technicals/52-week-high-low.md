@@ -1,3 +1,11 @@
+---
+type: Technical Indicator
+title: 52-Week High/Low
+description: "How the annual price range reveals volatility, support/resistance levels, and momentum risk"
+tags: [technicals, volatility, support-resistance, momentum]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # 52-Week High/Low: Investment Risk
 
 The 52-week high and low indicate a stock's historical trading range over the past year, acting as benchmarks for volatility, support and resistance, and momentum. Investors use these markers to identify price extremes and determine whether a stock is trading at a premium or a discount relative to its recent past. Because this metric captures an entire year of price action, it provides a quick snapshot of where a stock sits within its own historical context — helping you gauge whether the current price represents opportunity or elevated risk.
@@ -49,7 +57,7 @@ Academic research supports the idea that stocks near their 52-week highs tend to
 - **Context-Dependent:** A stock near its 52-week low is not automatically cheap — it may be cheap for a reason (declining earnings, sector headwinds). Similarly, a stock at its high is not automatically expensive if growth justifies the price.
   - *How to address:* Cross-reference with fundamentals: check recent earnings estimate revisions, revenue growth, and free cash flow trends. A stock near its low with rising estimates may be genuinely undervalued; one near its low with falling estimates is declining for good reason.
 - **Not a Standalone Metric:** The 52-week range provides context but lacks information about volume, institutional activity, or fundamental health. Always combine with other indicators.
-  - *How to address:* Pair with [money flow](money-flow.md) (CMF) to confirm whether institutional buying supports a bounce off the low, or with [trade volume](trade-volume.md) to confirm whether a breakout above the high has participation backing it.
+  - *How to address:* Pair with [money flow](/risk/technicals/money-flow.md) (CMF) to confirm whether institutional buying supports a bounce off the low, or with [trade volume](/risk/technicals/trade-volume.md) to confirm whether a breakout above the high has participation backing it.
 
 ## Contextual Usage
 

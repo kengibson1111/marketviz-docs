@@ -1,3 +1,11 @@
+---
+type: Technical Indicator
+title: Standard Deviation
+description: "How return dispersion quantifies price unpredictability, risk-adjusted performance, and portfolio volatility"
+tags: [technicals, volatility, risk-adjusted-returns, portfolio-construction]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Standard Deviation: Investment Risk
 
 Standard deviation measures the dispersion of a stock's historical returns around their average, quantifying how widely prices swing from their mean over a given period. A higher standard deviation indicates greater price fluctuation and, consequently, higher investment risk. Because it captures both upside and downside variation in a single number, standard deviation serves as a foundational building block for evaluating individual stock risk, constructing diversified portfolios, and calculating risk-adjusted performance metrics.
@@ -62,7 +70,7 @@ Standard deviation is the mathematical foundation for Bollinger Bands, a widely 
 
 - **Risk Tolerance Matching:** Best used to confirm that a stock's historical price behavior aligns with your personal comfort level for uncertainty before entering a position.
 - **Portfolio-Level Analysis:** Essential for evaluating how adding a new position will shift your portfolio's aggregate volatility and whether diversification benefits hold.
-- **Complementary Metrics:** Most effective when paired with [beta](beta.md) (to separate market-driven risk from stock-specific risk), the Sharpe ratio (to assess risk-adjusted returns), and fundamental health indicators like [earnings stability](../earnings/earnings-stability.md) and debt ratios.
+- **Complementary Metrics:** Most effective when paired with [beta](/risk/technicals/beta.md) (to separate market-driven risk from stock-specific risk), the Sharpe ratio (to assess risk-adjusted returns), and fundamental health indicators like [earnings stability](/risk/earnings/earnings-stability.md) and debt ratios.
 - **Reference Data:** You can find a stock's historical standard deviation and related volatility metrics on platforms like Yahoo Finance or Fidelity's Learning Center.
 
 ## Further Research

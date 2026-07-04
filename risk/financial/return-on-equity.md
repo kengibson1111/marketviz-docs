@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: Return on Equity
+description: What poor profit efficiency means for your investment
+tags: [financial, profitability, efficiency, equity]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Return on Equity: Investment Risk
 
 A stock investment with a low Return on Equity (ROE) is generally considered high risk. While it may suggest "safety" from a volatile price spike, it indicates the company struggles to generate profit from investor funds, often acting as a red flag for underlying issues like poor management, weak market demand, or excessive debt.
@@ -44,7 +52,7 @@ Always compare the ROE trend against industry peers. A company with a flat ROE i
 ## Key Risks and Limitations
 
 - **Debt-Amplified ROE:** Companies can artificially boost ROE by taking on excessive debt (which reduces the equity base). A high ROE driven by leverage masks underlying weakness and increases bankruptcy risk.
-  - *How to address:* Decompose ROE using the DuPont formula ($ROE = \text{Net Margin} \times \text{Asset Turnover} \times \text{Equity Multiplier}$). If the equity multiplier (leverage component) is the primary driver of a high ROE while margins are flat or declining, the return is debt-fueled rather than operational. Also check [debt-to-equity](debt-to-equity.md) — if leverage is well above sector norms, discount the ROE signal.
+  - *How to address:* Decompose ROE using the DuPont formula ($ROE = \text{Net Margin} \times \text{Asset Turnover} \times \text{Equity Multiplier}$). If the equity multiplier (leverage component) is the primary driver of a high ROE while margins are flat or declining, the return is debt-fueled rather than operational. Also check [debt-to-equity](/risk/financial/debt-to-equity.md) — if leverage is well above sector norms, discount the ROE signal.
 - **Backward-Looking:** Historical ROE reflects past performance and may not persist if the company's competitive position, margins, or capital structure are changing.
   - *How to address:* Check the ROE trend over 3–5 years and compare to forward earnings estimates. If ROE has been declining over multiple periods and analysts project further earnings weakness, don't assume historical levels will return. A rising trend is more predictive than a single high number.
 - **Sector Variability:** Capital-intensive industries structurally produce lower ROE due to their large asset bases. Comparing across sectors without normalization is misleading.

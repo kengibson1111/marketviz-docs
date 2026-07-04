@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: Free Cash Flow
+description: Why low cash generation signals danger
+tags: [financial, cash-flow, profitability, operations]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Free Cash Flow: Investment Risk
 
 A stock investment with low Free Cash Flow (FCF) carries moderate to high risk. FCF represents the cash a company generates after covering operating expenses and capital expenditures. Low FCF limits a company's ability to pay dividends, reduce debt, or fund growth without relying on external financing.
@@ -23,7 +31,7 @@ If a company's FCF is low or declining, watch out for these warning signs that i
 
 - **The "Value Trap":** The stock looks cheap on a basic price-to-earnings basis, but low cash generation prevents it from ever turning around.
 - **Divergence from Earnings:** If Net Income looks strong but Cash Flow is near zero, the company might be using aggressive accounting tactics.
-- **Rising Debt:** Low FCF forces a company to borrow money just to stay afloat or pay dividends, making them highly vulnerable to rising interest rates. Always check the [debt-to-equity ratio](debt-to-equity.md) alongside FCF.
+- **Rising Debt:** Low FCF forces a company to borrow money just to stay afloat or pay dividends, making them highly vulnerable to rising interest rates. Always check the [debt-to-equity ratio](/risk/financial/debt-to-equity.md) alongside FCF.
 
 ### 3. Industry Specifics
 
@@ -32,7 +40,7 @@ The acceptable level of FCF varies by sector. Capital-intensive industries (like
 ## Key Risks and Limitations
 
 - **Ignores Growth Phase:** Negative FCF is normal for high-growth companies reinvesting aggressively. Using FCF alone to judge these companies may cause you to miss legitimate opportunities.
-  - *How to address:* Check [revenue growth](../earnings/revenue-growth.md) rate alongside FCF. If revenue is growing 30%+ year-over-year and the company is investing in capacity, negative FCF may be a sign of scaling rather than weakness. Compare the company to peers at the same stage of growth to see if the burn rate is reasonable.
+  - *How to address:* Check [revenue growth](/risk/earnings/revenue-growth.md) rate alongside FCF. If revenue is growing 30%+ year-over-year and the company is investing in capacity, negative FCF may be a sign of scaling rather than weakness. Compare the company to peers at the same stage of growth to see if the burn rate is reasonable.
 - **Capital Expenditure Timing:** Large one-time investments (factory builds, acquisitions) can depress FCF temporarily without reflecting ongoing operational weakness.
   - *How to address:* Review capital expenditure over multiple years and separate maintenance capex (required to sustain operations) from growth capex (expansion investments). If FCF is low due to a single large investment, project what FCF will look like once that investment normalizes.
 - **Accounting Variability:** Companies classify certain expenditures differently between operating and investing activities, making cross-company FCF comparisons imperfect.

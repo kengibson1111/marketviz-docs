@@ -1,3 +1,11 @@
+---
+type: Technical Indicator
+title: Price Strength
+description: "How absolute momentum and trend direction reveal timing risk and overextension"
+tags: [technicals, momentum, trend-direction, moving-averages]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Price Strength: Investment Risk
 
 Price strength (absolute strength) measures a stock's momentum and directional velocity using historical price data. Investors use it to assess the risk of entering or holding a position by determining whether a stock's trend is sustainable, overextended, or breaking down. Unlike relative strength (which compares a stock to peers), absolute price strength focuses solely on the stock's own price behavior over time.
@@ -39,7 +47,7 @@ Absolute price strength provides objective, mathematically defined price levels 
 - **False Signals:** In choppy or sideways markets, price strength indicators frequently generate misleading buy or sell signals that can whipsaw investors.
   - *How to address:* During range-bound periods, widen your threshold for acting on moving average crossovers. Require the price to close decisively beyond a level for 2–3 consecutive days before treating it as a confirmed signal. Alternatively, use longer moving averages (200-day) that generate fewer but more reliable signals.
 - **Ignores Fundamentals:** Price strength tells you nothing about a company's financial health. A stock can show strong momentum while the underlying business deteriorates.
-  - *How to address:* Always validate price strength signals against fundamental data. If a stock shows strong momentum but [earnings estimates](../experts/earnings-estimates-revisions.md) are declining and [free cash flow](../financial/free-cash-flow.md) is negative, the technical signal may be reflecting speculative activity rather than sustainable demand. Use fundamentals as a veto on purely technical entry signals.
+  - *How to address:* Always validate price strength signals against fundamental data. If a stock shows strong momentum but [earnings estimates](/risk/experts/earnings-estimates-revisions.md) are declining and [free cash flow](/risk/financial/free-cash-flow.md) is negative, the technical signal may be reflecting speculative activity rather than sustainable demand. Use fundamentals as a veto on purely technical entry signals.
 
 ## Contextual Usage
 

@@ -1,3 +1,11 @@
+---
+type: Expert Signal
+title: Insider Activity
+description: "How legal insider buying and selling reveals executive confidence, management alignment, and corporate distress risk"
+tags: [experts, insiders, management, confidence]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Insider Activity: Investment Risk
 
 Insider activity tracks the legal buying and selling of company stock by executives, directors, and beneficial owners (those holding more than 10% of shares). Investors use these publicly disclosed transactions to gauge internal sentiment, verify executive confidence, and flag potential corporate governance issues. Because insiders possess deep knowledge of their company's operations and outlook, their trading behavior often serves as a forward-looking signal that helps retail investors assess whether a stock's risk profile is improving or deteriorating.
@@ -60,7 +68,7 @@ High executive turnover alongside heavy insider selling can be a red flag pointi
 
 - **Fundamental Confirmation:** Best used to validate or challenge your independent fundamental analysis — if you are bearish but insiders are aggressively buying, investigate what they may know that the market is missing.
 - **Cluster Activity Screening:** Focus on periods where three or more insiders transact in the same direction within a 30-day window for the highest-conviction signals.
-- **Complementary Metrics:** Most effective when paired with [earnings estimate revisions](earnings-estimates-revisions.md), [short interest](short-interest.md), [free cash flow](../financial/free-cash-flow.md) trends, and [debt-to-equity](../financial/debt-to-equity.md) to build a complete picture of forward-looking risk.
+- **Complementary Metrics:** Most effective when paired with [earnings estimate revisions](/risk/experts/earnings-estimates-revisions.md), [short interest](/risk/experts/short-interest.md), [free cash flow](/risk/financial/free-cash-flow.md) trends, and [debt-to-equity](/risk/financial/debt-to-equity.md) to build a complete picture of forward-looking risk.
 - **Reference Data:** You can track insider transactions on platforms like SEC EDGAR, Quiver Quantitative, or Nasdaq's insider activity pages.
 
 ## Further Research

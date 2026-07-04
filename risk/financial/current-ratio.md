@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: Current Ratio
+description: How short-term liquidity risk affects financial stability
+tags: [financial, liquidity, solvency, balance-sheet]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Current Ratio: Investment Risk
 
 The current ratio is a key liquidity metric that measures a company's ability to cover its short-term obligations due within one year using its short-term assets. A weak current ratio signals potential liquidity risk, meaning the company may struggle to meet its immediate financial commitments — a red flag for investors.

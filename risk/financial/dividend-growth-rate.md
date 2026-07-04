@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: Five-Year Dividend Growth Rate
+description: How dividend growth trends reveal financial stability and income risk
+tags: [financial, dividends, growth, income]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Five-Year Dividend Growth Rate: Investment Risk
 
 The five-year dividend growth rate is used to analyze investing risk by evaluating a company's financial stability, inflation-adjusted total returns, and management's commitment to shareholders. It acts as an indicator of corporate maturity and protects against "yield traps".

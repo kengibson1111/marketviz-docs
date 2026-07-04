@@ -1,6 +1,14 @@
+---
+type: Technical Indicator
+title: Relative Price Change
+description: "How stock returns compared to peers and the S&P 500 reveal whether individual ownership justifies its risk over passive index investing"
+tags: [technicals, peer-comparison, benchmark, opportunity-cost]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Relative Price Change: Investment Risk
 
-Relative price change compares a stock's price return against both its direct competitors and the S&P 500 benchmark over identical time periods. While [relative price strength](relative-price-strength.md) focuses on peer-to-peer comparison within a sector, relative price change adds a critical benchmark layer by measuring whether a stock's return justifies the additional risk of individual stock ownership over simply holding a broad market index fund. Investors use it to quantify opportunity cost, evaluate risk-adjusted alpha generation, and determine whether stock-specific risk is being adequately compensated.
+Relative price change compares a stock's price return against both its direct competitors and the S&P 500 benchmark over identical time periods. While [relative price strength](/risk/technicals/relative-price-strength.md) focuses on peer-to-peer comparison within a sector, relative price change adds a critical benchmark layer by measuring whether a stock's return justifies the additional risk of individual stock ownership over simply holding a broad market index fund. Investors use it to quantify opportunity cost, evaluate risk-adjusted alpha generation, and determine whether stock-specific risk is being adequately compensated.
 
 ## Questions This Answers
 
@@ -62,7 +70,7 @@ Relative price change provides objective criteria for determining when active st
 - **Ownership Justification:** Best used as a periodic check on whether each individual stock position is earning its place in a portfolio relative to the effort-free alternative of index investing.
 - **Stock Selection Validation:** Essential for confirming that outperformance is both peer-leading and benchmark-beating, not just one or the other.
 - **Exit Criteria:** Provides objective, quantitative thresholds for when individual stock ownership has failed to justify its risk and a switch to passive exposure is warranted.
-- **Complementary Metrics:** Most effective when paired with [relative price strength](relative-price-strength.md) (for peer-only context), [price rate of change](price-rate-of-change.md) (for absolute momentum), and risk-adjusted measures like the Sharpe ratio to account for volatility differences.
+- **Complementary Metrics:** Most effective when paired with [relative price strength](/risk/technicals/relative-price-strength.md) (for peer-only context), [price rate of change](/risk/technicals/price-rate-of-change.md) (for absolute momentum), and risk-adjusted measures like the Sharpe ratio to account for volatility differences.
 - **Reference Data:** You can compare stock returns against the S&P 500 and peers using platforms like Yahoo Finance comparison charts, Portfolio Visualizer, or StockCharts PerfCharts to evaluate relative price change across multiple time horizons.
 
 ## Further Research

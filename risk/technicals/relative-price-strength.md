@@ -1,6 +1,14 @@
+---
+type: Technical Indicator
+title: Relative Price Strength
+description: "How peer price performance comparison reveals sector leadership, rotation, and allocation risk"
+tags: [technicals, peer-comparison, sector-leadership, rotation]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Relative Price Strength: Investment Risk
 
-Relative price strength compares a stock's price performance against its direct competitors, sector, or a broad benchmark over the same time period. While [price strength](price-strength.md) measures a stock's own momentum and trend direction in isolation, relative price strength reveals whether a stock is winning or losing the market's preference compared to alternatives. Investors use it to identify sector leaders, detect rotation patterns, and avoid holding underperformers that the market is actively discounting.
+Relative price strength compares a stock's price performance against its direct competitors, sector, or a broad benchmark over the same time period. While [price strength](/risk/technicals/price-strength.md) measures a stock's own momentum and trend direction in isolation, relative price strength reveals whether a stock is winning or losing the market's preference compared to alternatives. Investors use it to identify sector leaders, detect rotation patterns, and avoid holding underperformers that the market is actively discounting.
 
 ## Questions This Answers
 
@@ -50,7 +58,7 @@ Relative price strength forces investors to confront whether their capital is de
 
 - **Stock Selection:** Best used to choose between competing investment options within a sector by favoring those the market is already rewarding with capital inflows.
 - **Risk Timing:** Essential for identifying when a holding's market position is deteriorating relative to alternatives, often providing earlier exit signals than absolute price analysis alone.
-- **Complementary Metrics:** Most effective when paired with [relative volume](relative-volume.md) analysis (to confirm that price leadership is backed by volume participation), [price strength](price-strength.md) (for absolute trend context), and fundamental metrics like earnings growth and revenue trends.
+- **Complementary Metrics:** Most effective when paired with [relative volume](/risk/technicals/relative-trade-volume.md) analysis (to confirm that price leadership is backed by volume participation), [price strength](/risk/technicals/price-strength.md) (for absolute trend context), and fundamental metrics like earnings growth and revenue trends.
 - **Reference Data:** You can compare price performance across peer groups using tools like Finviz relative performance charts, StockCharts PerfCharts, or Yahoo Finance comparison views to evaluate relative price strength trends.
 
 ## Further Research

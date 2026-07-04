@@ -1,3 +1,11 @@
+---
+type: Earnings Metric
+title: Normalized EPS
+description: How adjusted earnings per share reveal sustainable profitability and valuation risk
+tags: [earnings, eps, normalized, valuation]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Normalized EPS: Investment Risk
 
 Normalized EPS (Earnings Per Share) is used to measure sustainable, core profitability by stripping out "one-off" events, accounting anomalies, and the peaks and troughs of economic cycles.
@@ -13,7 +21,7 @@ Normalized EPS (Earnings Per Share) is used to measure sustainable, core profita
 
 ### Valuation & P/E Multiples
 
-You use normalized EPS to calculate a more accurate [Forward P/E Ratio](../financial/price-to-earnings-forward.md). A trailing P/E based on unadjusted earnings can artificially plummet if a company records a massive one-time gain.
+You use normalized EPS to calculate a more accurate [Forward P/E Ratio](/risk/financial/price-to-earnings-forward.md). A trailing P/E based on unadjusted earnings can artificially plummet if a company records a massive one-time gain.
 
 - **Where it's used:** Calculating forward and trailing P/E ratios with adjusted earnings figures.
 - **Risk context:** Normalizing the "E" prevents you from misinterpreting a stock as "cheap" when its low P/E is driven by a non-recurring event rather than genuine undervaluation.
@@ -46,13 +54,13 @@ Normalized EPS allows you to compare financial health across industry peers on a
 - **Over-Smoothing:** Averaging earnings over a cycle can mask genuine structural deterioration in a business.
   - *How to address:* Check the trend direction within the normalization window. If the most recent 2–3 years show declining as-reported EPS while the normalized figure remains flat, the smoothing may be hiding a real downturn. Cross-reference with revenue growth — falling revenue alongside stable normalized EPS is a warning sign.
 - **Management Bias:** Companies may selectively classify negative items as non-recurring while treating positive items as core, skewing the normalized figure in their favor.
-  - *How to address:* Review the "non-recurring" adjustments in the earnings footnotes over multiple quarters. If the same type of charge (e.g., restructuring costs, asset impairments) appears repeatedly, it is effectively recurring regardless of how management labels it. Earnings manipulation detection tools such as the Beneish M-Score, Sloan Accrual Ratio, and cash-flow variability analysis can help identify this pattern. See [Earnings Manipulation Detection](earnings-manipulation-detection.md) for details.
+  - *How to address:* Review the "non-recurring" adjustments in the earnings footnotes over multiple quarters. If the same type of charge (e.g., restructuring costs, asset impairments) appears repeatedly, it is effectively recurring regardless of how management labels it. Earnings manipulation detection tools such as the Beneish M-Score, Sloan Accrual Ratio, and cash-flow variability analysis can help identify this pattern. See [Earnings Manipulation Detection](/risk/earnings/earnings-manipulation-detection.md) for details.
 
 ## Contextual Usage
 
 - **Value Investing:** Essential for determining whether a stock is genuinely undervalued or temporarily inflated by non-recurring gains.
 - **Cyclical Sectors:** Critical for assessing companies in industries with volatile earnings patterns.
-- **Complementary Metrics:** Best used alongside [earnings stability](earnings-stability.md), [free cash flow](../financial/free-cash-flow.md), and [revenue growth](revenue-growth.md) to build a complete picture of fundamental risk.
+- **Complementary Metrics:** Best used alongside [earnings stability](/risk/earnings/earnings-stability.md), [free cash flow](/risk/financial/free-cash-flow.md), and [revenue growth](/risk/earnings/revenue-growth.md) to build a complete picture of fundamental risk.
 
 ## Further Research
 

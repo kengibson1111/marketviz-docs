@@ -1,3 +1,11 @@
+---
+type: Earnings Metric
+title: EPS Projections
+description: How forward EPS estimates reveal valuation risk, earnings volatility, and growth-adjusted pricing
+tags: [earnings, eps, projections, forward-looking]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # EPS Projections: Investment Risk
 
 Earnings Per Share (EPS) projections are used to measure a stock's forward-looking valuation, gauge earnings season volatility risk, evaluate growth-adjusted pricing, and model long-term financial health.
@@ -20,7 +28,7 @@ By dividing the current stock price by projected EPS, investors calculate a forw
 
 ### Price-to-Earnings-Growth (PEG) Ratio
 
-Investors use projected EPS growth rates to calculate the [PEG ratio](../financial/peg.md), which adjusts valuation for expected growth.
+Investors use projected EPS growth rates to calculate the [PEG ratio](/risk/financial/peg.md), which adjusts valuation for expected growth.
 
 - **Where it's used:** Dividing the forward P/E ratio by the projected EPS growth rate.
 - **Risk context:** A PEG over 1.0 or 2.0 may indicate the stock's price is higher than its expected growth warrants, highlighting a risk of overpaying for future earnings that may not be delivered.
@@ -34,7 +42,7 @@ Analysts create a "consensus" EPS projection (found on sites like Yahoo Finance 
 
 ### Discounted Cash Flow (DCF) Modeling
 
-Financial analysts use multi-year EPS projections as inputs in [DCF models](../financial/discounted-cash-flow.md) to determine the intrinsic fair value of a stock.
+Financial analysts use multi-year EPS projections as inputs in [DCF models](/risk/financial/discounted-cash-flow.md) to determine the intrinsic fair value of a stock.
 
 - **Where it's used:** Projecting future cash flows over 5–10 years and discounting them back to present value.
 - **Risk context:** This helps identify a margin of safety when investing. If the intrinsic value is significantly above the current price, downside risk is reduced. However, overly optimistic projections can create a false sense of safety.
@@ -53,9 +61,9 @@ Comparing expected EPS growth rates across different companies in the same indus
 - **Projection Accuracy Degrades Over Time:** Near-term (current quarter) EPS projections are more reliable than multi-year forecasts, which carry substantial uncertainty.
   - *How to address:* Weight near-term estimates more heavily in your analysis. For longer-term projections, focus on the direction and consistency of the trend rather than the exact numbers. Use scenario analysis (bull/bear/base case) instead of relying on a single point estimate.
 - **Revision Risk:** EPS projections are frequently revised. A downward revision trend signals deteriorating fundamentals, even if the absolute number still looks reasonable.
-  - *How to address:* Track the 30-day and 90-day revision trend for both current-year and next-year estimates. A pattern of declining revisions — even small ones — is an early warning. Cross-reference with [earnings estimate revisions](../experts/earnings-estimates-revisions.md) data and [insider activity](../experts/insider-activity.md) to confirm whether the deterioration is fundamental.
+  - *How to address:* Track the 30-day and 90-day revision trend for both current-year and next-year estimates. A pattern of declining revisions — even small ones — is an early warning. Cross-reference with [earnings estimate revisions](/risk/experts/earnings-estimates-revisions.md) data and [insider activity](/risk/experts/insider-activity.md) to confirm whether the deterioration is fundamental.
 - **One-Time Items:** Projections may not fully account for non-recurring charges or windfalls, distorting the earnings picture.
-  - *How to address:* Compare projected EPS to [normalized EPS](normalized-eps.md) and check whether the company has a history of recurring "one-time" charges. If non-recurring items have appeared in three or more of the last eight quarters, treat them as structurally recurring and adjust your expectations accordingly.
+  - *How to address:* Compare projected EPS to [normalized EPS](/risk/earnings/normalized-eps.md) and check whether the company has a history of recurring "one-time" charges. If non-recurring items have appeared in three or more of the last eight quarters, treat them as structurally recurring and adjust your expectations accordingly.
 
 ## Contextual Usage
 

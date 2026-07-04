@@ -1,6 +1,14 @@
+---
+type: Technical Indicator
+title: Relative Volume
+description: "How peer volume comparison reveals sector rotation, conviction differences, and relative liquidity risk"
+tags: [technicals, peer-comparison, volume, sector-rotation]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Relative Volume: Investment Risk
 
-Relative volume compares a stock's trading activity against its direct competitors or sector peers over the same time period. While [trade volume](trade-volume.md) analysis focuses on a stock's own historical baseline, relative volume reveals how market attention and capital are distributed across competing companies. Investors use it to detect sector rotation, gauge conviction during sell-offs, and benchmark liquidity against comparable stocks.
+Relative volume compares a stock's trading activity against its direct competitors or sector peers over the same time period. While [trade volume](/risk/technicals/trade-volume.md) analysis focuses on a stock's own historical baseline, relative volume reveals how market attention and capital are distributed across competing companies. Investors use it to detect sector rotation, gauge conviction during sell-offs, and benchmark liquidity against comparable stocks.
 
 ## Questions This Answers
 
@@ -52,7 +60,7 @@ Relative volume provides context for whether a stock's liquidity is appropriate 
 - **Sector Analysis:** Best used when evaluating whether a stock's momentum is company-specific or part of a broader sector trend before committing capital.
 - **Risk Differentiation:** Essential for understanding why the market treats one competitor differently from another during periods of stress or opportunity.
 - **Position Sizing:** Helps determine whether a stock's liquidity is sufficient relative to peers, informing how large a position can be managed without excessive slippage.
-- **Complementary Metrics:** Most effective when combined with [trade volume](trade-volume.md) baseline analysis, price strength, and fundamental comparisons like revenue growth and earnings quality.
+- **Complementary Metrics:** Most effective when combined with [trade volume](/risk/technicals/trade-volume.md) baseline analysis, price strength, and fundamental comparisons like revenue growth and earnings quality.
 - **Reference Data:** You can compare volume across peer groups using screening tools on platforms like Finviz or Yahoo Finance sector views to identify relative volume anomalies.
 
 ## Further Research

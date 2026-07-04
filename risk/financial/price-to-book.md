@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: Price-to-Book Ratio
+description: The risk of paying a premium over asset value
+tags: [financial, valuation, assets, book-value]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Price-to-Book Ratio: Investment Risk
 
 Investing in a stock with a high Price-to-Book (P/B) ratio carries elevated risk because the stock is trading at a premium to its physical assets. It means the market has high expectations for future growth, leaving little margin for error; any shortfall in performance can cause the stock price to drop significantly.
@@ -23,12 +31,12 @@ Many modern companies rely on intellectual property, brand value, or massive use
 
 ### High Profitability
 
-A high P/B is justified if the company is generating massive [returns on its equity](return-on-equity.md) (ROE).
+A high P/B is justified if the company is generating massive [returns on its equity](/risk/financial/return-on-equity.md) (ROE).
 
 ## Key Risks and Limitations
 
 - **Intangible-Heavy Companies:** P/B is unreliable for companies whose value derives from intellectual property, brand, or network effects, as these assets are not reflected in book value.
-  - *How to address:* For companies with minimal tangible assets (tech, services, pharma), use alternative valuation metrics like [price-to-earnings](price-to-earnings.md), [price-to-sales](price-to-sales.md), or EV/EBITDA. If you do use P/B, check whether the company's ROE is high enough to justify the premium — a high P/B paired with consistently high ROE (20%+) is more defensible.
+  - *How to address:* For companies with minimal tangible assets (tech, services, pharma), use alternative valuation metrics like [price-to-earnings](/risk/financial/price-to-earnings.md), [price-to-sales](/risk/financial/price-to-sales.md), or EV/EBITDA. If you do use P/B, check whether the company's ROE is high enough to justify the premium — a high P/B paired with consistently high ROE (20%+) is more defensible.
 - **Accounting Distortions:** Share buybacks, accumulated depreciation, and goodwill write-downs can dramatically alter the book value denominator without any change in the company's actual productive capacity.
   - *How to address:* Look at tangible book value (book value minus goodwill and intangibles) for a cleaner picture. Also check whether book value has been artificially reduced by aggressive buybacks — if equity is near zero or negative due to buybacks, P/B becomes meaningless and other valuation tools should replace it.
 - **Sector Applicability:** The metric is most meaningful for asset-heavy industries (banking, manufacturing, real estate) and often misleading for asset-light sectors (technology, services).

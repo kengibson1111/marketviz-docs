@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: PEG Ratio
+description: The risk of overpaying for growth that may not materialize
+tags: [financial, valuation, growth, earnings]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # PEG Ratio: Investment Risk
 
 The Price/Earnings-to-Growth (PEG) ratio is used to analyze risk by determining if a stock's valuation is justified by its expected earnings growth. It helps investors identify valuation risk, specifically the risk of overpaying for a high-growth company that may not sustain its projected performance.
@@ -20,11 +28,11 @@ The Price/Earnings-to-Growth (PEG) ratio is used to analyze risk by determining 
 While the PEG ratio provides a more refined view than the standard P/E ratio, it introduces its own set of risks:
 
 - **Forecasting Risk:** The ratio relies on future earnings estimates, which are inherently speculative and often inaccurate.
-  - *How to address:* Check the historical accuracy of analyst estimates for this specific company. If analysts have consistently overestimated growth in the past, apply a discount to the projected growth rate before calculating PEG. Also compare the analyst consensus growth rate to the company's actual [5-year historical CAGR](../earnings/five-year-cagr.md) for a reality check.
+  - *How to address:* Check the historical accuracy of analyst estimates for this specific company. If analysts have consistently overestimated growth in the past, apply a discount to the projected growth rate before calculating PEG. Also compare the analyst consensus growth rate to the company's actual [5-year historical CAGR](/risk/earnings/five-year-cagr.md) for a reality check.
 - **Sustainability Risk:** Extremely high growth rates used in the PEG formula are rarely sustainable over the long term.
   - *How to address:* Be skeptical of PEG ratios calculated with growth rates above 25–30%. For high-growth companies, recalculate PEG using a more conservative normalized growth rate (e.g., the average of the 5-year historical rate and the forward estimate) to see if the stock still looks attractive under realistic conditions.
 - **Fundamental Gaps:** PEG ignores critical risk indicators like debt levels, cash flow, and management quality.
-  - *How to address:* Always pair PEG with balance sheet health checks ([debt-to-equity](debt-to-equity.md), [interest coverage](interest-coverage-ratio.md)) and cash flow verification ([free cash flow](free-cash-flow.md) yield). A stock with PEG below 1.0 but declining free cash flow and rising debt may be a value trap rather than a bargain.
+  - *How to address:* Always pair PEG with balance sheet health checks ([debt-to-equity](/risk/financial/debt-to-equity.md), [interest coverage](/risk/financial/interest-coverage-ratio.md)) and cash flow verification ([free cash flow](/risk/financial/free-cash-flow.md) yield). A stock with PEG below 1.0 but declining free cash flow and rising debt may be a value trap rather than a bargain.
 
 ## Contextual Usage
 

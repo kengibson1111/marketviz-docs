@@ -1,3 +1,11 @@
+---
+type: Financial Metric
+title: Trailing Annual Dividend
+description: How past dividend payments reveal payout sustainability and dividend traps
+tags: [financial, dividends, income, yield]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Trailing Annual Dividend: Investment Risk
 
 The trailing annual dividend is primarily used in risk analysis to assess a company's historical payment capacity and to identify potential dividend traps. It serves as a grounded baseline of actual performance over the past 12 months, whereas forward-looking metrics are often based on estimates.

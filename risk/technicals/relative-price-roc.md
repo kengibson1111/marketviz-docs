@@ -1,6 +1,14 @@
+---
+type: Technical Indicator
+title: Relative Price Rate of Change
+description: "How peer momentum acceleration comparison reveals early rotation signals and emerging leadership"
+tags: [technicals, peer-comparison, momentum-acceleration, rotation]
+timestamp: 2025-06-15T00:00:00Z
+---
+
 # Relative Price Rate of Change: Investment Risk
 
-Relative price rate of change compares the acceleration of a stock's price movement against its direct competitors or sector peers over the same time period. While [price rate of change](price-rate-of-change.md) measures how fast a single stock's price is changing in isolation, relative ROC reveals which company's momentum is accelerating or decelerating fastest compared to alternatives. Investors use it to detect early rotation signals, identify emerging sector leaders before cumulative returns reflect the shift, and quantify whether a stock's momentum trajectory is diverging from its peer group.
+Relative price rate of change compares the acceleration of a stock's price movement against its direct competitors or sector peers over the same time period. While [price rate of change](/risk/technicals/price-rate-of-change.md) measures how fast a single stock's price is changing in isolation, relative ROC reveals which company's momentum is accelerating or decelerating fastest compared to alternatives. Investors use it to detect early rotation signals, identify emerging sector leaders before cumulative returns reflect the shift, and quantify whether a stock's momentum trajectory is diverging from its peer group.
 
 ## Questions This Answers
 
@@ -53,7 +61,7 @@ When a stock's ROC trajectory separates meaningfully from its peer group average
 
 - **Rotation Detection:** Best used to identify which stock within a peer group is gaining momentum fastest, providing earlier rotation signals than cumulative relative strength comparisons.
 - **Risk Timing:** Essential for detecting when a holding's acceleration is fading relative to alternatives, signaling that capital may be migrating before absolute price weakness appears.
-- **Complementary Metrics:** Most effective when paired with [relative price strength](relative-price-strength.md) (for cumulative return context), [price rate of change](price-rate-of-change.md) (for absolute momentum baseline), and [relative volume](relative-trade-volume.md) (to confirm that acceleration is backed by increasing participation).
+- **Complementary Metrics:** Most effective when paired with [relative price strength](/risk/technicals/relative-price-strength.md) (for cumulative return context), [price rate of change](/risk/technicals/price-rate-of-change.md) (for absolute momentum baseline), and [relative volume](/risk/technicals/relative-trade-volume.md) (to confirm that acceleration is backed by increasing participation).
 - **Reference Data:** You can compare ROC across peer groups by calculating the indicator on multiple tickers simultaneously using platforms like StockCharts, TradingView, or Yahoo Finance to identify relative acceleration divergences.
 
 ## Further Research
