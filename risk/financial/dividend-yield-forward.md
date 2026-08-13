@@ -3,7 +3,7 @@ type: Financial Metric
 title: Forward Dividend Yield
 description: How projected yield identifies dividend traps and gauges income sustainability
 tags: [financial, dividends, yield, income]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Forward Dividend Yield: Investment Risk

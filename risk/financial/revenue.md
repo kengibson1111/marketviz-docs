@@ -3,7 +3,7 @@ type: Financial Metric
 title: Revenue
 description: How top-line sales trends reveal growth and sustainability risks
 tags: [financial, revenue, growth, operations]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Revenue: Investment Risk

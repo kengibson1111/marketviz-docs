@@ -3,7 +3,7 @@ type: Technical Indicator
 title: Relative Price Rate of Change
 description: "How peer momentum acceleration comparison reveals early rotation signals and emerging leadership"
 tags: [technicals, peer-comparison, momentum-acceleration, rotation]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Relative Price Rate of Change: Investment Risk

@@ -3,7 +3,7 @@ type: Earnings Metric
 title: Normalized EPS
 description: How adjusted earnings per share reveal sustainable profitability and valuation risk
 tags: [earnings, eps, normalized, valuation]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Normalized EPS: Investment Risk

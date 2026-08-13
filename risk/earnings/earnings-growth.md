@@ -3,7 +3,7 @@ type: Earnings Metric
 title: Five-Year Earnings Growth
 description: How 5-year earnings growth reveals valuation risk and momentum sustainability
 tags: [earnings, growth, peg, valuation]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Five-Year Earnings Growth: Investment Risk

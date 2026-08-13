@@ -3,7 +3,7 @@ type: Earnings Metric
 title: Five-Year CAGR
 description: How compound annual growth rate contextualizes historical performance and sets realistic risk expectations
 tags: [earnings, growth, cagr, performance]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Five-Year CAGR: Investment Risk

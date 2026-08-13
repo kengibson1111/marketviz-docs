@@ -3,7 +3,7 @@ type: Financial Metric
 title: Three-Month Return
 description: How the 3-month Treasury yield serves as the risk-free rate in risk-adjusted models
 tags: [financial, returns, risk-free-rate, benchmark]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Three-Month Return: Investment Risk

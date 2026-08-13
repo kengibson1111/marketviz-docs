@@ -81,7 +81,7 @@ Plain-language summary explanations of stock data points and what they mean for 
 
 ## Format
 
-This repository conforms to the [Open Knowledge Format (OKF) v0.1](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) specification. Each concept file includes YAML frontmatter with structured metadata (`type`, `title`, `description`, `tags`, `timestamp`), and directories contain `index.md` files for progressive disclosure. Cross-links use absolute bundle-relative paths.
+This repository conforms to the [Open Knowledge Format (OKF) v0.2](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) specification. Each concept file includes YAML frontmatter with structured metadata (`type`, `title`, `description`, `tags`, `timestamp`), and directories contain `index.md` files for progressive disclosure. Cross-links use absolute bundle-relative paths.
 
 ## Usage
 

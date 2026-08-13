@@ -3,7 +3,7 @@ type: Earnings Metric
 title: Operating Leverage
 description: How fixed-cost structures amplify earnings volatility and downside risk
 tags: [earnings, leverage, volatility, cost-structure]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Operating Leverage: Investment Risk

@@ -3,7 +3,7 @@ type: Financial Metric
 title: Debt-to-Equity Ratio
 description: How heavy borrowing increases stock risk
 tags: [financial, leverage, debt, balance-sheet]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Debt-to-Equity Ratio: Investment Risk

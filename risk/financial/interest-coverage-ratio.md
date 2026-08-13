@@ -3,7 +3,7 @@ type: Financial Metric
 title: Interest Coverage Ratio
 description: When a company cannot cover its debt payments
 tags: [financial, debt, solvency, leverage]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Interest Coverage Ratio: Investment Risk

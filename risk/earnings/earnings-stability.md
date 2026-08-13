@@ -3,7 +3,7 @@ type: Earnings Metric
 title: Earnings Stability
 description: How profit consistency signals resilience, dividend safety, and lower fundamental risk
 tags: [earnings, stability, quality, dividends]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Earnings Stability: Investment Risk

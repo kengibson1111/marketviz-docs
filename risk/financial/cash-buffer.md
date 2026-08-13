@@ -3,7 +3,7 @@ type: Financial Metric
 title: Cash Buffer
 description: How cash reserves protect against downside risk and financial distress
 tags: [financial, liquidity, solvency, balance-sheet]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Cash Buffer: Investment Risk

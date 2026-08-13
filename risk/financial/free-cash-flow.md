@@ -3,7 +3,7 @@ type: Financial Metric
 title: Free Cash Flow
 description: Why low cash generation signals danger
 tags: [financial, cash-flow, profitability, operations]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Free Cash Flow: Investment Risk

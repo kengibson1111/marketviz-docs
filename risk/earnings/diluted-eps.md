@@ -3,7 +3,7 @@ type: Earnings Metric
 title: Diluted EPS
 description: How diluted earnings per share reveals worst-case profitability and dilution risk
 tags: [earnings, eps, dilution, valuation]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Diluted EPS: Investment Risk

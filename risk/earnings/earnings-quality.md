@@ -3,7 +3,7 @@ type: Earnings Metric
 title: Earnings Quality
 description: How earnings accuracy and cash-flow verification reveal overvaluation and accounting risk
 tags: [earnings, quality, cash-flow, accounting]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Earnings Quality: Investment Risk

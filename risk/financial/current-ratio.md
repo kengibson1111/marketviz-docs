@@ -3,7 +3,7 @@ type: Financial Metric
 title: Current Ratio
 description: How short-term liquidity risk affects financial stability
 tags: [financial, liquidity, solvency, balance-sheet]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Current Ratio: Investment Risk

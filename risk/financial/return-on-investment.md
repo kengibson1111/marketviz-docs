@@ -3,7 +3,7 @@ type: Financial Metric
 title: Return on Investment
 description: How one-year ROI is used to measure volatility and benchmark performance
 tags: [financial, returns, performance, benchmark]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Return on Investment: Investment Risk

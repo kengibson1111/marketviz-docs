@@ -3,7 +3,7 @@ type: Financial Metric
 title: Return on Equity
 description: What poor profit efficiency means for your investment
 tags: [financial, profitability, efficiency, equity]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Return on Equity: Investment Risk

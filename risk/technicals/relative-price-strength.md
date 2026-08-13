@@ -3,7 +3,7 @@ type: Technical Indicator
 title: Relative Price Strength
 description: "How peer price performance comparison reveals sector leadership, rotation, and allocation risk"
 tags: [technicals, peer-comparison, sector-leadership, rotation]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Relative Price Strength: Investment Risk

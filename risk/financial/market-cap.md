@@ -3,7 +3,7 @@ type: Financial Metric
 title: Market Capitalization
 description: How company size relates to volatility and resilience
 tags: [financial, size, volatility, portfolio]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Market Capitalization: Investment Risk

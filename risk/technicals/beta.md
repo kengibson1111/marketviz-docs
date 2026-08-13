@@ -3,7 +3,7 @@ type: Technical Indicator
 title: Beta
 description: "How market sensitivity reveals systematic risk, portfolio volatility, and expected return requirements"
 tags: [technicals, systematic-risk, portfolio-volatility, CAPM]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Beta: Investment Risk

@@ -3,7 +3,7 @@ type: Expert Signal
 title: Short Interest
 description: "Measures shares sold short but not yet covered, used to gauge bearish sentiment, short squeeze risk, and validate fundamental research"
 tags: [experts, short-selling, sentiment, bearish]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Short Interest: Investment Risk

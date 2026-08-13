@@ -3,7 +3,7 @@ type: Technical Indicator
 title: Trade Volume
 description: "How trading volume reveals liquidity risk, trend conviction, and manipulation exposure"
 tags: [technicals, volume, liquidity, trend-confirmation]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Trade Volume: Investment Risk

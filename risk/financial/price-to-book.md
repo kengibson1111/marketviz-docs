@@ -3,7 +3,7 @@ type: Financial Metric
 title: Price-to-Book Ratio
 description: The risk of paying a premium over asset value
 tags: [financial, valuation, assets, book-value]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Price-to-Book Ratio: Investment Risk

@@ -3,7 +3,7 @@ type: Financial Metric
 title: Free Cash Flow to Equity
 description: How FCFE reveals dividend sustainability, shareholder yield, and equity-level risk
 tags: [financial, cash-flow, equity, dividends]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Free Cash Flow to Equity: Investment Risk

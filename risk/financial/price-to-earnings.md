@@ -3,7 +3,7 @@ type: Financial Metric
 title: Price-to-Earnings Ratio
 description: How valuation risk emerges when earnings expectations are too high
 tags: [financial, valuation, earnings, multiples]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Price-to-Earnings Ratio: Investment Risk

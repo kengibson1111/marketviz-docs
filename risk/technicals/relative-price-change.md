@@ -3,7 +3,7 @@ type: Technical Indicator
 title: Relative Price Change
 description: "How stock returns compared to peers and the S&P 500 reveal whether individual ownership justifies its risk over passive index investing"
 tags: [technicals, peer-comparison, benchmark, opportunity-cost]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Relative Price Change: Investment Risk

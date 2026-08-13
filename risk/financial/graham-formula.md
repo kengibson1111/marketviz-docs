@@ -3,7 +3,7 @@ type: Financial Metric
 title: Graham Formula
 description: How intrinsic value and the Graham Number establish a margin of safety against overpaying
 tags: [financial, valuation, intrinsic-value, value-investing]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Graham Formula: Investment Risk

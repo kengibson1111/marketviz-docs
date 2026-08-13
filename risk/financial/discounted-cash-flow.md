@@ -3,7 +3,7 @@ type: Financial Metric
 title: Discounted Cash Flow
 description: How DCF modeling estimates intrinsic value and quantifies valuation risk
 tags: [financial, valuation, intrinsic-value, cash-flow]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Discounted Cash Flow: Investment Risk

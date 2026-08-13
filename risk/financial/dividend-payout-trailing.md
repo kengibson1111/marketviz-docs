@@ -3,7 +3,7 @@ type: Financial Metric
 title: Trailing Dividend Payout Ratio
 description: How historical dividend payouts reveal payout consistency and yield traps
 tags: [financial, dividends, payout, sustainability]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Trailing Dividend Payout Ratio: Investment Risk

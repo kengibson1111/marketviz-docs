@@ -3,7 +3,7 @@ type: Financial Metric
 title: Price-to-Sales Ratio
 description: Why high revenue multiples leave no room for error
 tags: [financial, valuation, revenue, multiples]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Price-to-Sales Ratio: Investment Risk

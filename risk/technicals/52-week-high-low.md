@@ -3,7 +3,7 @@ type: Technical Indicator
 title: 52-Week High/Low
 description: "How the annual price range reveals volatility, support/resistance levels, and momentum risk"
 tags: [technicals, volatility, support-resistance, momentum]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # 52-Week High/Low: Investment Risk

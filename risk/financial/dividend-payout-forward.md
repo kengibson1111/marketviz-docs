@@ -3,7 +3,7 @@ type: Financial Metric
 title: Forward Dividend Payout Ratio
 description: How the ratio of projected dividends to earnings reveals dividend sustainability and traps
 tags: [financial, dividends, payout, sustainability]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Forward Dividend Payout Ratio: Investment Risk

@@ -3,7 +3,7 @@ type: Technical Indicator
 title: Relative Volume
 description: "How peer volume comparison reveals sector rotation, conviction differences, and relative liquidity risk"
 tags: [technicals, peer-comparison, volume, sector-rotation]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Relative Volume: Investment Risk

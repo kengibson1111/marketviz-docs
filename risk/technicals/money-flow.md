@@ -3,7 +3,7 @@ type: Technical Indicator
 title: Money Flow (Chaikin Money Flow)
 description: "How volume-weighted accumulation and distribution reveal trend strength, breakout validity, and institutional selling pressure"
 tags: [technicals, accumulation-distribution, volume, institutional-activity]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Money Flow (Chaikin Money Flow): Investment Risk

@@ -3,7 +3,7 @@ type: Expert Signal
 title: Insider Activity
 description: "How legal insider buying and selling reveals executive confidence, management alignment, and corporate distress risk"
 tags: [experts, insiders, management, confidence]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Insider Activity: Investment Risk

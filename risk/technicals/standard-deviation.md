@@ -3,7 +3,7 @@ type: Technical Indicator
 title: Standard Deviation
 description: "How return dispersion quantifies price unpredictability, risk-adjusted performance, and portfolio volatility"
 tags: [technicals, volatility, risk-adjusted-returns, portfolio-construction]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Standard Deviation: Investment Risk

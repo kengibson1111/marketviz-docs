@@ -3,7 +3,7 @@ type: Earnings Metric
 title: Quarterly EPS (As-Reported)
 description: How multi-year as-reported quarterly EPS reveals accounting red flags, dilution trends, and cyclical risk
 tags: [earnings, eps, quarterly, forensic]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Quarterly EPS (As-Reported): Investment Risk

@@ -3,7 +3,7 @@ type: Technical Indicator
 title: Price Strength
 description: "How absolute momentum and trend direction reveal timing risk and overextension"
 tags: [technicals, momentum, trend-direction, moving-averages]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Price Strength: Investment Risk

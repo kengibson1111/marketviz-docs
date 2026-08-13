@@ -3,7 +3,7 @@ type: Expert Signal
 title: Earnings Estimate Revisions
 description: "How analyst forecast changes reveal fundamental momentum shifts, valuation risk, and earnings surprise exposure"
 tags: [experts, analysts, earnings, estimates]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Earnings Estimate Revisions: Investment Risk

@@ -3,7 +3,7 @@ type: Financial Metric
 title: Five-Year Dividend Growth Rate
 description: How dividend growth trends reveal financial stability and income risk
 tags: [financial, dividends, growth, income]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Five-Year Dividend Growth Rate: Investment Risk

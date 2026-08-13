@@ -3,7 +3,7 @@ type: Earnings Metric
 title: Five-Year Revenue Growth
 description: How 5-year revenue growth reveals sustainability, valuation expectations, and operational risk
 tags: [earnings, revenue, growth, sustainability]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Five-Year Revenue Growth: Investment Risk

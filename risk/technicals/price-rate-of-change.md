@@ -3,7 +3,7 @@ type: Technical Indicator
 title: Price Rate of Change
 description: "How momentum velocity reveals overbought/oversold conditions, trend strength, and reversal risk"
 tags: [technicals, momentum, overbought-oversold, trend-reversal]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Price Rate of Change: Investment Risk

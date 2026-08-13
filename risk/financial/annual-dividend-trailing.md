@@ -3,7 +3,7 @@ type: Financial Metric
 title: Trailing Annual Dividend
 description: How past dividend payments reveal payout sustainability and dividend traps
 tags: [financial, dividends, income, yield]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Trailing Annual Dividend: Investment Risk

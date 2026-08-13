@@ -3,7 +3,7 @@ type: Financial Metric
 title: Free Cash Flow to Firm
 description: How FCFF reveals valuation accuracy, debt risk, and fundamental quality
 tags: [financial, cash-flow, valuation, enterprise-value]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Free Cash Flow to Firm: Investment Risk

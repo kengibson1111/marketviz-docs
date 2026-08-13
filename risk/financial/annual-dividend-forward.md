@@ -3,7 +3,7 @@ type: Financial Metric
 title: Forward Annual Dividend
 description: How projected dividends reveal income stability and valuation risk
 tags: [financial, dividends, income, yield]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Forward Annual Dividend: Investment Risk

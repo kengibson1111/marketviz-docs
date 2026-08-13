@@ -3,7 +3,7 @@ type: Expert Signal
 title: Sector Relative Strength
 description: "How sector-relative performance reveals true leadership, isolates systemic vs. company-specific risk, and identifies momentum-based entry points"
 tags: [experts, sector, relative-strength, rotation]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Sector Relative Strength: Investment Risk

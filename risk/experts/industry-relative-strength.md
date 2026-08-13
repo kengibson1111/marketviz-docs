@@ -3,7 +3,7 @@ type: Expert Signal
 title: Industry Relative Strength
 description: "How industry-peer comparison reveals hidden laggards, validates breakouts, filters market noise, and identifies overbought traps"
 tags: [experts, industry, relative-strength, comparison]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Industry Relative Strength: Investment Risk

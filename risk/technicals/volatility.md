@@ -3,7 +3,7 @@ type: Technical Indicator
 title: Volatility
 description: "How price fluctuation magnitude reveals uncertainty, portfolio risk, and options pricing expectations"
 tags: [technicals, volatility, portfolio-risk, options-pricing]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Volatility: Investment Risk

@@ -3,7 +3,7 @@ type: Earnings Metric
 title: EPS Projections
 description: How forward EPS estimates reveal valuation risk, earnings volatility, and growth-adjusted pricing
 tags: [earnings, eps, projections, forward-looking]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # EPS Projections: Investment Risk

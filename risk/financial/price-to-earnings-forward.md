@@ -3,7 +3,7 @@ type: Financial Metric
 title: Forward Price-to-Earnings Ratio
 description: How forward valuation risk increases when growth expectations are too aggressive
 tags: [financial, valuation, earnings, forward-looking]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Forward Price-to-Earnings Ratio: Investment Risk

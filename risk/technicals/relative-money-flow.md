@@ -3,7 +3,7 @@ type: Technical Indicator
 title: Relative Money Flow
 description: "How peer money flow comparison reveals selective accumulation, sector rotation, and institutional capital allocation"
 tags: [technicals, peer-comparison, accumulation-distribution, sector-rotation]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Relative Money Flow: Investment Risk

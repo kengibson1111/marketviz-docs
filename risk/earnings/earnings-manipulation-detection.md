@@ -3,7 +3,7 @@ type: Earnings Metric
 title: Earnings Manipulation Detection
 description: How independent tools like the Beneish M-Score and Sloan Accrual Ratio detect earnings distortion
 tags: [earnings, forensic, manipulation, accounting]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Earnings Manipulation Detection: Investment Risk

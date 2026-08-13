@@ -3,7 +3,7 @@ type: Financial Metric
 title: PEG Ratio
 description: The risk of overpaying for growth that may not materialize
 tags: [financial, valuation, growth, earnings]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # PEG Ratio: Investment Risk

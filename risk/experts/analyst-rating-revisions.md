@@ -3,7 +3,7 @@ type: Expert Signal
 title: Analyst Rating Revisions
 description: "How changes in analyst buy/hold/sell recommendations reveal sentiment shifts, fundamental risk, and valuation overshoot"
 tags: [experts, analysts, sentiment, ratings]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # Analyst Rating Revisions: Investment Risk

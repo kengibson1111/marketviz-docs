@@ -3,7 +3,7 @@ type: Financial Metric
 title: One-Month Return
 description: How short-term returns reveal volatility, momentum, and risk-adjusted performance
 tags: [financial, returns, volatility, momentum]
-timestamp: 2025-06-15T00:00:00Z
+generated: { by: human:kengibson1111, at: 2025-06-15T00:00:00Z }
 ---
 
 # One-Month Return: Investment Risk
