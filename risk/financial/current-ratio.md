@@ -86,7 +86,7 @@ $$\text{Quick Ratio} = \frac{\text{Cash} + \text{Short-Term Investments} + \text
 - **Timing Sensitivity:** The ratio is a point-in-time snapshot. Large debt maturities, seasonal revenue patterns, or recent capital raises can temporarily inflate or deflate the figure.
   - *How to address:* Track the current ratio over at least four quarters to identify the normal range and seasonal pattern. If the ratio swings significantly around quarter-end dates, check for seasonal debt drawdowns or large upcoming maturities.
 - **Does Not Capture Cash Flow:** A company can have a healthy current ratio while burning cash operationally if current assets are growing due to uncollected receivables rather than genuine liquidity.
-  - *How to address:* Cross-reference with operating cash flow and the accounts receivable aging schedule. If the current ratio is rising mainly because receivables are growing (not being collected), that's a warning sign of revenue recognition issues rather than genuine liquidity strength.
+  - *How to address:* Cross-reference with [operating cash flow](/risk/financial/operating-cash-flow.md) and the accounts receivable aging schedule. If the current ratio is rising mainly because receivables are growing (not being collected), that's a warning sign of revenue recognition issues rather than genuine liquidity strength.
 
 ## Further Research
 

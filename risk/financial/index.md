@@ -25,6 +25,7 @@ Investment risk metrics focused on valuation, liquidity, leverage, cash flow, an
 * [Free Cash Flow](/risk/financial/free-cash-flow.md) - Why low cash generation signals danger
 * [Free Cash Flow to Equity](/risk/financial/free-cash-flow-to-equity.md) - How FCFE reveals dividend sustainability, shareholder yield, and equity-level risk
 * [Free Cash Flow to Firm](/risk/financial/free-cash-flow-to-firm.md) - How FCFF reveals valuation accuracy, debt risk, and fundamental quality
+* [Operating Cash Flow](/risk/financial/operating-cash-flow.md) - How cash generated from core operations reveals business viability and earnings authenticity
 
 ## Profitability and Returns
 

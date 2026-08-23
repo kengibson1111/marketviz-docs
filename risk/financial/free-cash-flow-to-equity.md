@@ -42,7 +42,7 @@ Investors evaluate FCFE relative to the company's share price ($\text{FCFE per s
 ## Key Risks and Limitations
 
 - **Debt Distortion:** FCFE increases when a company takes on new debt (since net borrowings are added back). A rising FCFE driven by borrowing rather than operational improvement masks underlying weakness.
-  - *How to address:* Separate FCFE growth into its components: operating cash flow growth vs. net borrowing changes. If most of the FCFE increase comes from new debt issuance rather than higher operating cash flow, the improvement is artificial. Track operating cash flow independently as a cross-check.
+  - *How to address:* Separate FCFE growth into its components: [operating cash flow](/risk/financial/operating-cash-flow.md) growth vs. net borrowing changes. If most of the FCFE increase comes from new debt issuance rather than higher operating cash flow, the improvement is artificial. Track operating cash flow independently as a cross-check.
 - **Volatility Across Periods:** FCFE can swing dramatically quarter to quarter due to lumpy debt repayment schedules or capital expenditure timing, making single-period analysis unreliable.
   - *How to address:* Use a trailing 12-month (TTM) or 3-year average FCFE rather than a single quarter. This smooths the impact of lumpy payments and gives a more representative picture of the company's normal cash generation available to equity holders.
 - **Ignores Reinvestment Quality:** FCFE measures cash available to shareholders but does not assess whether the company's reinvestment decisions are generating adequate returns.

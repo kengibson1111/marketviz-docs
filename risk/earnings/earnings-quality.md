@@ -28,7 +28,7 @@ Traditional metrics like the [Price-to-Earnings](/risk/financial/price-to-earnin
 
 ### Cash Flow Verification
 
-Investors compare net income against Operating Cash Flow. A wide gap—such as high reported net income but low operating cash flow—flags risks like uncollected receivables or aggressive revenue recognition.
+Investors compare net income against [Operating Cash Flow](/risk/financial/operating-cash-flow.md). A wide gap—such as high reported net income but low operating cash flow—flags risks like uncollected receivables or aggressive revenue recognition.
 
 - **Where it's used:** Comparing net income to operating cash flow over multiple periods to detect divergence trends.
 - **Risk context:** Persistent gaps signal that reported profits may not convert to actual cash, increasing the risk of liquidity problems or future earnings restatements.

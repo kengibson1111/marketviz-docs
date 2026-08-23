@@ -37,7 +37,7 @@ An income statement includes both basic and diluted EPS. A multi-year quarterly 
 
 As-reported EPS ties directly into statutory net income, making it useful for verifying whether reported earnings translate into actual cash.
 
-- **Where it's used:** Analyzing the multi-year divergence between reported net income and operating cash flow.
+- **Where it's used:** Analyzing the multi-year divergence between reported net income and [operating cash flow](/risk/financial/operating-cash-flow.md).
 - **Risk context:** A consistent gap between reported earnings and cash flow can expose structural risks like aggressive revenue recognition, uncollected accounts receivable, or capitalized expenses that inflate reported profitability without generating real cash.
 
 ### Historical Baseline for Multiples
@@ -61,13 +61,13 @@ By mapping as-reported quarterly results over a multi-year period, analysts trac
 - **Accounting Standard Changes:** Shifts in GAAP/IFRS rules across reporting periods can create artificial discontinuities in the historical series.
   - *How to address:* When you spot a sudden jump or drop that coincides with a new reporting year, check whether the company disclosed an accounting standard adoption (e.g., ASC 606 revenue recognition or IFRS 16 lease accounting). Many filings restate prior periods for comparability — use restated figures when available.
 - **Cross-Border Comparisons:** Companies reporting under GAAP vs. IFRS may treat certain items differently, complicating direct peer comparisons of as-reported EPS.
-  - *How to address:* When comparing a GAAP-reporting company to an IFRS-reporting peer, focus on cash-flow-based metrics (free cash flow, operating cash flow) as a common denominator, since cash generation is less affected by accounting framework differences. Alternatively, use normalized EPS from a provider that reconciles both standards.
+  - *How to address:* When comparing a GAAP-reporting company to an IFRS-reporting peer, focus on cash-flow-based metrics ([free cash flow](/risk/financial/free-cash-flow.md), [operating cash flow](/risk/financial/operating-cash-flow.md)) as a common denominator, since cash generation is less affected by accounting framework differences. Alternatively, use normalized EPS from a provider that reconciles both standards.
 
 ## Contextual Usage
 
 - **Value Investing:** Essential for establishing whether a stock's historical earnings power justifies its current valuation multiple.
 - **Forensic Investing:** The primary tool for detecting patterns of aggressive accounting or recurring "exceptional" charges that erode long-term shareholder value.
-- **Complementary Metrics:** Best used alongside [diluted EPS](/risk/earnings/diluted-eps.md), [normalized EPS](/risk/earnings/normalized-eps.md), [free cash flow](/risk/financial/free-cash-flow.md), and operating cash flow to build a complete picture of earnings quality and risk.
+- **Complementary Metrics:** Best used alongside [diluted EPS](/risk/earnings/diluted-eps.md), [normalized EPS](/risk/earnings/normalized-eps.md), [free cash flow](/risk/financial/free-cash-flow.md), and [operating cash flow](/risk/financial/operating-cash-flow.md) to build a complete picture of earnings quality and risk.
 
 ## Further Research
 
