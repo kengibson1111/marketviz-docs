@@ -82,6 +82,14 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Sector Relative Strength](risk/experts/sector-relative-strength.md) | How sector-relative performance reveals true leadership, isolates systemic vs. company-specific risk, and identifies momentum-based entry points |
 | [Short Interest](risk/experts/short-interest.md) | Measures shares sold short but not yet covered, used to gauge bearish sentiment, short squeeze risk, and validate fundamental research. |
 
+## Playbooks
+
+Step-by-step analytical processes that combine multiple metrics into a structured decision framework.
+
+| Playbook | Description |
+|----------|-------------|
+| [P/E Multiple Validation](insights/playbook/pe-multiple-validation.md) | Determining whether a stock's P/E multiple is justified by its fundamentals — identifies overvalued stocks to avoid and overreactions that create opportunity |
+
 ## Format
 
 This repository conforms to the [Open Knowledge Format (OKF) v0.2](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) specification. Each concept file includes YAML frontmatter with structured metadata (`type`, `title`, `description`, `tags`, `timestamp`), and directories contain `index.md` files for progressive disclosure. Cross-links use absolute bundle-relative paths.
