@@ -72,6 +72,10 @@ The "E" in P/E must be trustworthy before you can judge the multiple. A stock ca
 
 Now assess whether the *multiple itself* — the premium or discount the market assigns — makes sense given what you found in Step 2.
 
+### A Note on PEG and Sector Context
+
+The [PEG ratio](/risk/financial/peg.md) (P/E ÷ expected earnings growth rate) is referenced throughout this step, but absolute PEG thresholds like "< 1.0 is cheap" are misleading without sector context. A PEG of 1.5 is reasonable for a high-quality tech compounder growing at 25%+, but expensive for a mature utility growing at 5%. The meaningful comparison is always the stock's PEG relative to its sector peers' PEG median. If most companies in the sector trade at a PEG of 1.8 and your target is at 1.2, that's a relative discount regardless of the absolute number.
+
 ### For High Multiples (P/E > sector median)
 
 A premium multiple is justified when the company demonstrably possesses one or more of:
@@ -84,14 +88,17 @@ A premium multiple is justified when the company demonstrably possesses one or m
 | Strong competitive moat | Gross margins >50%, pricing power, recurring revenue |
 | Low capital intensity | High [free cash flow](/risk/financial/free-cash-flow.md) conversion with minimal capex needs |
 | Visible growth runway | Large addressable market, early penetration stage |
+| Consistent capital return | Strong [dividend growth history](/risk/financial/dividend-growth-rate.md) (5+ years of consecutive raises) signals management confidence in durable earnings |
+| Intelligent share buybacks | Systematic repurchases that reduce share count over time, compounding EPS growth without requiring operational improvement — especially powerful when executed below intrinsic value |
 
 **Red flags that a high multiple is NOT justified:**
 - Growth is decelerating (revenue growth rate declining quarter over quarter)
 - Margins are compressing while revenue grows (buying growth, not earning it)
-- [PEG ratio](/risk/financial/peg.md) > 2.0 (paying far more than growth warrants)
+- [PEG ratio](/risk/financial/peg.md) well above sector peer PEG median (paying far more than growth warrants relative to comparable companies — see note below on PEG sector context)
 - [Earnings estimate revisions](/risk/experts/earnings-estimates-revisions.md) trending downward (analysts quietly retreating)
 - Heavy reliance on non-recurring items to hit earnings targets
 - [Debt-to-equity](/risk/financial/debt-to-equity.md) rising significantly (leveraging to maintain the illusion)
+- Dividend cut or suspension, or buyback program halted (management signaling reduced confidence in future cash flows)
 
 ### For Low Multiples (P/E < sector median)
 
@@ -113,6 +120,8 @@ A discount multiple is justified when the company shows:
 - The cause of the earnings miss is identifiable and transient (supply chain disruption, one-time charge, weather event, product launch timing)
 - [Insider activity](/risk/experts/insider-activity.md) shows buying (executives are signaling confidence with their own money)
 - [Short interest](/risk/experts/short-interest.md) is not elevated (bears aren't piling in)
+- Dividend was maintained or raised through the weak quarter ([dividend growth history](/risk/financial/dividend-growth-rate.md) intact — management is betting their own payout on recovery)
+- Share buyback program remains active or was accelerated during the dip (management views the lower price as a buying opportunity)
 
 ### Key Question
 
@@ -194,6 +203,7 @@ You've found:
 | Earnings Quality | [Earnings Quality](/risk/earnings/earnings-quality.md), [Operating Cash Flow](/risk/financial/operating-cash-flow.md), [Earnings Manipulation Detection](/risk/earnings/earnings-manipulation-detection.md) |
 | Earnings Power | [Earnings Growth](/risk/earnings/earnings-growth.md), [Five-Year CAGR](/risk/earnings/five-year-cagr.md), [Earnings Stability](/risk/earnings/earnings-stability.md), [Quarterly EPS](/risk/earnings/quarterly-eps.md) |
 | Growth Drivers | [Revenue Growth](/risk/earnings/revenue-growth.md), [Gross Profit Margin](/risk/financial/gross-profit-margin.md), [Free Cash Flow](/risk/financial/free-cash-flow.md) |
+| Capital Return | [Five-Year Dividend Growth Rate](/risk/financial/dividend-growth-rate.md), Share Buyback Activity (10-K / earnings releases) |
 | Analyst Sentiment | [Earnings Estimate Revisions](/risk/experts/earnings-estimates-revisions.md), [Analyst Rating Revisions](/risk/experts/analyst-rating-revisions.md) |
 | Risk Confirmation | [Debt-to-Equity](/risk/financial/debt-to-equity.md), [Interest Coverage](/risk/financial/interest-coverage-ratio.md), [Insider Activity](/risk/experts/insider-activity.md), [Short Interest](/risk/experts/short-interest.md) |
 | Relative Position | [Sector Relative Strength](/risk/experts/sector-relative-strength.md), [Industry Relative Strength](/risk/experts/industry-relative-strength.md) |
