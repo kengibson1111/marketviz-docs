@@ -19,6 +19,8 @@ Plain-language summary explanations of stock data points and what they mean for 
 | [Free Cash Flow to Equity](risk/financial/free-cash-flow-to-equity.md) | How FCFE reveals dividend sustainability, shareholder yield, and equity-level risk |
 | [Free Cash Flow to Firm](risk/financial/free-cash-flow-to-firm.md) | How FCFF reveals valuation accuracy, debt risk, and fundamental quality |
 | [Graham Formula](risk/financial/graham-formula.md) | How intrinsic value and the Graham Number establish a margin of safety against overpaying |
+| [Gross Profit](risk/financial/gross-profit.md) | How production efficiency and cost structure reveal fundamental business risk |
+| [Gross Profit Margin](risk/financial/gross-profit-margin.md) | How production margin trends reveal pricing power, cost risk, and competitive durability |
 | [Interest Coverage Ratio](risk/financial/interest-coverage-ratio.md) | When a company can't cover its debt payments |
 | [Market Cap](risk/financial/market-cap.md) | How company size relates to volatility and resilience |
 | [One-Month Return](risk/financial/one-month-return.md) | How short-term returns reveal volatility, momentum, and risk-adjusted performance |
