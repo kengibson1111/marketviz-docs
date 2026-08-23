@@ -31,7 +31,7 @@ Before judging whether a P/E is "high" or "low," you need a frame of reference.
 ### Compare to Benchmarks
 
 - **Own history:** Where does the current P/E sit relative to the stock's 5-year range? Top quartile = expensive. Bottom quartile = cheap or distressed.
-- **Sector peers:** Is the multiple above or below the industry median? A stock trading at 30x in a sector where peers average 18x needs a clear reason for the premium.
+- **Sector/industry peers:** Is the multiple above or below the sector/industry median? A stock trading at 30x in a sector/industry where peers average 18x needs a clear reason for the premium.
 - **Market-wide:** How does it compare to the S&P 500 average (~20–22x in normal conditions)? Significant deviations from the broad market multiple require justification.
 
 ### Key Question
@@ -46,7 +46,7 @@ The "E" in P/E must be trustworthy before you can judge the multiple. A stock ca
 
 ### Earnings Quality Check
 
-- Does [operating cash flow](/risk/financial/operating-cash-flow.md) confirm reported earnings? (OCF ≥ Net Income = healthy. OCF << Net Income = red flag.)
+- Does [operating cash flow](/risk/financial/operating-cash-flow.md) confirm reported earnings? (OCF ≥ Net Income = healthy. OCF < Net Income = red flag.)
 - What does the [earnings quality](/risk/earnings/earnings-quality.md) analysis show? Are earnings cash-backed or accrual-heavy?
 - Any flags from [earnings manipulation detection](/risk/earnings/earnings-manipulation-detection.md)? (Beneish M-Score above −1.78 warrants caution.)
 
@@ -72,9 +72,9 @@ The "E" in P/E must be trustworthy before you can judge the multiple. A stock ca
 
 Now assess whether the *multiple itself* — the premium or discount the market assigns — makes sense given what you found in Step 2.
 
-### A Note on PEG and Sector Context
+### A Note on PEG and Sector/Industry Context
 
-The [PEG ratio](/risk/financial/peg.md) (P/E ÷ expected earnings growth rate) is referenced throughout this step, but absolute PEG thresholds like "< 1.0 is cheap" are misleading without sector context. A PEG of 1.5 is reasonable for a high-quality tech compounder growing at 25%+, but expensive for a mature utility growing at 5%. The meaningful comparison is always the stock's PEG relative to its sector peers' PEG median. If most companies in the sector trade at a PEG of 1.8 and your target is at 1.2, that's a relative discount regardless of the absolute number.
+The [PEG ratio](/risk/financial/peg.md) (P/E ÷ expected earnings growth rate) is referenced throughout this step, but absolute PEG thresholds like "< 1.0 is cheap" are misleading without sector/industry context. A PEG of 1.5 is reasonable for a high-quality tech compounder growing at 25%+, but expensive for a mature utility growing at 5%. The meaningful comparison is always the stock's PEG relative to its sector/industry peers' PEG median. If most companies in the sector/industry trade at a PEG of 1.8 and your target is at 1.2, that's a relative discount regardless of the absolute number.
 
 ### For High Multiples (P/E > sector median)
 
@@ -94,7 +94,7 @@ A premium multiple is justified when the company demonstrably possesses one or m
 **Red flags that a high multiple is NOT justified:**
 - Growth is decelerating (revenue growth rate declining quarter over quarter)
 - Margins are compressing while revenue grows (buying growth, not earning it)
-- [PEG ratio](/risk/financial/peg.md) well above sector peer PEG median (paying far more than growth warrants relative to comparable companies — see note below on PEG sector context)
+- [PEG ratio](/risk/financial/peg.md) well above sector/industry peer PEG median (paying far more than growth warrants relative to comparable companies — see note above on PEG sector/industry context)
 - [Earnings estimate revisions](/risk/experts/earnings-estimates-revisions.md) trending downward (analysts quietly retreating)
 - Heavy reliance on non-recurring items to hit earnings targets
 - [Debt-to-equity](/risk/financial/debt-to-equity.md) rising significantly (leveraging to maintain the illusion)
@@ -167,7 +167,7 @@ Combine your findings from Steps 1–4:
 You've found:
 - P/E well above peers and own history
 - Growth decelerating or margins compressing
-- PEG > 2.0
+- PEG well above sector/industry peer PEG median
 - Earnings quality concerns or OCF divergence
 - No clear catalyst for further multiple expansion
 
@@ -187,7 +187,7 @@ You've found:
 ### Scenario C: Multiple Is Justified → NO EDGE
 
 You've found:
-- P/E aligns with growth rate (PEG near 1.0)
+- P/E aligns with growth rate (PEG near sector/industry peer PEG median)
 - Earnings quality, stability, and margins confirm the narrative
 - No transient catalyst creating a mispricing
 
