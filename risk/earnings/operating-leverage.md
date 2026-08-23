@@ -62,7 +62,7 @@ Costs fluctuate directly with sales volume. If sales drop, expenses decrease pro
 ## Key Metrics to Look For
 
 - **Degree of Operating Leverage (DOL):** Building on the earnings sensitivity concept above, DOL quantifies the exact multiplier between revenue changes and operating profit changes. A DOL above 2.0 signals high sensitivity — investors should expect amplified swings in both directions and size positions accordingly.
-- **Gross Margin:** Sectors with high gross margins (e.g., 40%–60%) retain more revenue after direct production costs, leaving greater profits available to cover fixed costs. These are prime candidates for operating leverage analysis because small volume changes translate into meaningful profit swings.
+- **[Gross Profit Margin](/risk/financial/gross-profit-margin.md):** Sectors with high gross margins (e.g., 40%–60%) retain more revenue after direct production costs, leaving greater profits available to cover fixed costs. These are prime candidates for operating leverage analysis because small volume changes translate into meaningful profit swings.
 
 ## Key Risks and Limitations
 

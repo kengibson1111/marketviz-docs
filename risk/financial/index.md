@@ -28,6 +28,8 @@ Investment risk metrics focused on valuation, liquidity, leverage, cash flow, an
 
 ## Profitability and Returns
 
+* [Gross Profit](/risk/financial/gross-profit.md) - How production efficiency and cost structure reveal fundamental business risk
+* [Gross Profit Margin](/risk/financial/gross-profit-margin.md) - How production margin trends reveal pricing power, cost risk, and competitive durability
 * [Return on Equity](/risk/financial/return-on-equity.md) - What poor profit efficiency means for your investment
 * [Return on Investment](/risk/financial/return-on-investment.md) - How one-year ROI is used to measure volatility and benchmark performance
 * [Revenue](/risk/financial/revenue.md) - How top-line sales trends reveal growth and sustainability risks
