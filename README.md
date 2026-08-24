@@ -88,7 +88,16 @@ Step-by-step analytical processes that combine multiple metrics into a structure
 
 | Playbook | Description |
 |----------|-------------|
+| [Cyclical Rotation](insights/playbook/cyclical-rotation.md) | Reading the business cycle, mapping to favored sectors, and screening for quality within them |
 | [P/E Multiple Validation](insights/playbook/pe-multiple-validation.md) | Determining whether a stock's P/E multiple is justified by its fundamentals — identifies overvalued stocks to avoid and overreactions that create opportunity |
+
+## References
+
+Lookup tables and static reference material used by playbooks and analysis.
+
+| Reference | Description |
+|-----------|-------------|
+| [Sector Cycle Map](insights/reference/sector-cycle-map.md) | Which sectors and industries historically outperform or underperform at each phase of the business cycle |
 
 ## Format
 
