@@ -148,6 +148,64 @@ A quick-reference ranking of how sensitive each sector is to the business cycle:
 
 ---
 
+## Structural Consideration: AI and Sector Rotation (2024–2026)
+
+The emergence of AI as a dominant investment theme has not changed the business cycle itself — economies still expand and contract based on credit conditions, employment, and monetary policy. However, AI has introduced structural distortions that affect how traditional sector rotation signals should be interpreted.
+
+### What AI Has Changed
+
+**Technology sector has split into two tiers:**
+
+The Information Technology sector no longer behaves as a single cyclical unit. AI infrastructure companies (semiconductor leaders, hyperscale cloud providers, data center REITs) are driven by a capital expenditure cycle that is largely decoupled from the traditional business cycle. Their spending is driven by competitive positioning and long-term strategic bets from a handful of companies with massive balance sheets — not by the same GDP sensitivity that drives traditional IT services and enterprise software.
+
+- **Implication for rotation:** "Overweight Technology in early expansion" is too blunt. Distinguish between AI infrastructure (which may outperform regardless of cycle phase while the buildout continues) and traditional IT (which still follows the historical early-cycle pattern).
+
+**Semiconductor cyclicality has a structural overlay:**
+
+Semiconductors were historically a textbook early-cycle play — tied to consumer electronics, PCs, and smartphone refresh cycles. AI demand has added a structural growth layer on top of the cyclical one. Data center and AI chips operate on a different demand timeline than consumer-facing chips.
+
+- **Implication for rotation:** Consumer semiconductor exposure still rotates with the cycle. AI/data center semiconductor exposure may remain strong even in late expansion or early contraction, as long as hyperscaler capex budgets hold.
+
+**Capex cycle decoupled from economy:**
+
+Historically, business IT spending was a reliable leading indicator — it fell before recessions and recovered early. AI infrastructure spending (2024–2026) has continued through rate hikes and slowdown fears in ways that traditional tech capex would not have. This is because the spenders (Microsoft, Google, Amazon, Meta) have balance sheets large enough to invest counter-cyclically.
+
+- **Implication for rotation:** The traditional signal "business capex declining → recession approaching" may understate the AI component, making the overall capex data look healthier than the underlying economy warrants. Separate AI-driven capex from traditional capex when reading the cycle.
+
+**Concentration risk distorts sector indices:**
+
+When a small number of AI-linked companies drive the majority of cap-weighted index returns, "sector outperformance" may not reflect the average company in that sector. A Technology sector return of +25% might really mean 5 AI companies gained 50% while 200 others were flat.
+
+- **Implication for rotation:** Use equal-weighted sector performance or sub-industry performance as a cross-check against cap-weighted signals. If cap-weighted Technology is outperforming but equal-weighted Technology is flat, the "sector rotation into tech" signal is really a single-theme concentration signal.
+
+**Industrials have an AI-adjacent layer:**
+
+Automation, robotics, electrical infrastructure (power for data centers), and cooling technology companies within Industrials now have an AI demand driver that didn't exist in prior cycles. These companies may behave more like AI beneficiaries than traditional cyclical industrials.
+
+- **Implication for rotation:** When screening Industrials for cyclical recovery positioning, distinguish between companies serving AI infrastructure buildout (which may already be in a structural uptrend) and traditional capital goods companies (which still follow the cycle).
+
+### What AI Has NOT Changed
+
+- Consumer Discretionary still depends on employment and confidence
+- Financials still depend on credit cycles and yield curves
+- Energy still depends on global demand and commodity pricing
+- Consumer Staples and Utilities remain defensive — AI does not make food or electricity demand cyclical
+- Highly leveraged companies still face refinancing risk in restrictive rate environments
+- The Federal Reserve still controls the dominant macro variable
+
+### How to Adjust the Framework
+
+1. **When the sector map says "favor Technology"** — differentiate between AI infrastructure (may already be extended regardless of cycle position) and traditional IT (where the cyclical logic still applies).
+2. **When reading capex indicators** — strip out AI-driven spending from headline numbers to get a cleaner cyclical signal.
+3. **When sector indices seem to contradict the cycle** — check whether concentration in a few AI names is distorting the signal. Use equal-weighted or sub-industry data.
+4. **Remember that all capex booms eventually cycle.** AI infrastructure spending will not grow linearly forever. When hyperscaler capex eventually decelerates (whether due to overbuilding, ROI scrutiny, or economic stress), the AI-infrastructure tier will rejoin the cyclical rotation framework — likely with high operating leverage working against it.
+
+### The Long-Term Productivity Question
+
+If AI genuinely increases productivity (fewer workers per unit of output), it could dampen the labor market tightening signal that historically precedes recessions. This remains speculative as of 2026 — productivity gains from transformative technologies typically take 5–10 years to show up in macroeconomic data. But it is the mechanism by which AI could eventually *lengthen* expansion phases and alter the traditional cycle timing assumptions. Monitor labor productivity data (output per hour worked) for early signs of this structural shift.
+
+---
+
 ## Further Research
 
 For historical data on sector performance by business cycle phase, see [Fidelity's Business Cycle Approach to Sector Investing](https://www.fidelity.com/viewpoints/investing-ideas/sector-investing-business-cycle). For academic foundations on cyclical rotation, review the [NBER Business Cycle Dating](https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions) methodology. The [S&P Global Sector Indices](https://www.spglobal.com/spdji/en/index-family/equity/us-equity/sp-sectors/) provide performance data for backtesting rotation strategies.

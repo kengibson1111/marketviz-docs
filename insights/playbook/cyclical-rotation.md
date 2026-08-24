@@ -182,8 +182,9 @@ Once you've identified quality candidates within favored sectors, run them throu
 - **Waiting for official confirmation.** The NBER declares recessions 6–12 months after they begin. By then, markets have already priced in the downturn and are pricing recovery. Act on leading indicators.
 - **Fighting the Fed.** If the Fed is aggressively cutting, don't stay short cyclicals. If the Fed is aggressively hiking, don't stay long rate-sensitive growth. Policy is the single most powerful force amplifying the cycle.
 - **Confusing sector performance with stock selection.** Being in the "right" sector with the "wrong" company (over-leveraged, poor management, weak margins) can still produce losses. Quality screening is non-negotiable.
-- **Assuming this cycle is exactly like the last one.** Use the historical patterns as a starting framework, then adjust for current structural differences (inflation regime, AI productivity gains, global trade dynamics, fiscal policy, etc.).
+- **Assuming this cycle is exactly like the last one.** Use the historical patterns as a starting framework, then adjust for current structural differences (inflation regime, AI productivity gains, global trade dynamics, fiscal policy, etc.). See the [AI structural consideration](/insights/reference/sector-cycle-map.md#structural-consideration-ai-and-sector-rotation-2024-2026) in the Sector Cycle Map for how AI specifically affects rotation assumptions.
 - **Binary thinking.** The cycle is a continuum, not a light switch. Shift allocations gradually based on weight of evidence rather than making dramatic all-or-nothing moves.
+- **Treating cap-weighted sector returns as rotation signals.** Concentration in a few AI-linked mega-caps can make "Technology outperforming" look like a broad sector rotation when it's really a single-theme trade. Use equal-weighted sector data or sub-industry performance as a cross-check.
 
 ---
 
