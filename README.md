@@ -97,6 +97,7 @@ Lookup tables and static reference material used by playbooks and analysis.
 
 | Reference | Description |
 |-----------|-------------|
+| [Bond Mechanics](insights/reference/bond-mechanics.md) | How Treasury and corporate bonds are issued, priced, and traded — and why credit spreads exist |
 | [Sector Cycle Map](insights/reference/sector-cycle-map.md) | Which sectors and industries historically outperform or underperform at each phase of the business cycle |
 
 ## Format
