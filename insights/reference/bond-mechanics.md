@@ -189,6 +189,51 @@ The risk: companies that lever up during tight-spread periods face painful refin
 
 ---
 
+## Commodity Prices and Long-Term Yields
+
+Long-term Treasury yields (10-year and 30-year) are highly sensitive to inflation expectations, and commodity prices — especially oil — are a major driver of those expectations. This creates a consistent relationship between oil and the long end of the yield curve.
+
+### The Transmission Mechanism
+
+Oil is a foundational input cost across the economy — transportation, manufacturing, petrochemicals, agriculture, and heating. When oil prices move sharply, expected future inflation moves with them, and long-term bond yields adjust:
+
+**When oil prices drop sharply:**
+
+1. Inflation expectations fall (cheaper energy flows through to lower expected consumer prices)
+2. The fixed coupon on a long-term bond becomes more valuable in real terms (less inflation to erode it)
+3. Investors buy long-term Treasuries, bidding up the price
+4. **Bond prices rise → long-term yields fall**
+
+**When oil prices spike:**
+
+1. Inflation expectations rise
+2. The fixed coupon on a long-term bond loses real value (inflation erodes it)
+3. Investors sell long-term Treasuries
+4. **Bond prices fall → long-term yields rise**
+
+### Note on Direction
+
+A common point of confusion: when the 30-year Treasury sees increased demand (as during an oil-price collapse), its *price* rises but its *yield falls*. Lower long-term yields then translate into easier financial conditions across the economy — lower mortgage rates (which track the 10Y and 30Y), and lower corporate borrowing costs (since credit spreads are priced *over* Treasuries). The Fed hasn't done anything; the bond market has repriced on its own.
+
+### Why the Reason for the Oil Move Matters
+
+The same yield movement can mean very different things depending on *why* oil moved:
+
+| Oil Decline Driver | What It Signals | Cyclical Interpretation |
+|-------------------|-----------------|------------------------|
+| **Supply glut** (e.g., OPEC+ overproduction, new drilling capacity, 2014–2016) | Lower yields are a pure inflation-expectations adjustment. The economy may be perfectly healthy. | Neutral to positive — cheaper energy is a tailwind for consumers and most sectors |
+| **Demand destruction** (e.g., 2008 financial crisis, early 2020 pandemic) | Oil falls *because* economic activity is collapsing. Yields fall as a recession/deflation signal. | Negative — a warning that the cycle is rolling over |
+
+This distinction is critical for the [Cyclical Rotation Playbook](/insights/playbook/cyclical-rotation.md). A yield decline driven by an oil supply glut supports risk-taking; a yield decline driven by demand destruction is a defensive signal. Always ask *why* oil moved before interpreting the yield response.
+
+### Practical Watchpoints
+
+- Monitor oil ([WTI](https://fred.stlouisfed.org/series/DCOILWTICO) or Brent) alongside the [10-year](https://fred.stlouisfed.org/series/DGS10) and [30-year](https://fred.stlouisfed.org/series/DGS30) Treasury yields
+- The [5-Year, 5-Year Forward Inflation Expectation Rate](https://fred.stlouisfed.org/series/T5YIFR) is the cleanest market-based gauge of the inflation expectations that link oil to yields
+- Energy-sector companies are affected directly by oil prices; rate-sensitive sectors (real estate, utilities, high-multiple growth) are affected indirectly through the yield channel
+
+---
+
 ## How This Connects to Stock Analysis
 
 Understanding bond mechanics directly supports several investment assessments:
